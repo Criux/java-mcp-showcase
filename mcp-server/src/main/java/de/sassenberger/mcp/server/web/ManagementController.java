@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 
 /**
  * Read-only management interface of the MCP server (FreeMarker).
@@ -16,6 +17,7 @@ public class ManagementController {
     private final ToolCatalog toolCatalog;
     private final TriathlonContentService content;
     private final ResultsService results;
+    private final McpTrafficLog trafficLog;
 
     @Value("${spring.ai.mcp.server.name}")
     private String serverName;
@@ -27,10 +29,11 @@ public class ManagementController {
     private String protocol;
 
     public ManagementController(ToolCatalog toolCatalog, TriathlonContentService content,
-            ResultsService results) {
+            ResultsService results, McpTrafficLog trafficLog) {
         this.toolCatalog = toolCatalog;
         this.content = content;
         this.results = results;
+        this.trafficLog = trafficLog;
     }
 
     @GetMapping("/")
@@ -59,6 +62,19 @@ public class ManagementController {
         model.addAttribute("index", results.index());
         model.addAttribute("totalResults", results.totalResultCount());
         return "data";
+    }
+
+    @GetMapping("/history")
+    public String history(Model model) {
+        common(model);
+        model.addAttribute("exchanges", trafficLog.exchanges());
+        return "history";
+    }
+
+    @PostMapping("/history/clear")
+    public String clearHistory() {
+        trafficLog.clear();
+        return "redirect:/history";
     }
 
     private void common(Model model) {

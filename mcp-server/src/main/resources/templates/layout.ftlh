@@ -43,6 +43,7 @@
     <a href="/" class="<#if active == 'dashboard'>active</#if>">Dashboard</a>
     <a href="/tools" class="<#if active == 'tools'>active</#if>">Tools</a>
     <a href="/data" class="<#if active == 'data'>active</#if>">Data</a>
+    <a href="/history" class="<#if active == 'history'>active</#if>">History</a>
   </nav>
 </header>
 <main>

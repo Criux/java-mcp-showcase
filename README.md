@@ -62,7 +62,8 @@ cd mcp-server
 mvn spring-boot:run
 ```
 
-- Management UI: <http://localhost:8080/> (dashboard, tool catalog, data overview)
+- Management UI: <http://localhost:8080/> (dashboard, tool catalog, data overview,
+  MCP traffic history)
 - MCP endpoint: `POST http://localhost:8080/mcp` (Streamable HTTP, JSON-RPC)
 
 **2. Start the client** (port 8081):
@@ -82,6 +83,17 @@ Example questions:
 - *Wie melde ich mich an — gibt es noch freie Plätze?* (→ sold out)
 - *Who won the Mitteldistanz in 2025?*
 - *Were there results in 2020?* (→ Corona cancellation)
+
+## MCP traffic history
+
+The **History** tab of the management UI (<http://localhost:8080/history>)
+records every message exchanged between MCP clients and the server: a servlet
+filter on `/mcp` captures request and response bodies (SSE frames are unwrapped
+to their JSON payloads) into an in-memory log of the last 500 exchanges. Each
+entry shows time, HTTP method/status, duration, MCP session and the JSON-RPC
+method; payloads are collapsed to a single line and expand on click into
+pretty-printed JSON. Long-lived GET listening streams are logged without body
+capture so streaming is not affected.
 
 ## Refreshing the result snapshots
 
