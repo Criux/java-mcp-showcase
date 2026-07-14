@@ -14,6 +14,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * Minimal chat UI (FreeMarker + classic form POST with redirect-after-post).
@@ -41,32 +42,51 @@ public class ChatController {
         return "chat";
     }
 
+    /** No-JavaScript fallback: classic form POST with redirect-after-post. */
     @PostMapping("/chat")
     public String ask(@RequestParam("message") String message, HttpSession session) {
         String trimmed = message == null ? "" : message.strip();
-        if (trimmed.isEmpty()) {
-            return "redirect:/";
+        if (!trimmed.isEmpty()) {
+            exchange(trimmed, session);
         }
+        return "redirect:/";
+    }
+
+    /** AJAX endpoint used by the chat page: returns the assistant reply as JSON. */
+    @PostMapping("/api/chat")
+    @ResponseBody
+    public ChatEntry askJson(@RequestParam("message") String message, HttpSession session) {
+        String trimmed = message == null ? "" : message.strip();
+        if (trimmed.isEmpty()) {
+            return new ChatEntry("error", "Empty message.", List.of());
+        }
+        return exchange(trimmed, session);
+    }
+
+    /** Runs one chat round trip and records both sides in the session history. */
+    private ChatEntry exchange(String message, HttpSession session) {
         List<ChatEntry> history = history(session);
-        history.add(new ChatEntry("user", trimmed, List.of()));
+        history.add(new ChatEntry("user", message, List.of()));
 
         RecordingToolCallback.drain();
+        ChatEntry reply;
         try {
             String answer = chatClient.prompt()
-                    .user(trimmed)
+                    .user(message)
                     .advisors(advisor -> advisor.param(ChatMemory.CONVERSATION_ID, conversationId(session)))
                     .call()
                     .content();
-            history.add(new ChatEntry("assistant", answer, RecordingToolCallback.drain()));
+            reply = new ChatEntry("assistant", answer, RecordingToolCallback.drain());
         }
         catch (Exception e) {
             log.error("Chat request failed", e);
-            history.add(new ChatEntry("error",
+            reply = new ChatEntry("error",
                     "The request failed: " + e.getMessage()
                             + " — is the MCP server running and the OpenAI API key valid?",
-                    RecordingToolCallback.drain()));
+                    RecordingToolCallback.drain());
         }
-        return "redirect:/";
+        history.add(reply);
+        return reply;
     }
 
     @PostMapping("/reset")

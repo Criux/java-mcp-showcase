@@ -30,6 +30,12 @@
   .composer input { flex: 1; padding: 0.7rem 1rem; border: 1px solid var(--border); border-radius: 10px; font-size: 0.95rem; }
   .composer input:focus { outline: 2px solid var(--accent); border-color: transparent; }
   .composer button { background: var(--accent); color: #fff; border: none; border-radius: 10px; padding: 0.7rem 1.4rem; font-size: 0.95rem; cursor: pointer; }
+  .composer button:disabled { opacity: 0.5; cursor: default; }
+  .typing-dots { display: inline-flex; gap: 5px; align-items: center; padding: 0.3rem 0; }
+  .typing-dots span { width: 7px; height: 7px; border-radius: 50%; background: var(--muted); animation: dot-blink 1s infinite; }
+  .typing-dots span:nth-child(2) { animation-delay: 0.2s; }
+  .typing-dots span:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes dot-blink { 0%, 80%, 100% { opacity: 0.25; transform: translateY(0); } 40% { opacity: 1; transform: translateY(-2px); } }
 </style>
 </head>
 <body>
@@ -38,7 +44,7 @@
   <span>answers via MCP tools</span>
   <form action="/reset" method="post"><button type="submit">New conversation</button></form>
 </header>
-<main>
+<main id="messages">
   <#if history?size == 0>
     <div class="empty">
       <p>Ask me anything about the Sassenberger Triathlon, for example:</p>
@@ -64,10 +70,106 @@
   </#list>
 </main>
 <div class="composer">
-  <form action="/chat" method="post">
-    <input type="text" name="message" placeholder="Ask about the event, distances, registration or results…" autofocus autocomplete="off">
-    <button type="submit">Send</button>
+  <form id="chat-form" action="/chat" method="post">
+    <input id="chat-input" type="text" name="message" placeholder="Ask about the event, distances, registration or results…" autofocus autocomplete="off">
+    <button id="chat-send" type="submit">Send</button>
   </form>
 </div>
+<script>
+<#noparse>
+(function () {
+  const form = document.getElementById('chat-form');
+  const input = document.getElementById('chat-input');
+  const send = document.getElementById('chat-send');
+  const messages = document.getElementById('messages');
+  const TYPE_INTERVAL_MS = 35; // per word
+
+  function scrollDown() {
+    window.scrollTo(0, document.body.scrollHeight);
+  }
+
+  function addMessage(role) {
+    const msg = document.createElement('div');
+    msg.className = 'msg ' + role;
+    const inner = document.createElement('div');
+    const bubble = document.createElement('div');
+    bubble.className = 'bubble';
+    inner.appendChild(bubble);
+    msg.appendChild(inner);
+    messages.appendChild(msg);
+    return { msg, inner, bubble };
+  }
+
+  function addTools(inner, tools) {
+    if (!tools || tools.length === 0) return;
+    const box = document.createElement('div');
+    box.className = 'tools';
+    for (const tool of tools) {
+      const pill = document.createElement('span');
+      pill.className = 'pill';
+      pill.textContent = tool;
+      box.appendChild(pill);
+    }
+    inner.appendChild(box);
+  }
+
+  function addLoading() {
+    const m = addMessage('assistant');
+    m.bubble.innerHTML = '<span class="typing-dots"><span></span><span></span><span></span></span>';
+    return m;
+  }
+
+  // Types the text into the bubble word by word.
+  function typeText(m, role, text, tools) {
+    m.msg.className = 'msg ' + role;
+    m.bubble.textContent = '';
+    const words = text.match(/\S+\s*/g) || [text];
+    let i = 0;
+    const timer = setInterval(() => {
+      if (i >= words.length) {
+        clearInterval(timer);
+        addTools(m.inner, tools);
+        scrollDown();
+        return;
+      }
+      m.bubble.textContent += words[i++];
+      scrollDown();
+    }, TYPE_INTERVAL_MS);
+  }
+
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const message = input.value.trim();
+    if (!message) return;
+
+    document.querySelector('.empty')?.remove();
+    addMessage('user').bubble.textContent = message;
+    input.value = '';
+    input.focus();
+    send.disabled = true;
+    const loading = addLoading();
+    scrollDown();
+
+    try {
+      const response = await fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams({ message })
+      });
+      if (!response.ok) throw new Error('HTTP ' + response.status);
+      const data = await response.json();
+      typeText(loading, data.role, data.text, data.toolsUsed);
+    } catch (error) {
+      typeText(loading, 'error', 'The request failed: ' + error.message, []);
+    } finally {
+      send.disabled = false;
+      input.focus();
+    }
+  });
+
+  scrollDown();
+})();
+</#noparse>
+</script>
 </body>
 </html>
