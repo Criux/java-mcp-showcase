@@ -77,6 +77,13 @@ mvn spring-boot:run
 - Chat UI: <http://localhost:8081/> — each answer shows which MCP tools were used.
 - `MCP_SERVER_URL` overrides the server address (default `http://localhost:8080`).
 
+The assistant is **grounded exclusively in the MCP tools**: the LLM has no
+internet access (the OpenAI chat API cannot browse), and its system prompt
+forbids answering from training knowledge. Questions the tools cannot answer —
+including off-topic ones — get a standard reply that the information is not
+available, plus the organizer's support email and phone number (fetched from
+the server's `get_event_info` tool at startup).
+
 Example questions:
 
 - *Which distances can I race in Sassenberg?*

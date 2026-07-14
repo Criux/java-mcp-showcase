@@ -12,7 +12,7 @@ spring:
       chat:
         options:
           model: gpt-4o-mini
-          temperature: 0.2
+          temperature: 0.0
     mcp:
       client:
         name: sassenberger-triathlon-chat
