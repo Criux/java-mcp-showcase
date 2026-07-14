@@ -1,0 +1,608 @@
+{
+  "year" : 2022,
+  "eventCode" : "LM",
+  "eventName" : "Landesliga Mitte",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2022/",
+  "resultCount" : 75,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Gerhards, Sven",
+    "nation" : "GER",
+    "bib" : "1084",
+    "ageGroup" : "X",
+    "club" : "SC Rot-Weiß Oberhausen",
+    "finish" : "02:14:21"
+  }, {
+    "place" : 2,
+    "name" : "Siemes, Bastian",
+    "nation" : "GER",
+    "bib" : "1083",
+    "ageGroup" : "X",
+    "club" : "SC Rot-Weiß Oberhausen",
+    "finish" : "02:14:29"
+  }, {
+    "place" : 3,
+    "name" : "Klünner, Ingo",
+    "nation" : "GER",
+    "bib" : "1012",
+    "ageGroup" : "X",
+    "club" : "TSV Solingen",
+    "finish" : "02:15:15"
+  }, {
+    "place" : 4,
+    "name" : "Engler, Kevin",
+    "nation" : "GER",
+    "bib" : "1082",
+    "ageGroup" : "X",
+    "club" : "SC Rot-Weiß Oberhausen",
+    "finish" : "02:15:34"
+  }, {
+    "place" : 5,
+    "name" : "Hohagen, Tobias",
+    "nation" : "COL",
+    "bib" : "1047",
+    "ageGroup" : "X",
+    "club" : "Union Biesfeld Triathlon II",
+    "finish" : "02:16:14"
+  }, {
+    "place" : 6,
+    "name" : "Preden, Stephan",
+    "nation" : "GER",
+    "bib" : "1085",
+    "ageGroup" : "X",
+    "club" : "Triathlon Team TSV Gruiten 1884",
+    "finish" : "02:16:30"
+  }, {
+    "place" : 7,
+    "name" : "Rademacher, Jens",
+    "nation" : "GER",
+    "bib" : "1063",
+    "ageGroup" : "X",
+    "club" : "Triathlon Waldfeucht I",
+    "finish" : "02:16:38"
+  }, {
+    "place" : 8,
+    "name" : "Kölsch, Tim-Oliver",
+    "nation" : "GER",
+    "bib" : "1099",
+    "ageGroup" : "X",
+    "club" : "RSV Osthelden",
+    "finish" : "02:17:53"
+  }, {
+    "place" : 9,
+    "name" : "Dörner, Merlin",
+    "nation" : "GER",
+    "bib" : "1055",
+    "ageGroup" : "X",
+    "club" : "Remscheid Vital",
+    "finish" : "02:19:39"
+  }, {
+    "place" : 10,
+    "name" : "Bühring, Marco",
+    "nation" : "GER",
+    "bib" : "1081",
+    "ageGroup" : "X",
+    "club" : "SC Rot-Weiß Oberhausen",
+    "finish" : "02:20:51"
+  }, {
+    "place" : 11,
+    "name" : "Ifang, Malte",
+    "nation" : "GER",
+    "bib" : "1072",
+    "ageGroup" : "X",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:22:08"
+  }, {
+    "place" : 12,
+    "name" : "Fink, Andreas",
+    "nation" : "GER",
+    "bib" : "1098",
+    "ageGroup" : "X",
+    "club" : "RSV Osthelden",
+    "finish" : "02:22:31"
+  }, {
+    "place" : 13,
+    "name" : "Gobrecht, Friedemann",
+    "nation" : "GER",
+    "bib" : "1070",
+    "ageGroup" : "X",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:22:36"
+  }, {
+    "place" : 14,
+    "name" : "Schubert, Jannik",
+    "nation" : "GER",
+    "bib" : "1011",
+    "ageGroup" : "X",
+    "club" : "TSV Solingen",
+    "finish" : "02:24:57"
+  }, {
+    "place" : 15,
+    "name" : "Munnes, Oliver",
+    "nation" : "GER",
+    "bib" : "1090",
+    "ageGroup" : "X",
+    "club" : "Duisburger Schwimmverein",
+    "finish" : "02:25:08"
+  }, {
+    "place" : 16,
+    "name" : "Hochheim, Martin",
+    "nation" : "GER",
+    "bib" : "1001",
+    "ageGroup" : "X",
+    "club" : "Hildener AT - Triathlon II",
+    "finish" : "02:26:44"
+  }, {
+    "place" : 17,
+    "name" : "Wirtz, Rene",
+    "nation" : "GER",
+    "bib" : "1061",
+    "ageGroup" : "X",
+    "club" : "Triathlon Waldfeucht I",
+    "finish" : "02:27:25"
+  }, {
+    "place" : 18,
+    "name" : "Koeser, Florian",
+    "nation" : "GER",
+    "bib" : "1086",
+    "ageGroup" : "X",
+    "club" : "Triathlon Team TSV Gruiten 1884",
+    "finish" : "02:29:59"
+  }, {
+    "place" : 19,
+    "name" : "Riss, Colin",
+    "nation" : "GER",
+    "bib" : "1051",
+    "ageGroup" : "X",
+    "club" : "VfL Engelskirchen Triathlon II",
+    "finish" : "02:30:14"
+  }, {
+    "place" : 20,
+    "name" : "Kutzner, Christoph",
+    "nation" : "GER",
+    "bib" : "1092",
+    "ageGroup" : "X",
+    "club" : "Duisburger Schwimmverein",
+    "finish" : "02:33:19"
+  }, {
+    "place" : 21,
+    "name" : "Schützler, Christian",
+    "nation" : "GER",
+    "bib" : "1052",
+    "ageGroup" : "X",
+    "club" : "VfL Engelskirchen Triathlon II",
+    "finish" : "02:33:26"
+  }, {
+    "place" : 22,
+    "name" : "Bauer, Henrik",
+    "nation" : "GER",
+    "bib" : "1097",
+    "ageGroup" : "X",
+    "club" : "RSV Osthelden",
+    "finish" : "02:33:58"
+  }, {
+    "place" : 23,
+    "name" : "Daub, Florian",
+    "nation" : "GER",
+    "bib" : "1100",
+    "ageGroup" : "X",
+    "club" : "RSV Osthelden",
+    "finish" : "02:35:08"
+  }, {
+    "place" : 24,
+    "name" : "Egin-Richter, Taner",
+    "nation" : "GER",
+    "bib" : "1069",
+    "ageGroup" : "X",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:36:09"
+  }, {
+    "place" : 25,
+    "name" : "Dungs, Sascha",
+    "nation" : "GER",
+    "bib" : "1025",
+    "ageGroup" : "X",
+    "club" : "Tri Geckos Dortmund III",
+    "finish" : "02:37:44"
+  }, {
+    "place" : 26,
+    "name" : "Brandenburger, Kirsten",
+    "nation" : "GER",
+    "bib" : "1009",
+    "ageGroup" : "X",
+    "club" : "TSV Solingen",
+    "finish" : "02:38:03"
+  }, {
+    "place" : 27,
+    "name" : "Dreissen, Georg",
+    "nation" : "GER",
+    "bib" : "1064",
+    "ageGroup" : "X",
+    "club" : "Triathlon Waldfeucht I",
+    "finish" : "02:39:27"
+  }, {
+    "place" : 28,
+    "name" : "Rathje, Erik",
+    "nation" : "GER",
+    "bib" : "1028",
+    "ageGroup" : "X",
+    "club" : "Tri Geckos Dortmund III",
+    "finish" : "02:39:52"
+  }, {
+    "place" : 29,
+    "name" : "Krallmann-Brüll, Petra",
+    "nation" : "GER",
+    "bib" : "1058",
+    "ageGroup" : "X",
+    "club" : "Duisburger Schwimmverein II",
+    "finish" : "02:39:55"
+  }, {
+    "place" : 30,
+    "name" : "Knauff, Matthias",
+    "nation" : "GER",
+    "bib" : "1034",
+    "ageGroup" : "X",
+    "club" : "Starlight Team Essen IV",
+    "finish" : "02:40:40"
+  }, {
+    "place" : 31,
+    "name" : "Radstaak, Marco",
+    "nation" : "GER",
+    "bib" : "1008",
+    "ageGroup" : "X",
+    "club" : "Bocholter WSV III",
+    "finish" : "02:41:19"
+  }, {
+    "place" : 32,
+    "name" : "Lischnewski, Rodion",
+    "nation" : "GER",
+    "bib" : "1074",
+    "ageGroup" : "X",
+    "club" : "SG Welper II",
+    "finish" : "02:41:29"
+  }, {
+    "place" : 33,
+    "name" : "Spicker, Thorsten",
+    "nation" : "GER",
+    "bib" : "1013",
+    "ageGroup" : "X",
+    "club" : "Triathlon Team Ratingen 08",
+    "finish" : "02:43:05"
+  }, {
+    "place" : 34,
+    "name" : "Zager, Dirk",
+    "nation" : "GER",
+    "bib" : "1048",
+    "ageGroup" : "X",
+    "club" : "Union Biesfeld Triathlon II",
+    "finish" : "02:43:05"
+  }, {
+    "place" : 35,
+    "name" : "Lein, Maximilian",
+    "nation" : "GER",
+    "bib" : "1087",
+    "ageGroup" : "X",
+    "club" : "Triathlon Team TSV Gruiten 1884",
+    "finish" : "02:44:03"
+  }, {
+    "place" : 36,
+    "name" : "Drenker, Ditmar",
+    "nation" : "GER",
+    "bib" : "1015",
+    "ageGroup" : "X",
+    "club" : "Triathlon Team Ratingen 08",
+    "finish" : "02:44:04"
+  }, {
+    "place" : 37,
+    "name" : "Mandel, Marlene",
+    "nation" : "GER",
+    "bib" : "1089",
+    "ageGroup" : "X",
+    "club" : "Duisburger Schwimmverein",
+    "finish" : "02:44:14"
+  }, {
+    "place" : 38,
+    "name" : "Becker, Marco",
+    "nation" : "GER",
+    "bib" : "1073",
+    "ageGroup" : "X",
+    "club" : "SG Welper II",
+    "finish" : "02:44:52"
+  }, {
+    "place" : 39,
+    "name" : "Honings, Matthias",
+    "nation" : "GER",
+    "bib" : "1062",
+    "ageGroup" : "X",
+    "club" : "Triathlon Waldfeucht I",
+    "finish" : "02:45:41"
+  }, {
+    "place" : 40,
+    "name" : "Vüllings, André",
+    "nation" : "GER",
+    "bib" : "1007",
+    "ageGroup" : "X",
+    "club" : "Bocholter WSV III",
+    "finish" : "02:45:44"
+  }, {
+    "place" : 41,
+    "name" : "Idaszek, Frank",
+    "nation" : "GER",
+    "bib" : "1004",
+    "ageGroup" : "X",
+    "club" : "Hildener AT - Triathlon II",
+    "finish" : "02:46:19"
+  }, {
+    "place" : 42,
+    "name" : "Alfaro Solano, Camila",
+    "nation" : "GER",
+    "bib" : "1054",
+    "ageGroup" : "X",
+    "club" : "Remscheid Vital",
+    "finish" : "02:46:35"
+  }, {
+    "place" : 43,
+    "name" : "Vogel, Arno",
+    "nation" : "GER",
+    "bib" : "1020",
+    "ageGroup" : "X",
+    "club" : "Tri Duck Dorsten II",
+    "finish" : "02:46:38"
+  }, {
+    "place" : 44,
+    "name" : "Tewes, Ingo",
+    "nation" : "GER",
+    "bib" : "1017",
+    "ageGroup" : "X",
+    "club" : "Tri Duck Dorsten II",
+    "finish" : "02:47:09"
+  }, {
+    "place" : 45,
+    "name" : "Kellers, Michael",
+    "nation" : "GER",
+    "bib" : "1002",
+    "ageGroup" : "X",
+    "club" : "Hildener AT - Triathlon II",
+    "finish" : "02:47:43"
+  }, {
+    "place" : 46,
+    "name" : "Zellin, Jan",
+    "nation" : "GER",
+    "bib" : "1027",
+    "ageGroup" : "X",
+    "club" : "Tri Geckos Dortmund III",
+    "finish" : "02:47:50"
+  }, {
+    "place" : 47,
+    "name" : "Rühlemann, Martin",
+    "nation" : "GER",
+    "bib" : "1014",
+    "ageGroup" : "X",
+    "club" : "Triathlon Team Ratingen 08",
+    "finish" : "02:48:20"
+  }, {
+    "place" : 48,
+    "name" : "Brüggershemke, Sandra",
+    "nation" : "GER",
+    "bib" : "1077",
+    "ageGroup" : "X",
+    "club" : "TSG Sprockhövel",
+    "finish" : "02:49:01"
+  }, {
+    "place" : 49,
+    "name" : "Niermann, Guido",
+    "nation" : "GER",
+    "bib" : "1033",
+    "ageGroup" : "X",
+    "club" : "Starlight Team Essen IV",
+    "finish" : "02:49:49"
+  }, {
+    "place" : 50,
+    "name" : "Asmuth, Dominik",
+    "nation" : "GER",
+    "bib" : "1024",
+    "ageGroup" : "X",
+    "club" : "SV Blau-Weiß Bochum II",
+    "finish" : "02:50:07"
+  }, {
+    "place" : 51,
+    "name" : "Velasquez, Brian",
+    "nation" : "COL",
+    "bib" : "1021",
+    "ageGroup" : "X",
+    "club" : "SV Blau-Weiß Bochum II",
+    "finish" : "02:50:37"
+  }, {
+    "place" : 52,
+    "name" : "Zumbeel, Ingo",
+    "nation" : "GER",
+    "bib" : "1022",
+    "ageGroup" : "X",
+    "club" : "SV Blau-Weiß Bochum II",
+    "finish" : "02:51:40"
+  }, {
+    "place" : 53,
+    "name" : "Genscher, Udo",
+    "nation" : "GER",
+    "bib" : "1010",
+    "ageGroup" : "X",
+    "club" : "TSV Solingen",
+    "finish" : "02:53:35"
+  }, {
+    "place" : 54,
+    "name" : "Essing, Frank",
+    "nation" : "GER",
+    "bib" : "1006",
+    "ageGroup" : "X",
+    "club" : "Bocholter WSV III",
+    "finish" : "02:54:12"
+  }, {
+    "place" : 55,
+    "name" : "Kowalewski, Robert",
+    "nation" : "GER",
+    "bib" : "1003",
+    "ageGroup" : "X",
+    "club" : "Hildener AT - Triathlon II",
+    "finish" : "02:54:20"
+  }, {
+    "place" : 56,
+    "name" : "Pieper, Marcus",
+    "nation" : "GER",
+    "bib" : "1016",
+    "ageGroup" : "X",
+    "club" : "Triathlon Team Ratingen 08",
+    "finish" : "02:55:34"
+  }, {
+    "place" : 57,
+    "name" : "Schill, Sebastian",
+    "nation" : "GER",
+    "bib" : "1060",
+    "ageGroup" : "X",
+    "club" : "Duisburger Schwimmverein II",
+    "finish" : "02:56:54"
+  }, {
+    "place" : 58,
+    "name" : "Schuly, Reiner",
+    "nation" : "GER",
+    "bib" : "1045",
+    "ageGroup" : "X",
+    "club" : "Union Biesfeld Triathlon II",
+    "finish" : "02:57:33"
+  }, {
+    "place" : 59,
+    "name" : "Wallat, Maik",
+    "nation" : "GER",
+    "bib" : "1080",
+    "ageGroup" : "X",
+    "club" : "TSG Sprockhövel",
+    "finish" : "02:58:48"
+  }, {
+    "place" : 60,
+    "name" : "Maus, Michael",
+    "nation" : "GER",
+    "bib" : "1088",
+    "ageGroup" : "X",
+    "club" : "Triathlon Team TSV Gruiten 1884",
+    "finish" : "02:59:11"
+  }, {
+    "place" : 61,
+    "name" : "Füser, Patrick",
+    "nation" : "GER",
+    "bib" : "1091",
+    "ageGroup" : "X",
+    "club" : "Duisburger Schwimmverein",
+    "finish" : "02:59:21"
+  }, {
+    "place" : 62,
+    "name" : "Hammelmaier, Marcus",
+    "nation" : "GER",
+    "bib" : "1071",
+    "ageGroup" : "X",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:59:53"
+  }, {
+    "place" : 63,
+    "name" : "Lensing, Reinhold",
+    "nation" : "GER",
+    "bib" : "1005",
+    "ageGroup" : "X",
+    "club" : "Bocholter WSV III",
+    "finish" : "03:01:38"
+  }, {
+    "place" : 64,
+    "name" : "Kaiser, Anne",
+    "nation" : "GER",
+    "bib" : "1057",
+    "ageGroup" : "X",
+    "club" : "Duisburger Schwimmverein II",
+    "finish" : "03:02:05"
+  }, {
+    "place" : 65,
+    "name" : "Gerdes, Patrick",
+    "nation" : "GER",
+    "bib" : "1078",
+    "ageGroup" : "X",
+    "club" : "TSG Sprockhövel",
+    "finish" : "03:02:58"
+  }, {
+    "place" : 66,
+    "name" : "Plänker, Julia",
+    "nation" : "GER",
+    "bib" : "1019",
+    "ageGroup" : "X",
+    "club" : "Tri Duck Dorsten II",
+    "finish" : "03:03:35"
+  }, {
+    "place" : 67,
+    "name" : "Götz, Justin",
+    "nation" : "GER",
+    "bib" : "1053",
+    "ageGroup" : "X",
+    "club" : "Remscheid Vital",
+    "finish" : "03:04:21"
+  }, {
+    "place" : 68,
+    "name" : "Rasmussen, Jörn",
+    "nation" : "GER",
+    "bib" : "1018",
+    "ageGroup" : "X",
+    "club" : "Tri Duck Dorsten II",
+    "finish" : "03:10:34"
+  }, {
+    "place" : 69,
+    "name" : "Wendler, Judith",
+    "nation" : "GER",
+    "bib" : "1035",
+    "ageGroup" : "X",
+    "club" : "Starlight Team Essen IV",
+    "finish" : "03:12:08"
+  }, {
+    "place" : 70,
+    "name" : "Picht, Daniel",
+    "nation" : "GER",
+    "bib" : "1076",
+    "ageGroup" : "X",
+    "club" : "SG Welper II",
+    "finish" : "03:12:46"
+  }, {
+    "place" : 71,
+    "name" : "Ehlert, Felix",
+    "nation" : "GER",
+    "bib" : "1075",
+    "ageGroup" : "X",
+    "club" : "SG Welper II",
+    "finish" : "03:13:38"
+  }, {
+    "place" : 72,
+    "name" : "Meier, Ulrich",
+    "nation" : "GER",
+    "bib" : "1046",
+    "ageGroup" : "X",
+    "club" : "Union Biesfeld Triathlon II",
+    "finish" : "03:17:38"
+  }, {
+    "place" : 73,
+    "name" : "Köhne, Heinz-Werner",
+    "nation" : "GER",
+    "bib" : "1050",
+    "ageGroup" : "X",
+    "club" : "VfL Engelskirchen Triathlon II",
+    "finish" : "03:35:23"
+  }, {
+    "place" : 74,
+    "name" : "Loose, Johannette",
+    "nation" : "GER",
+    "bib" : "1079",
+    "ageGroup" : "X",
+    "club" : "TSG Sprockhövel",
+    "finish" : "03:44:21"
+  }, {
+    "place" : 75,
+    "name" : "Golestan, Jasmin",
+    "nation" : "GER",
+    "bib" : "1049",
+    "ageGroup" : "X",
+    "club" : "VfL Engelskirchen Triathlon II",
+    "finish" : "03:44:24"
+  } ]
+}

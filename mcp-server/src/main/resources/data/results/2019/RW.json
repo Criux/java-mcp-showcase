@@ -1,0 +1,386 @@
+{
+  "year" : 2019,
+  "eventCode" : "RW",
+  "eventName" : "Regionalliga Frauen",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2019/",
+  "resultCount" : 54,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Hemmers, Kristin",
+    "nation" : "GER",
+    "bib" : "342",
+    "club" : "WEICON Tri Finish Münster I",
+    "finish" : "02:23:41"
+  }, {
+    "place" : 2,
+    "name" : "Motte, Debby",
+    "nation" : "GER",
+    "bib" : "301",
+    "club" : "Tri Club Wuppertal",
+    "finish" : "02:33:15"
+  }, {
+    "place" : 3,
+    "name" : "Otten, Sylvia",
+    "nation" : "GER",
+    "bib" : "319",
+    "club" : "ASV Köln II",
+    "finish" : "02:33:46"
+  }, {
+    "place" : 4,
+    "name" : "Fell, Friederike",
+    "nation" : "GER",
+    "bib" : "322",
+    "club" : "TuS Xanten",
+    "finish" : "02:33:50"
+  }, {
+    "place" : 5,
+    "name" : "Schauerte, Anna Catharina",
+    "nation" : "GER",
+    "bib" : "353",
+    "club" : "Tri Team Hagen II",
+    "finish" : "02:34:36"
+  }, {
+    "place" : 6,
+    "name" : "Pfeiffer, Ilona",
+    "nation" : "GER",
+    "bib" : "350",
+    "club" : "1.Tri Team Gütersloh",
+    "finish" : "02:35:41"
+  }, {
+    "place" : 7,
+    "name" : "Lüdorf, Melanie",
+    "nation" : "GER",
+    "bib" : "302",
+    "club" : "Tri Club Wuppertal",
+    "finish" : "02:35:57"
+  }, {
+    "place" : 8,
+    "name" : "Neveling, Eva-Maria",
+    "nation" : "GER",
+    "bib" : "345",
+    "club" : "Mach3 Köln II",
+    "finish" : "02:36:11"
+  }, {
+    "place" : 9,
+    "name" : "Diawuoh, Annabel",
+    "nation" : "GER",
+    "bib" : "311",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "finish" : "02:36:12"
+  }, {
+    "place" : 10,
+    "name" : "Dahmen, Anika",
+    "nation" : "GER",
+    "bib" : "310",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "finish" : "02:39:07"
+  }, {
+    "place" : 11,
+    "name" : "Rechter, Insa",
+    "nation" : "GER",
+    "bib" : "340",
+    "club" : "WEICON Tri Finish Münster I",
+    "finish" : "02:40:03"
+  }, {
+    "place" : 12,
+    "name" : "Witzke, Melanie",
+    "nation" : "GER",
+    "bib" : "343",
+    "club" : "Mach3 Köln II",
+    "finish" : "02:40:35"
+  }, {
+    "place" : 13,
+    "name" : "Horbach, Franziska",
+    "nation" : "GER",
+    "bib" : "325",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "finish" : "02:41:36"
+  }, {
+    "place" : 14,
+    "name" : "Geise, Svenja",
+    "nation" : "GER",
+    "bib" : "341",
+    "club" : "WEICON Tri Finish Münster I",
+    "finish" : "02:42:23"
+  }, {
+    "place" : 15,
+    "name" : "Schmitz, Bea",
+    "nation" : "GER",
+    "bib" : "324",
+    "club" : "TuS Xanten",
+    "finish" : "02:43:16"
+  }, {
+    "place" : 16,
+    "name" : "Lumperda, Jenny",
+    "nation" : "GER",
+    "bib" : "344",
+    "club" : "Mach3 Köln II",
+    "finish" : "02:43:32"
+  }, {
+    "place" : 17,
+    "name" : "Hochheim, Jennifer",
+    "nation" : "GER",
+    "bib" : "320",
+    "club" : "ASV Köln II",
+    "finish" : "02:44:29"
+  }, {
+    "place" : 18,
+    "name" : "Wicker, Pamela",
+    "nation" : "GER",
+    "bib" : "312",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "finish" : "02:46:27"
+  }, {
+    "place" : 19,
+    "name" : "Kunde, Sabrina",
+    "nation" : "GER",
+    "bib" : "309",
+    "club" : "TV Hülsenbusch",
+    "finish" : "02:47:02"
+  }, {
+    "place" : 20,
+    "name" : "Schölch, Linda",
+    "nation" : "GER",
+    "bib" : "306",
+    "club" : "Tri Geckos Dortmund",
+    "finish" : "02:47:07"
+  }, {
+    "place" : 21,
+    "name" : "Bentrup, Ann-Cathrin",
+    "nation" : "GER",
+    "bib" : "323",
+    "club" : "TuS Xanten",
+    "finish" : "02:47:12"
+  }, {
+    "place" : 22,
+    "name" : "Schlüter, Stephanie",
+    "nation" : "GER",
+    "bib" : "314",
+    "club" : "Tri Sport Team Verl",
+    "finish" : "02:47:13"
+  }, {
+    "place" : 23,
+    "name" : "Schalkamp, Sarah",
+    "nation" : "GER",
+    "bib" : "332",
+    "club" : "LV Tristar Oelde",
+    "finish" : "02:47:21"
+  }, {
+    "place" : 24,
+    "name" : "Schwalm, Lisa",
+    "nation" : "GER",
+    "bib" : "315",
+    "club" : "Tri Sport Team Verl",
+    "finish" : "02:47:24"
+  }, {
+    "place" : 25,
+    "name" : "Seifen, Anne",
+    "nation" : "GER",
+    "bib" : "335",
+    "club" : "DLC Aachen III",
+    "finish" : "02:48:50"
+  }, {
+    "place" : 26,
+    "name" : "Wegner, Sabrina",
+    "nation" : "GER",
+    "bib" : "305",
+    "club" : "Tri Geckos Dortmund",
+    "finish" : "02:49:22"
+  }, {
+    "place" : 27,
+    "name" : "Grüger, Claudia",
+    "nation" : "GER",
+    "bib" : "328",
+    "club" : "W + F Münster I",
+    "finish" : "02:49:44"
+  }, {
+    "place" : 28,
+    "name" : "Gröger, Larissa",
+    "nation" : "GER",
+    "bib" : "307",
+    "club" : "TV Hülsenbusch",
+    "finish" : "02:50:35"
+  }, {
+    "place" : 29,
+    "name" : "Tenbrink, Imke",
+    "nation" : "GER",
+    "bib" : "304",
+    "club" : "Tri Geckos Dortmund",
+    "finish" : "02:51:45"
+  }, {
+    "place" : 30,
+    "name" : "Keuter, Maria",
+    "nation" : "GER",
+    "bib" : "329",
+    "club" : "W + F Münster I",
+    "finish" : "02:51:46"
+  }, {
+    "place" : 31,
+    "name" : "Hahne, Ruth",
+    "nation" : "GER",
+    "bib" : "331",
+    "club" : "LV Tristar Oelde",
+    "finish" : "02:52:31"
+  }, {
+    "place" : 32,
+    "name" : "Brormann, Ellen",
+    "nation" : "GER",
+    "bib" : "349",
+    "club" : "1.Tri Team Gütersloh",
+    "finish" : "02:54:22"
+  }, {
+    "place" : 33,
+    "name" : "Haverkamp, Nina",
+    "nation" : "GER",
+    "bib" : "359",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "finish" : "02:55:19"
+  }, {
+    "place" : 34,
+    "name" : "Kreisel, Petra",
+    "nation" : "GER",
+    "bib" : "358",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "finish" : "02:55:27"
+  }, {
+    "place" : 35,
+    "name" : "Klaffl, Claudia",
+    "nation" : "GER",
+    "bib" : "355",
+    "club" : "Hildener AT - Triathlon",
+    "finish" : "02:56:10"
+  }, {
+    "place" : 36,
+    "name" : "Loll, Isabelle",
+    "nation" : "GER",
+    "bib" : "317",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "02:56:43"
+  }, {
+    "place" : 37,
+    "name" : "Dwars-Friedrichs, Kerstin",
+    "nation" : "GER",
+    "bib" : "308",
+    "club" : "TV Hülsenbusch",
+    "finish" : "02:56:58"
+  }, {
+    "place" : 38,
+    "name" : "Michel, Anne",
+    "nation" : "GER",
+    "bib" : "327",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "finish" : "02:57:17"
+  }, {
+    "place" : 39,
+    "name" : "Bloomenkamp, Astrid",
+    "nation" : "GER",
+    "bib" : "326",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "finish" : "02:58:00"
+  }, {
+    "place" : 40,
+    "name" : "Bitzer, Nadine",
+    "nation" : "GER",
+    "bib" : "303",
+    "club" : "Tri Club Wuppertal",
+    "finish" : "02:58:07"
+  }, {
+    "place" : 41,
+    "name" : "Nett, Marie-Astrid",
+    "nation" : "AUT",
+    "bib" : "318",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "02:59:03"
+  }, {
+    "place" : 42,
+    "name" : "Kollmeier, Alina",
+    "nation" : "GER",
+    "bib" : "334",
+    "club" : "DLC Aachen III",
+    "finish" : "03:01:47"
+  }, {
+    "place" : 43,
+    "name" : "Sauerland, Eike",
+    "nation" : "GER",
+    "bib" : "330",
+    "club" : "W + F Münster I",
+    "finish" : "03:03:13"
+  }, {
+    "place" : 44,
+    "name" : "Krings, Amelie",
+    "nation" : "GER",
+    "bib" : "339",
+    "club" : "Brander SV Tri Team",
+    "finish" : "03:03:51"
+  }, {
+    "place" : 45,
+    "name" : "Impekoven, Claudia",
+    "nation" : "GER",
+    "bib" : "321",
+    "club" : "ASV Köln II",
+    "finish" : "03:05:41"
+  }, {
+    "place" : 46,
+    "name" : "Jakovljevic, Tanja",
+    "nation" : "CRO",
+    "bib" : "316",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "03:07:00"
+  }, {
+    "place" : 47,
+    "name" : "Scherberich, Uschi",
+    "nation" : "GER",
+    "bib" : "337",
+    "club" : "Brander SV Tri Team",
+    "finish" : "03:08:35"
+  }, {
+    "place" : 48,
+    "name" : "Hannemann, Bianca",
+    "nation" : "GER",
+    "bib" : "313",
+    "club" : "Tri Sport Team Verl",
+    "finish" : "03:08:47"
+  }, {
+    "place" : 49,
+    "name" : "Zade, Miriam",
+    "nation" : "GER",
+    "bib" : "356",
+    "club" : "Hildener AT - Triathlon",
+    "finish" : "03:09:15"
+  }, {
+    "place" : 50,
+    "name" : "Kinkel-Schlachter, Doris",
+    "nation" : "GER",
+    "bib" : "338",
+    "club" : "Brander SV Tri Team",
+    "finish" : "03:11:45"
+  }, {
+    "place" : 51,
+    "name" : "Rohmann, Daniela",
+    "nation" : "GER",
+    "bib" : "360",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "finish" : "03:12:13"
+  }, {
+    "place" : 52,
+    "name" : "Westemeier, Judith",
+    "nation" : "GER",
+    "bib" : "333",
+    "club" : "LV Tristar Oelde",
+    "finish" : "03:12:16"
+  }, {
+    "place" : 53,
+    "name" : "Kaffitz, Dagmar",
+    "nation" : "GER",
+    "bib" : "351",
+    "club" : "1.Tri Team Gütersloh",
+    "finish" : "03:20:25"
+  }, {
+    "place" : 54,
+    "name" : "Pappert, Lena",
+    "nation" : "GER",
+    "bib" : "357",
+    "club" : "Hildener AT - Triathlon",
+    "finish" : "03:35:54"
+  } ]
+}

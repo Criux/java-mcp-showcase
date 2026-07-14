@@ -1,0 +1,220 @@
+{
+  "year" : 2024,
+  "eventCode" : "F3R",
+  "eventName" : "Strohbücker StaffelCup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2024/",
+  "resultCount" : 53,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Flying Flippers Racing Team",
+    "finish" : "01:06:55"
+  }, {
+    "place" : 2,
+    "name" : "Die Familienausflügler",
+    "finish" : "01:07:59"
+  }, {
+    "place" : 3,
+    "name" : "Rida Racing Team",
+    "finish" : "01:11:14"
+  }, {
+    "place" : 4,
+    "name" : "1 Tri-Team Gütersloh GTV",
+    "finish" : "01:11:21"
+  }, {
+    "place" : 5,
+    "name" : "Fast But Not Furios",
+    "finish" : "01:12:00"
+  }, {
+    "place" : 6,
+    "name" : "Souvenirjäger",
+    "finish" : "01:14:56"
+  }, {
+    "place" : 7,
+    "name" : "Tri-Crew JCL",
+    "finish" : "01:16:37"
+  }, {
+    "place" : 8,
+    "name" : "Lauft Lust",
+    "finish" : "01:17:04"
+  }, {
+    "place" : 9,
+    "name" : "Tri-Sport-Team TV Verl BMD Physio-Al t stars",
+    "finish" : "01:17:05"
+  }, {
+    "place" : 10,
+    "name" : "Rapid Rabbits",
+    "finish" : "01:18:13"
+  }, {
+    "place" : 11,
+    "name" : "Sassenberger Musketiere",
+    "finish" : "01:18:18"
+  }, {
+    "place" : 12,
+    "name" : "Gtü Prüfstelle Versmold",
+    "finish" : "01:19:03"
+  }, {
+    "place" : 13,
+    "name" : "Heimatverein Isselhorst",
+    "finish" : "01:19:58"
+  }, {
+    "place" : 14,
+    "name" : "Die Teilnehmer",
+    "finish" : "01:20:02"
+  }, {
+    "place" : 15,
+    "name" : "Multi Sport Masters",
+    "finish" : "01:21:25"
+  }, {
+    "place" : 16,
+    "name" : "Tv 01 Bohmte Triathlon",
+    "finish" : "01:21:42"
+  }, {
+    "place" : 17,
+    "name" : "Ruhrpotter",
+    "finish" : "01:22:12"
+  }, {
+    "place" : 18,
+    "name" : "Maroam",
+    "finish" : "01:22:30"
+  }, {
+    "place" : 19,
+    "name" : "Need For Speed",
+    "finish" : "01:23:29"
+  }, {
+    "place" : 20,
+    "name" : "two and a half women",
+    "finish" : "01:25:49"
+  }, {
+    "place" : 21,
+    "name" : "Sommer Sonne Kaktus",
+    "finish" : "01:26:53"
+  }, {
+    "place" : 22,
+    "name" : "Die Coerde Tornados",
+    "finish" : "01:28:05"
+  }, {
+    "place" : 23,
+    "name" : "Buntstifte",
+    "finish" : "01:28:22"
+  }, {
+    "place" : 24,
+    "name" : "Optimisten-2",
+    "finish" : "01:31:00"
+  }, {
+    "place" : 25,
+    "name" : "Bohngemeinschaft",
+    "finish" : "01:31:12"
+  }, {
+    "place" : 26,
+    "name" : "DUSt in the wind",
+    "finish" : "01:31:52"
+  }, {
+    "place" : 27,
+    "name" : "Einfach Anders",
+    "finish" : "01:32:34"
+  }, {
+    "place" : 28,
+    "name" : "FC Greffen",
+    "finish" : "01:32:46"
+  }, {
+    "place" : 29,
+    "name" : "L'équipe RHW",
+    "finish" : "01:33:21"
+  }, {
+    "place" : 30,
+    "name" : "Bierbauch Voraus Oelde",
+    "finish" : "01:33:29"
+  }, {
+    "place" : 31,
+    "name" : "SchwimmMäuse",
+    "finish" : "01:34:11"
+  }, {
+    "place" : 32,
+    "name" : "Dievaterkinder",
+    "finish" : "01:34:42"
+  }, {
+    "place" : 33,
+    "name" : "Schneller Als Die Couch",
+    "finish" : "01:35:59"
+  }, {
+    "place" : 34,
+    "name" : "Tempo Snail",
+    "finish" : "01:36:19"
+  }, {
+    "place" : 35,
+    "name" : "Hukke",
+    "finish" : "01:36:19"
+  }, {
+    "place" : 36,
+    "name" : "technotrans",
+    "finish" : "01:36:33"
+  }, {
+    "place" : 37,
+    "name" : "Limo Und Brause",
+    "finish" : "01:36:45"
+  }, {
+    "place" : 38,
+    "name" : "technotrans",
+    "finish" : "01:37:00"
+  }, {
+    "place" : 39,
+    "name" : "Telgter Babies",
+    "finish" : "01:38:05"
+  }, {
+    "place" : 40,
+    "name" : "Fre-We 50 Jahre Team-Power",
+    "finish" : "01:38:14"
+  }, {
+    "place" : 41,
+    "name" : "Die Lerchners",
+    "finish" : "01:40:07"
+  }, {
+    "place" : 42,
+    "name" : "Gesund Durch Sport",
+    "finish" : "01:40:46"
+  }, {
+    "place" : 43,
+    "name" : "KC Einer Kippt immer",
+    "finish" : "01:40:49"
+  }, {
+    "place" : 44,
+    "name" : "Masasi Triducks",
+    "finish" : "01:40:50"
+  }, {
+    "place" : 45,
+    "name" : "Team Muskelkater",
+    "finish" : "01:41:04"
+  }, {
+    "place" : 46,
+    "name" : "Dumon",
+    "finish" : "01:43:28"
+  }, {
+    "place" : 47,
+    "name" : "Mannis Fans",
+    "finish" : "01:44:04"
+  }, {
+    "place" : 48,
+    "name" : "Bis einer Heult",
+    "finish" : "01:45:16"
+  }, {
+    "place" : 49,
+    "name" : "Jederfängtmalan",
+    "finish" : "01:46:16"
+  }, {
+    "place" : 50,
+    "name" : "Ostlinning TriTeam",
+    "finish" : "01:48:41"
+  }, {
+    "place" : 51,
+    "name" : "Die Vohrener",
+    "finish" : "01:48:45"
+  }, {
+    "place" : 52,
+    "name" : "Fre-We 50 Jahre Team-Power",
+    "finish" : "01:50:56"
+  }, {
+    "place" : 53,
+    "name" : "Laufenten Ag",
+    "finish" : "01:56:20"
+  } ]
+}

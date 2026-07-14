@@ -1,0 +1,120 @@
+{
+  "year" : 2023,
+  "eventCode" : "CISM",
+  "eventName" : "CISM Euro Cup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2023/",
+  "resultCount" : 16,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Naeyaert, Louis",
+    "nation" : "BEL",
+    "bib" : "2914",
+    "club" : "Belgium",
+    "finish" : "02:01:42"
+  }, {
+    "place" : 1,
+    "name" : "Mommen, Inès",
+    "nation" : "BEL",
+    "bib" : "2916",
+    "club" : "Belgium",
+    "finish" : "02:29:37"
+  }, {
+    "place" : 2,
+    "name" : "De Hertog, Kjel",
+    "nation" : "BEL",
+    "bib" : "2915",
+    "club" : "Belgium",
+    "finish" : "02:07:26"
+  }, {
+    "place" : 2,
+    "name" : "Sanchez-Sanchez, Patricia",
+    "nation" : "GER",
+    "bib" : "2905",
+    "club" : "Germany",
+    "finish" : "02:30:55"
+  }, {
+    "place" : 3,
+    "name" : "Otten, Sören",
+    "nation" : "GER",
+    "bib" : "2902",
+    "club" : "Germany",
+    "finish" : "02:08:03"
+  }, {
+    "place" : 3,
+    "name" : "Hoppe, Julia",
+    "nation" : "GER",
+    "bib" : "2903",
+    "club" : "Germany",
+    "finish" : "02:34:49"
+  }, {
+    "place" : 4,
+    "name" : "Bottek, Silvia",
+    "nation" : "GER",
+    "bib" : "2904",
+    "club" : "Germany",
+    "finish" : "02:37:15"
+  }, {
+    "place" : 4,
+    "name" : "Vd Zee, Thijs",
+    "nation" : "NED",
+    "bib" : "2906",
+    "club" : "Netherlands",
+    "finish" : "02:10:33"
+  }, {
+    "place" : 5,
+    "name" : "Penne, Pieter-Jan",
+    "nation" : "BEL",
+    "bib" : "2911",
+    "club" : "Belgium",
+    "finish" : "02:10:53"
+  }, {
+    "place" : 5,
+    "name" : "Voorhout, Marlies",
+    "nation" : "NED",
+    "bib" : "2910",
+    "club" : "Netherlands",
+    "finish" : "02:38:43"
+  }, {
+    "place" : 6,
+    "name" : "Bernar, Gunther",
+    "nation" : "BEL",
+    "bib" : "2912",
+    "club" : "Belgium",
+    "finish" : "02:13:17"
+  }, {
+    "place" : 6,
+    "name" : "Jacobs, Marieke",
+    "nation" : "NED",
+    "bib" : "2909",
+    "club" : "Netherlands",
+    "finish" : "02:59:34"
+  }, {
+    "place" : 7,
+    "name" : "Ruijssenaars, Henk",
+    "nation" : "NED",
+    "bib" : "2907",
+    "club" : "Netherlands",
+    "finish" : "02:14:04"
+  }, {
+    "place" : 8,
+    "name" : "Cornelisse, Michael",
+    "nation" : "NED",
+    "bib" : "2908",
+    "club" : "Netherlands",
+    "finish" : "02:15:04"
+  }, {
+    "place" : 9,
+    "name" : "Staelens, Dieter",
+    "nation" : "BEL",
+    "bib" : "2913",
+    "club" : "Belgium",
+    "finish" : "02:17:12"
+  }, {
+    "place" : 10,
+    "name" : "Hartmann, Steve",
+    "nation" : "GER",
+    "bib" : "2900",
+    "club" : "Germany",
+    "finish" : "02:18:00"
+  } ]
+}

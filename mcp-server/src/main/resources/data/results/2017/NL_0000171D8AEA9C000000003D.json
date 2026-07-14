@@ -1,0 +1,498 @@
+{
+  "year" : 2017,
+  "eventCode" : "NL_0000171D8AEA9C000000003D",
+  "eventName" : "NRW Liga",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2017/",
+  "resultCount" : 49,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Westermann, Rike",
+    "nation" : "GER",
+    "bib" : "109",
+    "club" : "Krefelder Kanu Klub II",
+    "swim" : "00:26:24",
+    "bike" : "01:02:08",
+    "run" : "00:42:56",
+    "finish" : "02:14:48"
+  }, {
+    "place" : 2,
+    "name" : "Jonkhans, Vera",
+    "nation" : "GER",
+    "bib" : "111",
+    "club" : "TV Goch",
+    "swim" : "00:21:25",
+    "bike" : "01:08:44",
+    "run" : "00:47:04",
+    "finish" : "02:20:18"
+  }, {
+    "place" : 3,
+    "name" : "Bartsch, Vanessa",
+    "nation" : "GER",
+    "bib" : "131",
+    "club" : "SV Blau-Weiß Bochum",
+    "swim" : "00:23:22",
+    "bike" : "01:08:52",
+    "run" : "00:45:33",
+    "finish" : "02:20:51"
+  }, {
+    "place" : 4,
+    "name" : "Urbansky, Christine",
+    "nation" : "GER",
+    "bib" : "125",
+    "club" : "ASV Köln I",
+    "swim" : "00:25:24",
+    "bike" : "01:07:00",
+    "run" : "00:45:50",
+    "finish" : "02:21:26"
+  }, {
+    "place" : 5,
+    "name" : "Knoepke, Ellen",
+    "nation" : "GER",
+    "bib" : "101",
+    "club" : "EJOT Team TV Buschhütte...",
+    "swim" : "00:24:30",
+    "bike" : "01:07:59",
+    "run" : "00:46:45",
+    "finish" : "02:21:54"
+  }, {
+    "place" : 6,
+    "name" : "Quest-Altrogge, Katjana",
+    "nation" : "GER",
+    "bib" : "108",
+    "club" : "Krefelder Kanu Klub II",
+    "swim" : "00:24:20",
+    "bike" : "01:06:52",
+    "run" : "00:47:51",
+    "finish" : "02:22:11"
+  }, {
+    "place" : 7,
+    "name" : "Spronk, Annika",
+    "nation" : "GER",
+    "bib" : "112",
+    "club" : "TV Goch",
+    "swim" : "00:25:29",
+    "bike" : "01:05:58",
+    "run" : "00:47:36",
+    "finish" : "02:22:25"
+  }, {
+    "place" : 8,
+    "name" : "Schillings, Stefanie",
+    "nation" : "GER",
+    "bib" : "151",
+    "club" : "TRC Essen 84",
+    "swim" : "00:25:26",
+    "bike" : "01:05:16",
+    "run" : "00:48:26",
+    "finish" : "02:22:38"
+  }, {
+    "place" : 9,
+    "name" : "Schmitz, Maike",
+    "nation" : "GER",
+    "bib" : "110",
+    "club" : "TV Goch",
+    "swim" : "00:21:20",
+    "bike" : "01:11:50",
+    "run" : "00:46:10",
+    "finish" : "02:22:42"
+  }, {
+    "place" : 10,
+    "name" : "Steinberg, Steffi",
+    "nation" : "GER",
+    "bib" : "102",
+    "club" : "EJOT Team TV Buschhütte...",
+    "swim" : "00:24:41",
+    "bike" : "01:09:15",
+    "run" : "00:46:48",
+    "finish" : "02:23:44"
+  }, {
+    "place" : 11,
+    "name" : "Drewell, Celina",
+    "nation" : "GER",
+    "bib" : "104",
+    "club" : "DLC Aachen II",
+    "swim" : "00:23:18",
+    "bike" : "01:11:06",
+    "run" : "00:47:37",
+    "finish" : "02:25:07"
+  }, {
+    "place" : 12,
+    "name" : "Schneider, Lilli",
+    "nation" : "GER",
+    "bib" : "150",
+    "club" : "TRC Essen 84",
+    "swim" : "00:25:21",
+    "bike" : "01:07:45",
+    "run" : "00:49:14",
+    "finish" : "02:25:28"
+  }, {
+    "place" : 13,
+    "name" : "Mazur, Katrin",
+    "nation" : "GER",
+    "bib" : "144",
+    "club" : "Kölner Triathlon Team 01 III",
+    "swim" : "00:23:52",
+    "bike" : "01:13:23",
+    "run" : "00:45:16",
+    "finish" : "02:26:05"
+  }, {
+    "place" : 14,
+    "name" : "Grünewald, Johanna",
+    "nation" : "GER",
+    "bib" : "114",
+    "club" : "PSV Bonn Triathlon I",
+    "swim" : "00:24:23",
+    "bike" : "01:10:19",
+    "run" : "00:48:43",
+    "finish" : "02:26:20"
+  }, {
+    "place" : 15,
+    "name" : "Püthe, Tina",
+    "nation" : "GER",
+    "bib" : "107",
+    "club" : "Krefelder Kanu Klub II",
+    "swim" : "00:28:30",
+    "bike" : "01:10:11",
+    "run" : "00:44:41",
+    "finish" : "02:26:43"
+  }, {
+    "place" : 16,
+    "name" : "Krautwald, Nele",
+    "nation" : "GER",
+    "bib" : "143",
+    "club" : "Kölner Triathlon Team 01 III",
+    "swim" : "00:22:17",
+    "bike" : "01:12:23",
+    "run" : "00:50:07",
+    "finish" : "02:27:56"
+  }, {
+    "place" : 17,
+    "name" : "Radtke, Inga",
+    "nation" : "GER",
+    "bib" : "115",
+    "club" : "PSV Bonn Triathlon I",
+    "swim" : "00:30:10",
+    "bike" : "01:10:06",
+    "run" : "00:44:48",
+    "finish" : "02:28:28"
+  }, {
+    "place" : 18,
+    "name" : "Hochheim, Jennifer",
+    "nation" : "GER",
+    "bib" : "126",
+    "club" : "ASV Köln I",
+    "swim" : "00:28:40",
+    "bike" : "01:06:34",
+    "run" : "00:50:18",
+    "finish" : "02:28:35"
+  }, {
+    "place" : 19,
+    "name" : "Meyer, Janina",
+    "nation" : "GER",
+    "bib" : "145",
+    "club" : "Kölner Triathlon Team 01 III",
+    "swim" : "00:23:59",
+    "bike" : "01:12:24",
+    "run" : "00:49:21",
+    "finish" : "02:28:39"
+  }, {
+    "place" : 20,
+    "name" : "Aßbeck, Katharina",
+    "nation" : "GER",
+    "bib" : "124",
+    "club" : "Tri Club Wuppertal",
+    "swim" : "00:29:00",
+    "bike" : "01:12:20",
+    "run" : "00:43:58",
+    "finish" : "02:28:46"
+  }, {
+    "place" : 21,
+    "name" : "Motte, Debby",
+    "nation" : "GER",
+    "bib" : "123",
+    "club" : "Tri Club Wuppertal",
+    "swim" : "00:24:37",
+    "bike" : "01:12:58",
+    "run" : "00:48:25",
+    "finish" : "02:28:53"
+  }, {
+    "place" : 22,
+    "name" : "Störbrock, Petra",
+    "nation" : "GER",
+    "bib" : "121",
+    "club" : "Sparda Bank Team Herne",
+    "swim" : "00:27:26",
+    "bike" : "01:14:03",
+    "run" : "00:45:25",
+    "finish" : "02:30:23"
+  }, {
+    "place" : 23,
+    "name" : "Gebauer, Sarah",
+    "nation" : "GER",
+    "bib" : "103",
+    "club" : "EJOT Team TV Buschhütte...",
+    "swim" : "00:26:53",
+    "bike" : "01:09:25",
+    "run" : "00:50:34",
+    "finish" : "02:30:50"
+  }, {
+    "place" : 24,
+    "name" : "Caillaud, Nicole",
+    "nation" : "GER",
+    "bib" : "113",
+    "club" : "PSV Bonn Triathlon I",
+    "swim" : "00:24:41",
+    "bike" : "01:12:01",
+    "run" : "00:50:35",
+    "finish" : "02:31:06"
+  }, {
+    "place" : 25,
+    "name" : "Gaus, Nadja",
+    "nation" : "GER",
+    "bib" : "127",
+    "club" : "ASV Köln I",
+    "swim" : "00:28:11",
+    "bike" : "01:17:24",
+    "run" : "00:41:53",
+    "finish" : "02:31:08"
+  }, {
+    "place" : 26,
+    "name" : "Bennek, Eveline",
+    "nation" : "GER",
+    "bib" : "106",
+    "club" : "DLC Aachen II",
+    "swim" : "00:26:29",
+    "bike" : "01:10:44",
+    "run" : "00:51:32",
+    "finish" : "02:31:57"
+  }, {
+    "place" : 27,
+    "name" : "Oberhagemann, Nicole",
+    "nation" : "GER",
+    "bib" : "138",
+    "club" : "SV Gladbeck 13",
+    "swim" : "00:24:29",
+    "bike" : "01:13:08",
+    "run" : "00:50:43",
+    "finish" : "02:32:14"
+  }, {
+    "place" : 28,
+    "name" : "Forero, Narda",
+    "nation" : "GER",
+    "bib" : "147",
+    "club" : "TSVE 1890 Bielefeld I",
+    "swim" : "00:23:36",
+    "bike" : "01:15:59",
+    "run" : "00:49:44",
+    "finish" : "02:33:03"
+  }, {
+    "place" : 29,
+    "name" : "Haschke, Melanie",
+    "nation" : "GER",
+    "bib" : "128",
+    "club" : "Starlight Team Essen",
+    "swim" : "00:26:38",
+    "bike" : "01:12:27",
+    "run" : "00:49:38",
+    "finish" : "02:33:21"
+  }, {
+    "place" : 30,
+    "name" : "Zuddas, Birgit",
+    "nation" : "GER",
+    "bib" : "139",
+    "club" : "SV Gladbeck 13",
+    "swim" : "00:26:36",
+    "bike" : "01:14:01",
+    "run" : "00:49:28",
+    "finish" : "02:34:27"
+  }, {
+    "place" : 31,
+    "name" : "Kieseler, Lena Katharina",
+    "nation" : "GER",
+    "bib" : "122",
+    "club" : "Tri Club Wuppertal",
+    "swim" : "00:24:35",
+    "bike" : "01:10:37",
+    "run" : "00:56:12",
+    "finish" : "02:34:42"
+  }, {
+    "place" : 32,
+    "name" : "Hauptmann, Daniela",
+    "nation" : "GER",
+    "bib" : "134",
+    "club" : "Freie Schwimmer Düsseldorf",
+    "swim" : "00:29:34",
+    "bike" : "01:12:36",
+    "run" : "00:48:39",
+    "finish" : "02:34:47"
+  }, {
+    "place" : 33,
+    "name" : "Scholz, Ellen",
+    "nation" : "GER",
+    "bib" : "130",
+    "club" : "Starlight Team Essen",
+    "swim" : "00:25:36",
+    "bike" : "01:11:56",
+    "run" : "00:54:05",
+    "finish" : "02:35:44"
+  }, {
+    "place" : 34,
+    "name" : "Hünchen, Heike",
+    "nation" : "GER",
+    "bib" : "135",
+    "club" : "Freie Schwimmer Düsseldorf",
+    "swim" : "00:27:19",
+    "bike" : "01:13:33",
+    "run" : "00:50:59",
+    "finish" : "02:36:18"
+  }, {
+    "place" : 35,
+    "name" : "Woger, Meike",
+    "nation" : "GER",
+    "bib" : "132",
+    "club" : "SV Blau-Weiß Bochum",
+    "swim" : "00:23:44",
+    "bike" : "01:13:59",
+    "run" : "00:56:35",
+    "finish" : "02:38:04"
+  }, {
+    "place" : 36,
+    "name" : "Oeldemann, Marina",
+    "nation" : "GER",
+    "bib" : "120",
+    "club" : "Sparda Bank Team Herne",
+    "swim" : "00:34:02",
+    "bike" : "01:13:06",
+    "run" : "00:46:42",
+    "finish" : "02:38:13"
+  }, {
+    "place" : 37,
+    "name" : "Hüsken, Isabelle",
+    "nation" : "GER",
+    "bib" : "149",
+    "club" : "TRC Essen 84",
+    "swim" : "00:22:39",
+    "bike" : "01:18:36",
+    "run" : "00:53:21",
+    "finish" : "02:38:19"
+  }, {
+    "place" : 38,
+    "name" : "Topheide, Martina",
+    "nation" : "GER",
+    "bib" : "142",
+    "club" : "W + F Münster I",
+    "swim" : "00:36:51",
+    "bike" : "01:07:38",
+    "run" : "00:50:27",
+    "finish" : "02:38:39"
+  }, {
+    "place" : 39,
+    "name" : "Haselhoff, Judith",
+    "nation" : "GER",
+    "bib" : "136",
+    "club" : "Freie Schwimmer Düsseldorf",
+    "swim" : "00:29:39",
+    "bike" : "01:11:25",
+    "run" : "00:53:09",
+    "finish" : "02:38:54"
+  }, {
+    "place" : 40,
+    "name" : "Henriksen, Lene",
+    "nation" : "GER",
+    "bib" : "119",
+    "club" : "Sparda Bank Team Herne",
+    "swim" : "00:30:07",
+    "bike" : "01:20:07",
+    "run" : "00:46:14",
+    "finish" : "02:39:38"
+  }, {
+    "place" : 41,
+    "name" : "Vorderwülbecke, Sophia",
+    "nation" : "GER",
+    "bib" : "105",
+    "club" : "DLC Aachen II",
+    "swim" : "00:29:33",
+    "bike" : "01:17:09",
+    "run" : "00:51:51",
+    "finish" : "02:41:55"
+  }, {
+    "place" : 42,
+    "name" : "Kleimann, Birgitt",
+    "nation" : "GER",
+    "bib" : "141",
+    "club" : "W + F Münster I",
+    "swim" : "00:31:36",
+    "bike" : "01:15:14",
+    "run" : "00:52:41",
+    "finish" : "02:43:35"
+  }, {
+    "place" : 43,
+    "name" : "Hoolt, Esther",
+    "nation" : "GER",
+    "bib" : "133",
+    "club" : "SV Blau-Weiß Bochum",
+    "swim" : "00:30:15",
+    "bike" : "01:21:30",
+    "run" : "00:50:35",
+    "finish" : "02:46:14"
+  }, {
+    "place" : 44,
+    "name" : "Muny, Mareike",
+    "nation" : "GER",
+    "bib" : "129",
+    "club" : "Starlight Team Essen",
+    "swim" : "00:33:58",
+    "bike" : "01:17:29",
+    "run" : "00:53:13",
+    "finish" : "02:49:42"
+  }, {
+    "place" : 45,
+    "name" : "Stöckmann, Tanja",
+    "nation" : "GER",
+    "bib" : "137",
+    "club" : "SV Gladbeck 13",
+    "swim" : "00:29:39",
+    "bike" : "01:21:04",
+    "run" : "00:56:27",
+    "finish" : "02:51:16"
+  }, {
+    "place" : 46,
+    "name" : "Holbach, Mirjam",
+    "nation" : "GER",
+    "bib" : "118",
+    "club" : "Triathlon Team TG Witten II",
+    "swim" : "00:29:41",
+    "bike" : "01:18:35",
+    "run" : "01:00:02",
+    "finish" : "02:52:03"
+  }, {
+    "place" : 47,
+    "name" : "Bonus, Kathrin",
+    "nation" : "GER",
+    "bib" : "146",
+    "club" : "TSVE 1890 Bielefeld I",
+    "swim" : "00:26:32",
+    "bike" : "01:20:18",
+    "run" : "01:03:45",
+    "finish" : "02:55:15"
+  }, {
+    "place" : 48,
+    "name" : "Graeff, Bettina",
+    "nation" : "GER",
+    "bib" : "117",
+    "club" : "Triathlon Team TG Witten II",
+    "swim" : "00:29:55",
+    "bike" : "01:22:45",
+    "run" : "00:59:33",
+    "finish" : "02:57:36"
+  }, {
+    "place" : 49,
+    "name" : "Strate, Antje- Simone",
+    "nation" : "GER",
+    "bib" : "116",
+    "club" : "Triathlon Team TG Witten II",
+    "swim" : "00:36:28",
+    "bike" : "01:19:14",
+    "run" : "01:03:06",
+    "finish" : "03:03:24"
+  } ]
+}

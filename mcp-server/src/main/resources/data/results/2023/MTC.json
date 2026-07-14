@@ -1,0 +1,142 @@
+{
+  "year" : 2023,
+  "eventCode" : "MTC",
+  "eventName" : "24. Internationaler Militär-Triathlon-Cup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2023/",
+  "resultCount" : 16,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Otten, Sören",
+    "nation" : "GER",
+    "bib" : "2902",
+    "club" : "Germany",
+    "finish" : "02:08:03"
+  }, {
+    "place" : 1,
+    "name" : "Sanchez-Sanchez, Patricia",
+    "nation" : "GER",
+    "bib" : "2905",
+    "club" : "Germany",
+    "finish" : "02:30:55"
+  }, {
+    "place" : 2,
+    "name" : "Hartmann, Steve",
+    "nation" : "GER",
+    "bib" : "2900",
+    "club" : "Germany",
+    "finish" : "02:18:00"
+  }, {
+    "place" : 2,
+    "name" : "Hoppe, Julia",
+    "nation" : "GER",
+    "bib" : "2903",
+    "club" : "Germany",
+    "finish" : "02:34:49"
+  }, {
+    "place" : 3,
+    "name" : "Bottek, Silvia",
+    "nation" : "GER",
+    "bib" : "2904",
+    "club" : "Germany",
+    "finish" : "02:37:15"
+  }, {
+    "place" : 3,
+    "agePlace" : 1,
+    "name" : "Thomas, Oliver",
+    "nation" : "GER",
+    "bib" : "2810",
+    "ageGroup" : "30",
+    "club" : "EinsFüKdoBw",
+    "finish" : "02:21:41"
+  }, {
+    "place" : 4,
+    "agePlace" : 1,
+    "name" : "Rave, Rob",
+    "nation" : "NED",
+    "bib" : "2805",
+    "ageGroup" : "55",
+    "club" : "1 GNC",
+    "finish" : "02:32:39"
+  }, {
+    "place" : 4,
+    "agePlace" : 1,
+    "name" : "Renner, Beatrix",
+    "nation" : "GER",
+    "bib" : "2813",
+    "ageGroup" : "25",
+    "club" : "Bwk Ulm",
+    "finish" : "02:49:57"
+  }, {
+    "place" : 5,
+    "agePlace" : 1,
+    "name" : "Schilke, Christina",
+    "nation" : "GER",
+    "bib" : "2807",
+    "ageGroup" : "30",
+    "club" : "AIC Lw",
+    "finish" : "03:16:27"
+  }, {
+    "place" : 5,
+    "agePlace" : 1,
+    "name" : "Wachowitz, Andreas",
+    "nation" : "GER",
+    "bib" : "2811",
+    "ageGroup" : "50",
+    "club" : "AIC Lw",
+    "finish" : "02:35:06"
+  }, {
+    "place" : 6,
+    "agePlace" : 2,
+    "name" : "Mauritz, Stephan",
+    "nation" : "GER",
+    "bib" : "2804",
+    "ageGroup" : "55",
+    "club" : "Planungsamt der Bundeswehr",
+    "finish" : "02:37:19"
+  }, {
+    "place" : 7,
+    "agePlace" : 1,
+    "name" : "Rusch, Felix",
+    "nation" : "GER",
+    "bib" : "2806",
+    "ageGroup" : "35",
+    "club" : "AIC Lw",
+    "finish" : "02:49:23"
+  }, {
+    "place" : 8,
+    "agePlace" : 1,
+    "name" : "Struck, Hergen",
+    "nation" : "GER",
+    "bib" : "2809",
+    "ageGroup" : "25",
+    "club" : "AIC Lw",
+    "finish" : "02:51:28"
+  }, {
+    "place" : 9,
+    "agePlace" : 2,
+    "name" : "Eitel, Thorsten",
+    "nation" : "GER",
+    "bib" : "2802",
+    "ageGroup" : "35",
+    "club" : "AIC Lw",
+    "finish" : "02:56:59"
+  }, {
+    "place" : 10,
+    "agePlace" : 3,
+    "name" : "Weigand, Jan",
+    "nation" : "GER",
+    "bib" : "2812",
+    "ageGroup" : "35",
+    "club" : "AIC Lw",
+    "finish" : "03:00:23"
+  }, {
+    "place" : 11,
+    "agePlace" : 1,
+    "name" : "Schmitz, Thomas",
+    "nation" : "GER",
+    "bib" : "2808",
+    "ageGroup" : "45",
+    "club" : "Kommando Sanitätsdienst der Bundeswehr",
+    "finish" : "03:01:22"
+  } ]
+}

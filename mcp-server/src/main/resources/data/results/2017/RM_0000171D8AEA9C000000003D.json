@@ -1,0 +1,718 @@
+{
+  "year" : 2017,
+  "eventCode" : "RM_0000171D8AEA9C000000003D",
+  "eventName" : "Regionalliga Männer",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2017/",
+  "resultCount" : 71,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Lewanzik, Heiko",
+    "nation" : "GER",
+    "bib" : "260",
+    "club" : "Tri Speed Marienfeld",
+    "swim" : "00:20:55",
+    "bike" : "00:59:02",
+    "run" : "00:36:58",
+    "finish" : "01:59:28"
+  }, {
+    "place" : 2,
+    "name" : "Hackenbruch, Yves",
+    "nation" : "GER",
+    "bib" : "261",
+    "club" : "DLC Aachen III",
+    "swim" : "00:21:00",
+    "bike" : "00:59:31",
+    "run" : "00:37:42",
+    "finish" : "02:00:52"
+  }, {
+    "place" : 3,
+    "name" : "Dörmbach, René",
+    "nation" : "GER",
+    "bib" : "229",
+    "club" : "RC Lüdenscheid",
+    "swim" : "00:21:55",
+    "bike" : "00:58:35",
+    "run" : "00:38:06",
+    "finish" : "02:01:26"
+  }, {
+    "place" : 4,
+    "name" : "Gems, Christian",
+    "nation" : "GER",
+    "bib" : "222",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "swim" : "00:21:59",
+    "bike" : "00:58:31",
+    "run" : "00:38:43",
+    "finish" : "02:02:05"
+  }, {
+    "place" : 5,
+    "name" : "Quast, Matthias",
+    "nation" : "GER",
+    "bib" : "262",
+    "club" : "DLC Aachen III",
+    "swim" : "00:20:58",
+    "bike" : "00:59:37",
+    "run" : "00:39:03",
+    "finish" : "02:02:15"
+  }, {
+    "place" : 6,
+    "name" : "Möllers, Denis",
+    "nation" : "GER",
+    "bib" : "256",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "swim" : "00:21:51",
+    "bike" : "00:58:27",
+    "run" : "00:39:05",
+    "finish" : "02:02:28"
+  }, {
+    "place" : 7,
+    "name" : "Hein, Philipp",
+    "nation" : "GER",
+    "bib" : "223",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "swim" : "00:20:00",
+    "bike" : "01:00:40",
+    "run" : "00:39:11",
+    "finish" : "02:02:30"
+  }, {
+    "place" : 8,
+    "name" : "Jasch, Alexander",
+    "nation" : "GER",
+    "bib" : "201",
+    "club" : "Freie Schwimmer Düsseldorf I",
+    "swim" : "00:21:12",
+    "bike" : "00:57:19",
+    "run" : "00:40:42",
+    "finish" : "02:02:37"
+  }, {
+    "place" : 9,
+    "name" : "Zudrop, Tim",
+    "nation" : "GER",
+    "bib" : "257",
+    "club" : "Tri Speed Marienfeld",
+    "swim" : "00:21:56",
+    "bike" : "00:58:30",
+    "run" : "00:39:21",
+    "finish" : "02:02:40"
+  }, {
+    "place" : 10,
+    "name" : "Enters, Christian",
+    "nation" : "GER",
+    "bib" : "202",
+    "club" : "Freie Schwimmer Düsseldorf I",
+    "swim" : "00:21:03",
+    "bike" : "00:59:30",
+    "run" : "00:39:44",
+    "finish" : "02:03:02"
+  }, {
+    "place" : 11,
+    "name" : "Gösmann, Richard Raphael",
+    "nation" : "GER",
+    "bib" : "230",
+    "club" : "RC Lüdenscheid",
+    "swim" : "00:22:22",
+    "bike" : "00:59:27",
+    "run" : "00:39:23",
+    "finish" : "02:04:14"
+  }, {
+    "place" : 12,
+    "name" : "Schöpping, Maximilan",
+    "nation" : "GER",
+    "bib" : "264",
+    "club" : "DLC Aachen III",
+    "swim" : "00:21:57",
+    "bike" : "00:58:28",
+    "run" : "00:42:17",
+    "finish" : "02:05:28"
+  }, {
+    "place" : 13,
+    "name" : "Köhler, Max",
+    "nation" : "GER",
+    "bib" : "269",
+    "club" : "Hildener AT - Triathlon I",
+    "swim" : "00:23:07",
+    "bike" : "01:00:22",
+    "run" : "00:38:58",
+    "finish" : "02:05:35"
+  }, {
+    "place" : 14,
+    "name" : "Hillebrand, Yannik",
+    "nation" : "GER",
+    "bib" : "237",
+    "club" : "Tri Team Hagen II",
+    "swim" : "00:21:09",
+    "bike" : "01:02:40",
+    "run" : "00:39:15",
+    "finish" : "02:06:09"
+  }, {
+    "place" : 15,
+    "name" : "Kröller, Stephan",
+    "nation" : "GER",
+    "bib" : "206",
+    "club" : "TRC Essen 84 I",
+    "swim" : "00:21:06",
+    "bike" : "00:59:23",
+    "run" : "00:42:48",
+    "finish" : "02:06:21"
+  }, {
+    "place" : 16,
+    "name" : "Winterstein, Florian",
+    "nation" : "GER",
+    "bib" : "240",
+    "club" : "Tri Team Hagen II",
+    "swim" : "00:22:26",
+    "bike" : "01:02:16",
+    "run" : "00:38:57",
+    "finish" : "02:06:45"
+  }, {
+    "place" : 17,
+    "name" : "Selker, Torsten",
+    "nation" : "GER",
+    "bib" : "243",
+    "club" : "Tri Sport Team Verl",
+    "swim" : "00:23:41",
+    "bike" : "00:59:47",
+    "run" : "00:40:56",
+    "finish" : "02:07:42"
+  }, {
+    "place" : 18,
+    "name" : "Bierlich, Hagen",
+    "nation" : "GER",
+    "bib" : "209",
+    "club" : "Pulheimer SC",
+    "swim" : "00:24:48",
+    "bike" : "01:02:07",
+    "run" : "00:38:46",
+    "finish" : "02:09:06"
+  }, {
+    "place" : 19,
+    "name" : "Bartkowiak, Jens",
+    "nation" : "GER",
+    "bib" : "252",
+    "club" : "Starlight Team Essen",
+    "swim" : "00:22:16",
+    "bike" : "01:01:14",
+    "run" : "00:42:10",
+    "finish" : "02:09:08"
+  }, {
+    "place" : 20,
+    "name" : "Niklass, Kai",
+    "nation" : "GER",
+    "bib" : "207",
+    "club" : "TRC Essen 84 I",
+    "swim" : "00:22:00",
+    "bike" : "00:59:47",
+    "run" : "00:44:09",
+    "finish" : "02:09:20"
+  }, {
+    "place" : 21,
+    "name" : "Dinraths, Christian",
+    "nation" : "GER",
+    "bib" : "265",
+    "club" : "M.Gladbacher TV 1848",
+    "swim" : "00:24:57",
+    "bike" : "01:00:35",
+    "run" : "00:40:56",
+    "finish" : "02:09:33"
+  }, {
+    "place" : 22,
+    "name" : "Kreutzer, Daniel",
+    "nation" : "GER",
+    "bib" : "248",
+    "club" : "Brander SV Tri Team II",
+    "swim" : "00:24:10",
+    "bike" : "01:01:47",
+    "run" : "00:40:15",
+    "finish" : "02:09:38"
+  }, {
+    "place" : 23,
+    "name" : "Jazbec, Tobias",
+    "nation" : "GER",
+    "bib" : "235",
+    "club" : "ASV Duisburg",
+    "swim" : "00:23:04",
+    "bike" : "01:03:33",
+    "run" : "00:40:00",
+    "finish" : "02:09:40"
+  }, {
+    "place" : 24,
+    "name" : "Zimmerling, Joachim",
+    "nation" : "GER",
+    "bib" : "216",
+    "club" : "ASV Köln II",
+    "swim" : "00:21:58",
+    "bike" : "01:01:39",
+    "run" : "00:42:39",
+    "finish" : "02:09:44"
+  }, {
+    "place" : 25,
+    "name" : "Seidel, Ronny",
+    "nation" : "GER",
+    "bib" : "227",
+    "club" : "Triathlon Team Witten IV",
+    "swim" : "00:23:00",
+    "bike" : "01:02:41",
+    "run" : "00:40:21",
+    "finish" : "02:09:57"
+  }, {
+    "place" : 26,
+    "name" : "Zilcher, Oliver",
+    "nation" : "GER",
+    "bib" : "203",
+    "club" : "Freie Schwimmer Düsseldorf I",
+    "swim" : "00:22:08",
+    "bike" : "01:01:19",
+    "run" : "00:43:11",
+    "finish" : "02:10:04"
+  }, {
+    "place" : 27,
+    "name" : "Stichler, Karsten",
+    "nation" : "GER",
+    "bib" : "214",
+    "club" : "ASV Köln II",
+    "swim" : "00:24:59",
+    "bike" : "00:59:36",
+    "run" : "00:42:08",
+    "finish" : "02:10:16"
+  }, {
+    "place" : 28,
+    "name" : "van Laak, Martin",
+    "nation" : "GER",
+    "bib" : "215",
+    "club" : "ASV Köln II",
+    "swim" : "00:23:26",
+    "bike" : "01:01:14",
+    "run" : "00:42:16",
+    "finish" : "02:10:24"
+  }, {
+    "place" : 29,
+    "name" : "Röpstorf, Uwe",
+    "nation" : "GER",
+    "bib" : "221",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "swim" : "00:24:33",
+    "bike" : "01:00:49",
+    "run" : "00:41:24",
+    "finish" : "02:10:25"
+  }, {
+    "place" : 30,
+    "name" : "Siepe, Volker",
+    "nation" : "GER",
+    "bib" : "270",
+    "club" : "Hildener AT - Triathlon I",
+    "swim" : "00:25:59",
+    "bike" : "00:59:13",
+    "run" : "00:41:32",
+    "finish" : "02:10:29"
+  }, {
+    "place" : 31,
+    "name" : "Hennigs, Ben",
+    "nation" : "GER",
+    "bib" : "254",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "swim" : "00:22:14",
+    "bike" : "01:01:04",
+    "run" : "00:43:57",
+    "finish" : "02:10:45"
+  }, {
+    "place" : 32,
+    "name" : "Schnell, Uwe",
+    "nation" : "GER",
+    "bib" : "242",
+    "club" : "Tri Sport Team Verl",
+    "swim" : "00:22:51",
+    "bike" : "01:03:10",
+    "run" : "00:41:15",
+    "finish" : "02:10:50"
+  }, {
+    "place" : 33,
+    "name" : "Thra, Dustin",
+    "nation" : "GER",
+    "bib" : "226",
+    "club" : "Triathlon Team Witten IV",
+    "swim" : "00:23:44",
+    "bike" : "01:02:10",
+    "run" : "00:41:06",
+    "finish" : "02:11:05"
+  }, {
+    "place" : 34,
+    "name" : "Hensel, Johann",
+    "nation" : "GER",
+    "bib" : "217",
+    "club" : "Weicon Tri Finish Münster IV",
+    "swim" : "00:24:02",
+    "bike" : "01:03:42",
+    "run" : "00:40:32",
+    "finish" : "02:11:13"
+  }, {
+    "place" : 35,
+    "name" : "Schneppe, Tobias",
+    "nation" : "GER",
+    "bib" : "263",
+    "club" : "DLC Aachen III",
+    "swim" : "00:21:13",
+    "bike" : "01:00:58",
+    "run" : "00:45:37",
+    "finish" : "02:11:33"
+  }, {
+    "place" : 36,
+    "name" : "Ohls, Gerriet",
+    "nation" : "GER",
+    "bib" : "220",
+    "club" : "Weicon Tri Finish Münster IV",
+    "swim" : "00:23:39",
+    "bike" : "01:01:18",
+    "run" : "00:43:26",
+    "finish" : "02:11:42"
+  }, {
+    "place" : 37,
+    "name" : "Weiß, Ben",
+    "nation" : "GER",
+    "bib" : "204",
+    "club" : "Freie Schwimmer Düsseldorf I",
+    "swim" : "00:23:55",
+    "bike" : "01:01:54",
+    "run" : "00:42:29",
+    "finish" : "02:12:05"
+  }, {
+    "place" : 38,
+    "name" : "Mettlach, Jörg",
+    "nation" : "GER",
+    "bib" : "249",
+    "club" : "Starlight Team Essen",
+    "swim" : "00:21:10",
+    "bike" : "00:59:45",
+    "run" : "00:47:43",
+    "finish" : "02:12:07"
+  }, {
+    "place" : 39,
+    "name" : "Keuchen, Erich",
+    "nation" : "GER",
+    "bib" : "245",
+    "club" : "Brander SV Tri Team II",
+    "swim" : "00:26:49",
+    "bike" : "00:59:47",
+    "run" : "00:41:20",
+    "finish" : "02:12:21"
+  }, {
+    "place" : 40,
+    "name" : "Vogel, Detlef",
+    "nation" : "GER",
+    "bib" : "212",
+    "club" : "Pulheimer SC",
+    "swim" : "00:21:50",
+    "bike" : "01:00:41",
+    "run" : "00:46:20",
+    "finish" : "02:12:27"
+  }, {
+    "place" : 41,
+    "name" : "Smyrek, David",
+    "nation" : "GER",
+    "bib" : "244",
+    "club" : "Tri Sport Team Verl",
+    "swim" : "00:25:23",
+    "bike" : "01:02:14",
+    "run" : "00:42:26",
+    "finish" : "02:13:26"
+  }, {
+    "place" : 42,
+    "name" : "Rossmann, Benjamin",
+    "nation" : "GER",
+    "bib" : "205",
+    "club" : "TRC Essen 84 I",
+    "swim" : "00:25:21",
+    "bike" : "01:03:01",
+    "run" : "00:38:31",
+    "finish" : "02:13:33"
+  }, {
+    "place" : 43,
+    "name" : "Neuhörl, Udo",
+    "nation" : "GER",
+    "bib" : "250",
+    "club" : "Starlight Team Essen",
+    "swim" : "00:22:05",
+    "bike" : "01:01:29",
+    "run" : "00:46:50",
+    "finish" : "02:13:40"
+  }, {
+    "place" : 44,
+    "name" : "Friedhoff, Benjamin",
+    "nation" : "GER",
+    "bib" : "233",
+    "club" : "ASV Duisburg",
+    "swim" : "00:25:53",
+    "bike" : "01:01:36",
+    "run" : "00:42:41",
+    "finish" : "02:14:00"
+  }, {
+    "place" : 45,
+    "name" : "Kleinschmidt, Oliver",
+    "nation" : "GER",
+    "bib" : "231",
+    "club" : "RC Lüdenscheid",
+    "swim" : "00:26:30",
+    "bike" : "01:05:21",
+    "run" : "00:39:21",
+    "finish" : "02:14:32"
+  }, {
+    "place" : 46,
+    "name" : "Henninger, Tristan",
+    "nation" : "GER",
+    "bib" : "246",
+    "club" : "Brander SV Tri Team II",
+    "swim" : "00:25:48",
+    "bike" : "01:04:22",
+    "run" : "00:41:05",
+    "finish" : "02:14:36"
+  }, {
+    "place" : 47,
+    "name" : "Laschet, Christian",
+    "nation" : "GER",
+    "bib" : "208",
+    "club" : "TRC Essen 84 I",
+    "swim" : "00:26:01",
+    "bike" : "01:00:04",
+    "run" : "00:44:37",
+    "finish" : "02:14:39"
+  }, {
+    "place" : 48,
+    "name" : "Scholz, Swen",
+    "nation" : "GER",
+    "bib" : "247",
+    "club" : "Brander SV Tri Team II",
+    "swim" : "00:28:00",
+    "bike" : "01:01:30",
+    "run" : "00:42:14",
+    "finish" : "02:14:52"
+  }, {
+    "place" : 49,
+    "name" : "Friedel, Jörg",
+    "nation" : "GER",
+    "bib" : "213",
+    "club" : "ASV Köln II",
+    "swim" : "00:25:20",
+    "bike" : "01:02:15",
+    "run" : "00:43:48",
+    "finish" : "02:15:08"
+  }, {
+    "place" : 50,
+    "name" : "Jüdiges, Andreas",
+    "nation" : "GER",
+    "bib" : "219",
+    "club" : "Weicon Tri Finish Münster IV",
+    "swim" : "00:24:58",
+    "bike" : "01:01:28",
+    "run" : "00:45:21",
+    "finish" : "02:15:18"
+  }, {
+    "place" : 51,
+    "name" : "Müller, Peter",
+    "nation" : "GER",
+    "bib" : "238",
+    "club" : "Tri Team Hagen II",
+    "swim" : "00:26:05",
+    "bike" : "01:04:06",
+    "run" : "00:41:55",
+    "finish" : "02:15:43"
+  }, {
+    "place" : 52,
+    "name" : "Bender, Dennis",
+    "nation" : "GER",
+    "bib" : "253",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "swim" : "00:22:13",
+    "bike" : "01:09:57",
+    "run" : "00:40:31",
+    "finish" : "02:15:47"
+  }, {
+    "place" : 53,
+    "name" : "Meiertoberens, Ralf",
+    "nation" : "GER",
+    "bib" : "241",
+    "club" : "Tri Sport Team Verl",
+    "swim" : "00:22:23",
+    "bike" : "01:03:55",
+    "run" : "00:45:59",
+    "finish" : "02:15:55"
+  }, {
+    "place" : 54,
+    "name" : "Gajewski, Merlin",
+    "nation" : "GER",
+    "bib" : "224",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "swim" : "00:25:57",
+    "bike" : "01:03:25",
+    "run" : "00:43:56",
+    "finish" : "02:16:19"
+  }, {
+    "place" : 55,
+    "name" : "Kreitner, Jan",
+    "nation" : "GER",
+    "bib" : "255",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "swim" : "00:25:54",
+    "bike" : "01:06:04",
+    "run" : "00:40:44",
+    "finish" : "02:16:37"
+  }, {
+    "place" : 56,
+    "name" : "Pohlmann, Rene",
+    "nation" : "GER",
+    "bib" : "239",
+    "club" : "Tri Team Hagen II",
+    "swim" : "00:22:19",
+    "bike" : "01:06:09",
+    "run" : "00:44:53",
+    "finish" : "02:17:07"
+  }, {
+    "place" : 57,
+    "name" : "Humme, Mark",
+    "nation" : "GER",
+    "bib" : "218",
+    "club" : "Weicon Tri Finish Münster IV",
+    "swim" : "00:25:14",
+    "bike" : "01:03:13",
+    "run" : "00:44:20",
+    "finish" : "02:17:16"
+  }, {
+    "place" : 58,
+    "name" : "Buro, Stefan",
+    "nation" : "GER",
+    "bib" : "210",
+    "club" : "Pulheimer SC",
+    "swim" : "00:25:49",
+    "bike" : "01:04:38",
+    "run" : "00:43:37",
+    "finish" : "02:17:28"
+  }, {
+    "place" : 59,
+    "name" : "Barthelmes, Hans Ullrich",
+    "nation" : "GER",
+    "bib" : "271",
+    "club" : "Hildener AT - Triathlon I",
+    "swim" : "00:26:12",
+    "bike" : "01:03:29",
+    "run" : "00:44:51",
+    "finish" : "02:19:00"
+  }, {
+    "place" : 60,
+    "name" : "Borges, Martin",
+    "nation" : "GER",
+    "bib" : "272",
+    "club" : "Hildener AT - Triathlon I",
+    "swim" : "00:25:19",
+    "bike" : "01:04:16",
+    "run" : "00:45:54",
+    "finish" : "02:19:11"
+  }, {
+    "place" : 61,
+    "name" : "Laermann, Ralf",
+    "nation" : "GER",
+    "bib" : "267",
+    "club" : "M.Gladbacher TV 1848",
+    "swim" : "00:30:08",
+    "bike" : "01:03:13",
+    "run" : "00:43:02",
+    "finish" : "02:19:55"
+  }, {
+    "place" : 62,
+    "name" : "Penning, Raphael",
+    "nation" : "GER",
+    "bib" : "236",
+    "club" : "ASV Duisburg",
+    "swim" : "00:22:25",
+    "bike" : "01:09:14",
+    "run" : "00:45:28",
+    "finish" : "02:20:37"
+  }, {
+    "place" : 63,
+    "name" : "Hallebach, Tobias",
+    "nation" : "GER",
+    "bib" : "251",
+    "club" : "Starlight Team Essen",
+    "swim" : "00:26:24",
+    "bike" : "01:05:52",
+    "run" : "00:44:14",
+    "finish" : "02:20:55"
+  }, {
+    "place" : 64,
+    "name" : "Krieft, Jan",
+    "nation" : "GER",
+    "bib" : "258",
+    "club" : "Tri Speed Marienfeld",
+    "swim" : "00:23:48",
+    "bike" : "01:06:14",
+    "run" : "00:47:15",
+    "finish" : "02:21:03"
+  }, {
+    "place" : 65,
+    "name" : "Lötz, Jarit",
+    "nation" : "GER",
+    "bib" : "225",
+    "club" : "Triathlon Team Witten IV",
+    "swim" : "00:25:20",
+    "bike" : "01:04:42",
+    "run" : "00:48:06",
+    "finish" : "02:21:52"
+  }, {
+    "place" : 66,
+    "name" : "Sudhoff, Burkhard",
+    "nation" : "GER",
+    "bib" : "266",
+    "club" : "M.Gladbacher TV 1848",
+    "swim" : "00:24:23",
+    "bike" : "01:02:39",
+    "run" : "00:50:39",
+    "finish" : "02:22:40"
+  }, {
+    "place" : 67,
+    "name" : "Kruska, Marco",
+    "nation" : "GER",
+    "bib" : "211",
+    "club" : "Pulheimer SC",
+    "swim" : "00:24:42",
+    "bike" : "01:02:08",
+    "run" : "00:53:06",
+    "finish" : "02:23:48"
+  }, {
+    "place" : 68,
+    "name" : "Becker, Robert",
+    "nation" : "GER",
+    "bib" : "259",
+    "club" : "Tri Speed Marienfeld",
+    "swim" : "00:24:50",
+    "bike" : "01:09:48",
+    "run" : "00:46:03",
+    "finish" : "02:25:07"
+  }, {
+    "place" : 69,
+    "name" : "Herberg, Rainer",
+    "nation" : "GER",
+    "bib" : "234",
+    "club" : "ASV Duisburg",
+    "swim" : "00:34:10",
+    "bike" : "01:08:14",
+    "run" : "00:38:49",
+    "finish" : "02:25:15"
+  }, {
+    "place" : 70,
+    "name" : "Pulido Jiménez, Carlos",
+    "nation" : "ESP",
+    "bib" : "268",
+    "club" : "M.Gladbacher TV 1848",
+    "swim" : "00:31:28",
+    "bike" : "01:08:23",
+    "run" : "00:44:54",
+    "finish" : "02:28:18"
+  }, {
+    "place" : 71,
+    "name" : "Exner, Benjamin",
+    "nation" : "GER",
+    "bib" : "228",
+    "club" : "Triathlon Team Witten IV",
+    "swim" : "00:32:02",
+    "bike" : "01:05:35",
+    "run" : "00:57:35",
+    "finish" : "02:39:45"
+  } ]
+}

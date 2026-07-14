@@ -1,0 +1,145 @@
+{
+  "year" : 2019,
+  "eventCode" : "F3R",
+  "eventName" : "Barmer StaffelCup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2019/",
+  "resultCount" : 35,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Jericho Racing Team",
+    "finish" : "01:08:15"
+  }, {
+    "place" : 2,
+    "name" : "Speed Fun",
+    "finish" : "01:11:57"
+  }, {
+    "place" : 3,
+    "name" : "Hobbytriteam",
+    "finish" : "01:12:36"
+  }, {
+    "place" : 4,
+    "name" : "Last Man Standing",
+    "finish" : "01:12:50"
+  }, {
+    "place" : 5,
+    "name" : "Wiedenbrücker Raketen",
+    "finish" : "01:13:53"
+  }, {
+    "place" : 6,
+    "name" : "Djk Rw Milte",
+    "finish" : "01:15:17"
+  }, {
+    "place" : 7,
+    "name" : "Tri Ducks Dorsten I",
+    "finish" : "01:15:23"
+  }, {
+    "place" : 8,
+    "name" : "Jopalu",
+    "finish" : "01:15:52"
+  }, {
+    "place" : 9,
+    "name" : "As BROm",
+    "finish" : "01:19:10"
+  }, {
+    "place" : 10,
+    "name" : "NeMaKo",
+    "finish" : "01:19:11"
+  }, {
+    "place" : 11,
+    "name" : "Tuboturtles",
+    "finish" : "01:20:11"
+  }, {
+    "place" : 12,
+    "finish" : "01:22:32"
+  }, {
+    "place" : 13,
+    "name" : "Roadrunners 09 Düffelward 1",
+    "finish" : "01:23:39"
+  }, {
+    "place" : 14,
+    "name" : "Torpedo Dreigang",
+    "finish" : "01:23:49"
+  }, {
+    "place" : 15,
+    "name" : "Roadrunners 09 Düffelward",
+    "finish" : "01:24:01"
+  }, {
+    "place" : 16,
+    "name" : "H3",
+    "finish" : "01:24:49"
+  }, {
+    "place" : 17,
+    "name" : "Nobody",
+    "finish" : "01:27:56"
+  }, {
+    "place" : 18,
+    "finish" : "01:28:51"
+  }, {
+    "place" : 19,
+    "name" : "Deutscher Kampftrinkerverband",
+    "finish" : "01:28:53"
+  }, {
+    "place" : 20,
+    "name" : "Die Melcherts",
+    "finish" : "01:28:53"
+  }, {
+    "place" : 21,
+    "name" : "Einfach So 2",
+    "finish" : "01:29:59"
+  }, {
+    "place" : 22,
+    "name" : "Tri Team Cookie",
+    "finish" : "01:30:30"
+  }, {
+    "place" : 23,
+    "name" : "HONDA Dieckmann",
+    "finish" : "01:30:59"
+  }, {
+    "place" : 24,
+    "name" : "ASC Ahlen Express",
+    "finish" : "01:31:26"
+  }, {
+    "place" : 25,
+    "name" : "Einfach So1",
+    "finish" : "01:32:37"
+  }, {
+    "place" : 26,
+    "name" : "Running Gags",
+    "finish" : "01:34:29"
+  }, {
+    "place" : 27,
+    "name" : "Die Zeitlupen 2019",
+    "finish" : "01:34:38"
+  }, {
+    "place" : 28,
+    "name" : "Just for Fun",
+    "finish" : "01:35:01"
+  }, {
+    "place" : 29,
+    "name" : "Family Fun",
+    "finish" : "01:36:01"
+  }, {
+    "place" : 30,
+    "name" : "Zartbitter",
+    "finish" : "01:36:03"
+  }, {
+    "place" : 31,
+    "name" : "Girlz United",
+    "finish" : "01:36:34"
+  }, {
+    "place" : 32,
+    "finish" : "01:36:57"
+  }, {
+    "place" : 33,
+    "name" : "Die 3 Lustigen 4",
+    "finish" : "01:38:47"
+  }, {
+    "place" : 34,
+    "name" : "Fit For Fun",
+    "finish" : "01:42:01"
+  }, {
+    "place" : 35,
+    "name" : "St.St.Sch",
+    "finish" : "01:49:56"
+  } ]
+}

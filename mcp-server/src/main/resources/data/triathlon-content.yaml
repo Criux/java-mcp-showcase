@@ -1,0 +1,174 @@
+# Curated facts about the Sassenberger Triathlon, transcribed from
+# https://sassenbergertriathlon.de (July 2026). Key figures (distances, fees,
+# time limits, schedule) are published on the website only as images/PDFs,
+# so they are maintained here by hand — refresh once per season.
+
+event:
+  name: Sassenberger Triathlon
+  edition: 38
+  date: "2026-08-02"
+  location: "Sassenberg, Kreis Warendorf, Nordrhein-Westfalen, Deutschland"
+  venue: "Feldmarksee (\"Eurosee\"), Sassenberg"
+  description: >-
+    Traditionsreicher Triathlon am Feldmarksee in Sassenberg, seit 1987
+    ehrenamtlich organisiert vom VfL Sassenberg. Freiwasserschwimmen im
+    Feldmarksee; die Wechselzone liegt auf einer Wiese ca. 100 m vom
+    Schwimmausstieg und ca. 600 m vom Zielbereich entfernt. Die Radstrecke
+    besteht aus Runden eines flachen ca. 22-km-Kurses (keine Vollsperrung,
+    StVO gilt), die Laufstrecke aus Runden eines ca. 5-km-Kurses mit wenig
+    Asphalt.
+  heldSince: 1987
+  websiteUrl: "https://sassenbergertriathlon.de/de/home"
+  organizer:
+    name: "VfL Sassenberg 1926 e.V."
+    address: "Telgenkamp 2a, 48336 Sassenberg"
+    chairperson: "Simon Berheide"
+    phone: "+49 2583 91 92 15"
+    email: "info@vfl-sassenberg.de"
+  rules:
+    - "Rollender Schwimmstart: 6 Athleten alle 5 Sekunden"
+    - "Windschattenfahren verboten (kein Drafting)"
+    - "Keine Vollsperrung der Radstrecke — es gilt die StVO"
+    - "Helmpflicht auf der Radstrecke"
+    - "Neoprenentscheidung ca. 8:30 Uhr am Wettkampfmorgen"
+    - "Leih-Transponder inklusive; 70 € Gebühr bei Nichtrückgabe bis 09.08.2026"
+    - "Es gelten die Regeln von NRWTV / DTU (Deutsche Triathlon Union)"
+
+races:
+  - id: volksdistanz
+    name: "VolksBank-Distanz (Volksdistanz)"
+    swimKm: 0.7
+    bikeKm: 23
+    runKm: 5
+    feeEur: 56
+    eligibility: "Jahrgang 2010 und älter (ab Jugend A)"
+    license: "Keine Lizenz erforderlich"
+    timeLimitMinutes: 135
+    courseDescription: >-
+      Einsteigerfreundliche Distanz: 700 m Schwimmen im Feldmarksee, 23 km
+      flache Radstrecke (1 Runde), 5 km Laufen (1 Runde, wenig Asphalt).
+    courseInfoUrl: "https://sassenbergertriathlon.de/de/wettkampf/strecken/volksdistanz-staffelcup"
+
+  - id: staffelcup
+    name: "Strohbücker StaffelCup (Staffel)"
+    swimKm: 0.7
+    bikeKm: 23
+    runKm: 5
+    feeEur: 72
+    eligibility: "2er- oder 3er-Teams, Jahrgang 2012 und älter"
+    license: "Keine Lizenz erforderlich"
+    timeLimitMinutes: 210
+    courseDescription: >-
+      Staffelwettbewerb über die Volksdistanz: 700 m Schwimmen, 23 km Rad,
+      5 km Laufen — aufgeteilt auf 2 oder 3 Teammitglieder.
+    courseInfoUrl: "https://sassenbergertriathlon.de/de/wettkampf/strecken/volksdistanz-staffelcup"
+
+  - id: kurzdistanz
+    name: "Olympische Distanz / Kurzdistanz (Jedermann)"
+    swimKm: 1.5
+    bikeKm: 44
+    runKm: 10
+    feeEur: 69
+    eligibility: "Jahrgang 2008 und älter"
+    license: "DTU-Startpass oder Tageslizenz (21 €)"
+    timeLimitMinutes: 210
+    courseDescription: >-
+      Klassische olympische Distanz: 1,5 km Schwimmen im Feldmarksee, 44 km
+      Rad (2 Runden à ca. 22 km, flach), 10 km Laufen (2 Runden à ca. 5 km).
+    courseInfoUrl: "https://sassenbergertriathlon.de/de/wettkampf/strecken/olympisch-kurzdistanz"
+
+  - id: militaer-cup
+    name: "Militär-Triathlon-Cup"
+    swimKm: 1.5
+    bikeKm: 44
+    runKm: 10
+    feeEur: 69
+    eligibility: "Nur Angehörige der Bundeswehr und verbündeter Streitkräfte"
+    license: "Startpass oder Tageslizenz (21 €)"
+    timeLimitMinutes: 210
+    courseDescription: >-
+      Militärwertung über die olympische Distanz (1,5 km / 44 km / 10 km);
+      gleiche Strecke wie die Kurzdistanz.
+    courseInfoUrl: "https://sassenbergertriathlon.de/de/wettkampf/strecken/olympisch-kurzdistanz"
+
+  - id: grandprix
+    name: "Münsterland GrandPrix"
+    swimKm: 1.7
+    bikeKm: 67
+    runKm: 15
+    feeEur: 88
+    eligibility: "Ab 18 Jahren"
+    license: "Startpass oder Tageslizenz (22 €)"
+    timeLimitMinutes: 270
+    courseDescription: >-
+      Distanz zwischen Kurz- und Mitteldistanz: 1,7 km Schwimmen, 67 km Rad
+      (3 Runden), 15 km Laufen (3 Runden).
+    courseInfoUrl: "https://sassenbergertriathlon.de/de/wettkampf/strecken/muensterland-grandprix"
+
+  - id: mitteldistanz
+    name: "Westenergie Mitteldistanz"
+    swimKm: 1.9
+    bikeKm: 89
+    runKm: 20
+    feeEur: 135
+    eligibility: "Ab 18 Jahren"
+    license: "Startpass oder Tageslizenz (22 €)"
+    timeLimitMinutes: 400
+    courseDescription: >-
+      Königsdisziplin in Sassenberg: 1,9 km Schwimmen im Feldmarksee, 89 km
+      Rad (4 Runden), 20 km Laufen (4 Runden).
+    courseInfoUrl: "https://sassenbergertriathlon.de/de/wettkampf/strecken/westenergie-mitteldistanz"
+
+  - id: nrwtv-ligen
+    name: "NRWTV-Ligarennen (Landesliga / Seniorenliga)"
+    swimKm: 1.5
+    bikeKm: 44
+    runKm: 10
+    feeEur: null
+    eligibility: "Nur Liga-Teams des NRW-Triathlon-Verbands"
+    license: "Startpass erforderlich"
+    timeLimitMinutes: 210
+    courseDescription: >-
+      Ligawettkämpfe des NRW-Triathlon-Verbands über die olympische Distanz.
+    courseInfoUrl: "https://sassenbergertriathlon.de/de/wettkampf/strecken/olympisch-kurzdistanz"
+
+registration:
+  platform: "mika:timing"
+  onlineUrl: "https://reg.mikatiming.com/sassenberger-triathlon/2026/de"
+  starterListUrl: "https://reg.mikatiming.com/sassenberger-triathlon/2026/starter/de"
+  postalFormUrl: "https://sassenbergertriathlon.de/fileadmin/documents/Wettkampf/download/Meldeformular_2026_neu.pdf"
+  infoUrl: "https://sassenbergertriathlon.de/de/wettkampf/anmeldung"
+  opens: "2026-02-01"
+  closes: "2026-07-31T12:00 (oder früher bei Erreichen des Teilnehmerlimits)"
+  status: >-
+    AUSGEBUCHT (Stand Juli 2026): Alle Wettbewerbe des 38. Sassenberger
+    Triathlon am 02.08.2026 sind ausverkauft. Die Westenergie Mitteldistanz
+    hat seit dem 24.02.2026 eine Warteliste; für die übrigen Rennen
+    (Kurzdistanz, Volksdistanz, Münsterland GrandPrix, StaffelCup) gibt es
+    überwiegend keine Warteliste.
+  policies:
+    - "Personalisierte Startnummer bei Anmeldung bis 19.07.2026"
+    - "Ummeldungen/Änderungen bis 30.07.2026 über eventservice@mikatiming.de"
+    - "Rücktritt: 25 % Erstattung bis 30.06.2026, danach keine Erstattung"
+    - "Startgebühr enthält u. a. Leih-Transponder, Zwischenzeiten, Urkunde als PDF und Verpflegungsstellen"
+    - "Alternativ zur Online-Anmeldung ist eine postalische Anmeldung per Formular möglich"
+
+schedule:
+  - day: "Samstag"
+    date: "2026-08-01"
+    items:
+      - time: "16:00–18:00"
+        activity: "Anmeldung und Akkreditierung am Kreis Fischereihaus (Startunterlagen)"
+  - day: "Sonntag (Wettkampftag)"
+    date: "2026-08-02"
+    items:
+      - time: "ab 07:00"
+        activity: "Akkreditierung am Wettkampftag, Öffnung der Wechselzone"
+      - time: "ca. 08:30"
+        activity: "Neoprenentscheidung"
+      - time: "vormittags"
+        activity: "Starts der einzelnen Wettbewerbe (detaillierter Zeitplan: https://sassenbergertriathlon.de/de/wettkampf/zeitplan — vorläufig, nur als Bild veröffentlicht)"
+      - time: "ca. 17:00"
+        activity: "Rad-Checkout aus der Wechselzone"
+      - time: "17:30"
+        activity: "Veranstaltungsende"

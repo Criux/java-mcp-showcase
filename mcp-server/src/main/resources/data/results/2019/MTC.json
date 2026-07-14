@@ -1,0 +1,250 @@
+{
+  "year" : 2019,
+  "eventCode" : "MTC",
+  "eventName" : "21. Internationaler Militär Triathlon Cup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2019/",
+  "resultCount" : 28,
+  "results" : [ {
+    "place" : 1,
+    "agePlace" : 1,
+    "name" : "Klinder, Markus",
+    "nation" : "GER",
+    "bib" : "2412",
+    "ageGroup" : "25",
+    "club" : "Sportsbw Grp Sporttherapie",
+    "finish" : "02:08:44"
+  }, {
+    "place" : 1,
+    "name" : "Lorenzen, Marit",
+    "nation" : "GER",
+    "bib" : "2303",
+    "club" : "Deutschland",
+    "finish" : "02:46:15"
+  }, {
+    "place" : 2,
+    "name" : "Schönwald, Charlotte",
+    "nation" : "GER",
+    "bib" : "2304",
+    "club" : "Deutschland",
+    "finish" : "02:49:12"
+  }, {
+    "place" : 2,
+    "name" : "Schaffeld, Timo",
+    "nation" : "GER",
+    "bib" : "2300",
+    "club" : "Deutschland",
+    "finish" : "02:08:47"
+  }, {
+    "place" : 3,
+    "agePlace" : 1,
+    "name" : "Treinzen, Melanie",
+    "nation" : "GER",
+    "bib" : "2402",
+    "ageGroup" : "35",
+    "club" : "Einsatzgruppenversorger Frankfurt am Main",
+    "finish" : "02:50:45"
+  }, {
+    "place" : 3,
+    "name" : "Schöps, Franz",
+    "nation" : "GER",
+    "bib" : "2302",
+    "club" : "Deutschland",
+    "finish" : "02:14:48"
+  }, {
+    "place" : 4,
+    "agePlace" : 1,
+    "name" : "Halatsch, Niels",
+    "nation" : "GER",
+    "bib" : "2427",
+    "ageGroup" : "30",
+    "club" : "Spfördgrpbw Warendorf",
+    "finish" : "02:16:33"
+  }, {
+    "place" : 4,
+    "name" : "Junker, Franziska",
+    "nation" : "GER",
+    "bib" : "2305",
+    "club" : "Deutschland",
+    "finish" : "02:53:14"
+  }, {
+    "place" : 5,
+    "agePlace" : 1,
+    "name" : "Dr. Lison, Dörthe",
+    "nation" : "GER",
+    "bib" : "2424",
+    "ageGroup" : "50",
+    "club" : "Zsportmedbw",
+    "finish" : "02:54:02"
+  }, {
+    "place" : 5,
+    "agePlace" : 1,
+    "name" : "Lünemann, Frank",
+    "nation" : "GER",
+    "bib" : "2416",
+    "ageGroup" : "40",
+    "club" : "Eus 22 AbgTZg244",
+    "finish" : "02:19:49"
+  }, {
+    "place" : 6,
+    "agePlace" : 1,
+    "name" : "Scholz, Christoph",
+    "nation" : "GER",
+    "bib" : "2415",
+    "ageGroup" : "35",
+    "club" : "Taktisches Luftwaffengeschwader 71 RICHTHOFEN",
+    "finish" : "02:22:50"
+  }, {
+    "place" : 6,
+    "agePlace" : 1,
+    "name" : "Frey, Saskia",
+    "nation" : "GER",
+    "bib" : "2419",
+    "ageGroup" : "20",
+    "club" : "TriTeam UniBw",
+    "finish" : "03:09:35"
+  }, {
+    "place" : 7,
+    "agePlace" : 1,
+    "name" : "Ritzmann, Sami",
+    "nation" : "GER",
+    "bib" : "2301",
+    "ageGroup" : "20",
+    "club" : "Deutschland",
+    "finish" : "02:23:32"
+  }, {
+    "place" : 7,
+    "agePlace" : 2,
+    "name" : "Koebrügge, Eva",
+    "nation" : "GER",
+    "bib" : "2409",
+    "ageGroup" : "35",
+    "club" : "Sanversz Ahlen",
+    "finish" : "03:20:36"
+  }, {
+    "place" : 8,
+    "agePlace" : 1,
+    "name" : "Hausmann, Eric",
+    "nation" : "GER",
+    "bib" : "2401",
+    "ageGroup" : "45",
+    "club" : "Division Schnelle Kräfte",
+    "finish" : "02:27:02"
+  }, {
+    "place" : 8,
+    "agePlace" : 1,
+    "name" : "Kaufmann, Gertrud",
+    "nation" : "GER",
+    "bib" : "2429",
+    "ageGroup" : "30",
+    "club" : "BWZurhs Koblenz",
+    "finish" : "03:35:29"
+  }, {
+    "place" : 9,
+    "agePlace" : 2,
+    "name" : "Winter, Torsten",
+    "nation" : "GER",
+    "bib" : "2411",
+    "ageGroup" : "45",
+    "club" : "LogKdoBw / VfB Torpedo Ichtershausen",
+    "finish" : "02:29:29"
+  }, {
+    "place" : 10,
+    "agePlace" : 2,
+    "name" : "Fischer, Benjamin",
+    "nation" : "GER",
+    "bib" : "2422",
+    "ageGroup" : "30",
+    "club" : "4 Transporthubschrauberregiment 30",
+    "finish" : "02:34:24"
+  }, {
+    "place" : 11,
+    "agePlace" : 2,
+    "name" : "Fischer, Matthias",
+    "nation" : "GER",
+    "bib" : "2405",
+    "ageGroup" : "25",
+    "club" : "Bundeswehrkrankenhaus Hamburg",
+    "finish" : "02:37:46"
+  }, {
+    "place" : 12,
+    "agePlace" : 3,
+    "name" : "Schalin, Michael",
+    "nation" : "GER",
+    "bib" : "2417",
+    "ageGroup" : "45",
+    "club" : "Stab GebJgBrig 23",
+    "finish" : "02:39:18"
+  }, {
+    "place" : 13,
+    "agePlace" : 2,
+    "name" : "Berning, Eric",
+    "nation" : "GER",
+    "bib" : "2420",
+    "ageGroup" : "35",
+    "club" : "Sportsbw Grp Sporttherapie",
+    "finish" : "02:41:16"
+  }, {
+    "place" : 14,
+    "agePlace" : 3,
+    "name" : "Rusch, Felix",
+    "nation" : "GER",
+    "bib" : "2413",
+    "ageGroup" : "30",
+    "club" : "Air Intelligence Center Luftwaffe",
+    "finish" : "02:45:31"
+  }, {
+    "place" : 15,
+    "agePlace" : 1,
+    "name" : "Dr. Lison, Andreas",
+    "nation" : "GER",
+    "bib" : "2423",
+    "ageGroup" : "55",
+    "club" : "Zsportmedbw",
+    "finish" : "02:46:58"
+  }, {
+    "place" : 16,
+    "agePlace" : 2,
+    "name" : "Wagner, Andreas",
+    "nation" : "GER",
+    "bib" : "2406",
+    "ageGroup" : "40",
+    "club" : "BAAINBw",
+    "finish" : "02:48:14"
+  }, {
+    "place" : 17,
+    "agePlace" : 3,
+    "name" : "Plack, Marcus",
+    "nation" : "GER",
+    "bib" : "2400",
+    "ageGroup" : "40",
+    "club" : "Planungsamt der Bundeswehr",
+    "finish" : "02:49:46"
+  }, {
+    "place" : 18,
+    "agePlace" : 3,
+    "name" : "Kazmierczak, Michael",
+    "nation" : "GER",
+    "bib" : "2403",
+    "ageGroup" : "35",
+    "club" : "Feldjägerregiment 2-Hilden-",
+    "finish" : "02:51:52"
+  }, {
+    "place" : 19,
+    "agePlace" : 4,
+    "name" : "Seidel, Christoph",
+    "nation" : "GER",
+    "bib" : "2426",
+    "ageGroup" : "30",
+    "club" : "2 Logbtl 171 Burg",
+    "finish" : "02:57:40"
+  }, {
+    "place" : 20,
+    "agePlace" : 4,
+    "name" : "Dürr, Dieter",
+    "nation" : "GER",
+    "bib" : "2407",
+    "ageGroup" : "40",
+    "club" : "Sportsbw Grp Sporttherapie",
+    "finish" : "02:58:11"
+  } ]
+}

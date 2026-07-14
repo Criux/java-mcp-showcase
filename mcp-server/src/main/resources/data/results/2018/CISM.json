@@ -1,0 +1,92 @@
+{
+  "year" : 2018,
+  "eventCode" : "CISM",
+  "eventName" : "CISM Euro Cup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2018/",
+  "resultCount" : 12,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Jerzyk, Agnieszka",
+    "nation" : "POL",
+    "bib" : "2100",
+    "club" : "Poland",
+    "finish" : "02:15:15"
+  }, {
+    "place" : 1,
+    "name" : "De Witte, Lowie",
+    "nation" : "BEL",
+    "bib" : "2103",
+    "club" : "Belgium",
+    "finish" : "02:10:01"
+  }, {
+    "place" : 2,
+    "name" : "Kazmierczak, Hanna",
+    "nation" : "POL",
+    "bib" : "2105",
+    "club" : "Poland",
+    "finish" : "02:25:56"
+  }, {
+    "place" : 2,
+    "name" : "Nobels, Laurant",
+    "nation" : "BEL",
+    "bib" : "2109",
+    "club" : "Belgium",
+    "finish" : "02:11:10"
+  }, {
+    "place" : 3,
+    "name" : "Uhlig, Silvia Katharina",
+    "nation" : "GER",
+    "bib" : "2111",
+    "club" : "Germany",
+    "finish" : "02:38:21"
+  }, {
+    "place" : 3,
+    "name" : "Bartosz, Smeda",
+    "nation" : "POL",
+    "bib" : "2101",
+    "club" : "Poland",
+    "finish" : "02:12:59"
+  }, {
+    "place" : 4,
+    "name" : "Verelst, Tom",
+    "nation" : "BEL",
+    "bib" : "2112",
+    "club" : "Belgium",
+    "finish" : "02:18:35"
+  }, {
+    "place" : 4,
+    "name" : "De Jaeger-Braet, Els",
+    "nation" : "BEL",
+    "bib" : "2102",
+    "club" : "Belgium",
+    "finish" : "02:47:45"
+  }, {
+    "place" : 5,
+    "name" : "Ritzmann, Sami",
+    "nation" : "GER",
+    "bib" : "2110",
+    "club" : "Germany",
+    "finish" : "02:19:55"
+  }, {
+    "place" : 6,
+    "name" : "Haderer, Christoph",
+    "nation" : "GER",
+    "bib" : "2104",
+    "club" : "Germany",
+    "finish" : "02:21:12"
+  }, {
+    "place" : 7,
+    "name" : "Paul, Vincent",
+    "nation" : "GER",
+    "bib" : "2106",
+    "club" : "Germany",
+    "finish" : "02:22:45"
+  }, {
+    "place" : 8,
+    "name" : "Kuryj, Marek",
+    "nation" : "POL",
+    "bib" : "2108",
+    "club" : "Poland",
+    "finish" : "02:23:26"
+  } ]
+}

@@ -1,0 +1,358 @@
+{
+  "year" : 2018,
+  "eventCode" : "MTC",
+  "eventName" : "20. Internationaler Militär Triathlon Cup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2018/",
+  "resultCount" : 40,
+  "results" : [ {
+    "place" : 1,
+    "agePlace" : 1,
+    "name" : "Elischer, Renning",
+    "nation" : "GER",
+    "bib" : "2040",
+    "ageGroup" : "20",
+    "club" : "Bundeswehrkrankenhaus Berlin",
+    "finish" : "02:05:49"
+  }, {
+    "place" : 1,
+    "name" : "Uhlig, Silvia Katharina",
+    "nation" : "GER",
+    "bib" : "2111",
+    "club" : "TriTeam UniBw",
+    "finish" : "02:38:21"
+  }, {
+    "place" : 2,
+    "agePlace" : 2,
+    "name" : "Zappe, Vincent",
+    "nation" : "GER",
+    "bib" : "2031",
+    "ageGroup" : "20",
+    "club" : "TriTeam UniBw",
+    "finish" : "02:13:39"
+  }, {
+    "place" : 2,
+    "agePlace" : 1,
+    "name" : "Stegemann, Kerstin",
+    "nation" : "GER",
+    "bib" : "2038",
+    "ageGroup" : "40",
+    "club" : "Sportfgrpwaf",
+    "finish" : "02:46:11"
+  }, {
+    "place" : 3,
+    "agePlace" : 1,
+    "name" : "Schürmann, Daniel",
+    "nation" : "GER",
+    "bib" : "2034",
+    "ageGroup" : "35",
+    "club" : "Amt Für Heeresentwicklung",
+    "finish" : "02:15:39"
+  }, {
+    "place" : 3,
+    "agePlace" : 1,
+    "name" : "Treinzen, Melanie",
+    "nation" : "GER",
+    "bib" : "2009",
+    "ageGroup" : "35",
+    "club" : "Einsatzflotille 2 AbtSanDst",
+    "finish" : "02:51:15"
+  }, {
+    "place" : 4,
+    "agePlace" : 1,
+    "name" : "Thomas, Oliver",
+    "nation" : "GER",
+    "bib" : "2011",
+    "ageGroup" : "25",
+    "club" : "EinsFüKdo Bw",
+    "finish" : "02:18:56"
+  }, {
+    "place" : 4,
+    "agePlace" : 1,
+    "name" : "Dr. Lison, Dörthe",
+    "nation" : "GER",
+    "bib" : "2019",
+    "ageGroup" : "45",
+    "club" : "Zsportmedbw Warendorf",
+    "finish" : "02:51:25"
+  }, {
+    "place" : 5,
+    "agePlace" : 1,
+    "name" : "Behle, Maren",
+    "nation" : "GER",
+    "bib" : "2039",
+    "ageGroup" : "20",
+    "club" : "Bundeswehrkrankenhaus Berlin",
+    "finish" : "02:59:44"
+  }, {
+    "place" : 5,
+    "name" : "Ritzmann, Sami",
+    "nation" : "GER",
+    "bib" : "2110",
+    "club" : "TriTeam UniBw",
+    "finish" : "02:19:55"
+  }, {
+    "place" : 6,
+    "name" : "Frey, Saskia",
+    "nation" : "GER",
+    "bib" : "2027",
+    "club" : "TriTeam UniBw",
+    "finish" : "03:10:41"
+  }, {
+    "place" : 6,
+    "name" : "Haderer, Christoph",
+    "nation" : "GER",
+    "bib" : "2104",
+    "finish" : "02:21:12"
+  }, {
+    "place" : 7,
+    "agePlace" : 1,
+    "name" : "Siemann, Martin",
+    "nation" : "GER",
+    "bib" : "2000",
+    "ageGroup" : "30",
+    "club" : "3 Versbtl 7",
+    "finish" : "02:22:20"
+  }, {
+    "place" : 7,
+    "agePlace" : 2,
+    "name" : "Koebrügge, Eva",
+    "nation" : "GER",
+    "bib" : "2012",
+    "ageGroup" : "35",
+    "club" : "SanVersZ Ahlen",
+    "finish" : "03:17:35"
+  }, {
+    "place" : 8,
+    "agePlace" : 2,
+    "name" : "Paul, Vincent",
+    "nation" : "GER",
+    "bib" : "2106",
+    "ageGroup" : "30",
+    "finish" : "02:22:45"
+  }, {
+    "place" : 9,
+    "agePlace" : 2,
+    "name" : "Müller, Jens",
+    "nation" : "GER",
+    "bib" : "2035",
+    "ageGroup" : "35",
+    "club" : "3 Minensuchgeschwader",
+    "finish" : "02:23:18"
+  }, {
+    "place" : 10,
+    "agePlace" : 1,
+    "name" : "Schultz, Timo",
+    "nation" : "GER",
+    "bib" : "2013",
+    "ageGroup" : "40",
+    "club" : "Kommando Sanitätsdienst der Bundeswehr",
+    "finish" : "02:23:51"
+  }, {
+    "place" : 11,
+    "agePlace" : 3,
+    "name" : "Bottek, Christian",
+    "nation" : "GER",
+    "bib" : "2043",
+    "ageGroup" : "30",
+    "club" : "TriTeam UniBw",
+    "finish" : "02:26:15"
+  }, {
+    "place" : 12,
+    "agePlace" : 4,
+    "name" : "Diebold, Dennis",
+    "nation" : "GER",
+    "bib" : "2024",
+    "ageGroup" : "30",
+    "club" : "TriTeam UniBw",
+    "finish" : "02:29:08"
+  }, {
+    "place" : 13,
+    "agePlace" : 2,
+    "name" : "Winter, Torsten",
+    "nation" : "GER",
+    "bib" : "2022",
+    "ageGroup" : "40",
+    "club" : "LogKdoBw / VfB Torpedo Ichtershausen",
+    "finish" : "02:29:26"
+  }, {
+    "place" : 14,
+    "agePlace" : 1,
+    "name" : "Luger, David",
+    "nation" : "GER",
+    "bib" : "2037",
+    "ageGroup" : "45",
+    "club" : "Amt Für Heeresentwicklung",
+    "finish" : "02:30:12"
+  }, {
+    "place" : 15,
+    "agePlace" : 1,
+    "name" : "Peters, Thomas",
+    "nation" : "GER",
+    "bib" : "2025",
+    "ageGroup" : "50",
+    "club" : "TriTeam UniBw",
+    "finish" : "02:32:24"
+  }, {
+    "place" : 16,
+    "agePlace" : 5,
+    "name" : "Berning, Eric",
+    "nation" : "GER",
+    "bib" : "2017",
+    "ageGroup" : "30",
+    "club" : "SportSBw Grp Sporttherapie",
+    "finish" : "02:33:00"
+  }, {
+    "place" : 17,
+    "agePlace" : 3,
+    "name" : "Gideon, Carsten",
+    "nation" : "GER",
+    "bib" : "2002",
+    "ageGroup" : "40",
+    "club" : "SportSBw Grp Sporttherapie",
+    "finish" : "02:33:52"
+  }, {
+    "place" : 18,
+    "agePlace" : 6,
+    "name" : "Schroth, Sebastian",
+    "nation" : "GER",
+    "bib" : "2033",
+    "ageGroup" : "30",
+    "club" : "Amt Für Heeresentwicklung",
+    "finish" : "02:33:54"
+  }, {
+    "place" : 19,
+    "agePlace" : 4,
+    "name" : "Pilz, Stephan",
+    "nation" : "GER",
+    "bib" : "2014",
+    "ageGroup" : "40",
+    "club" : "EinsFüKdo Bw",
+    "finish" : "02:35:11"
+  }, {
+    "place" : 20,
+    "agePlace" : 1,
+    "name" : "Lammers, Hans",
+    "nation" : "NED",
+    "bib" : "2001",
+    "ageGroup" : "55",
+    "club" : "Cisbn 1GNC",
+    "finish" : "02:36:22"
+  }, {
+    "place" : 21,
+    "agePlace" : 5,
+    "name" : "Albertziok, Marc",
+    "nation" : "GER",
+    "bib" : "2007",
+    "ageGroup" : "40",
+    "club" : "OSH Dresden",
+    "finish" : "02:38:06"
+  }, {
+    "place" : 22,
+    "agePlace" : 2,
+    "name" : "Oettler, Jürgen",
+    "nation" : "GER",
+    "bib" : "2003",
+    "ageGroup" : "55",
+    "club" : "OSH Dresden",
+    "finish" : "02:38:52"
+  }, {
+    "place" : 23,
+    "agePlace" : 6,
+    "name" : "Oelrich, Gerald",
+    "nation" : "GER",
+    "bib" : "2008",
+    "ageGroup" : "40",
+    "club" : "OSH Dresden",
+    "finish" : "02:39:30"
+  }, {
+    "place" : 24,
+    "agePlace" : 7,
+    "name" : "Schmitz, Thomas",
+    "nation" : "GER",
+    "bib" : "2036",
+    "ageGroup" : "40",
+    "club" : "Kommando Sanitätsdienst der Bundeswehr",
+    "finish" : "02:42:54"
+  }, {
+    "place" : 25,
+    "agePlace" : 2,
+    "name" : "Dr. Lison, Andreas",
+    "nation" : "GER",
+    "bib" : "2020",
+    "ageGroup" : "50",
+    "club" : "Zsportmedbw Warendorf",
+    "finish" : "02:46:06"
+  }, {
+    "place" : 26,
+    "agePlace" : 8,
+    "name" : "Dürr, Dieter",
+    "nation" : "GER",
+    "bib" : "2021",
+    "ageGroup" : "40",
+    "club" : "SportSBw Grp Sporttherapie",
+    "finish" : "02:48:20"
+  }, {
+    "place" : 27,
+    "agePlace" : 2,
+    "name" : "Wilken, Gerhard",
+    "nation" : "GER",
+    "bib" : "2044",
+    "ageGroup" : "45",
+    "club" : "TaktLwG71R Wittmund",
+    "finish" : "02:49:14"
+  }, {
+    "place" : 28,
+    "agePlace" : 3,
+    "name" : "Wrbas, Klaus",
+    "nation" : "GER",
+    "bib" : "2041",
+    "ageGroup" : "50",
+    "club" : "Amt Für Heeresentwicklung",
+    "finish" : "02:54:55"
+  }, {
+    "place" : 29,
+    "agePlace" : 9,
+    "name" : "Markowski, Thomas",
+    "nation" : "GER",
+    "bib" : "2042",
+    "ageGroup" : "40",
+    "club" : "Kommando Sanitätsdienst der Bundeswehr",
+    "finish" : "02:56:31"
+  }, {
+    "place" : 30,
+    "agePlace" : 10,
+    "name" : "Saft, Christian",
+    "nation" : "GER",
+    "bib" : "2010",
+    "ageGroup" : "40",
+    "club" : "EinsFüKdo Bw",
+    "finish" : "02:58:03"
+  }, {
+    "place" : 31,
+    "agePlace" : 3,
+    "name" : "Karstens, Uwe",
+    "nation" : "GER",
+    "bib" : "2006",
+    "ageGroup" : "55",
+    "club" : "PlgABw",
+    "finish" : "02:59:24"
+  }, {
+    "place" : 32,
+    "agePlace" : 3,
+    "name" : "Buck, Oliver",
+    "nation" : "GER",
+    "bib" : "2004",
+    "ageGroup" : "35",
+    "club" : "3 Versbtl 7",
+    "finish" : "03:05:12"
+  }, {
+    "place" : 33,
+    "agePlace" : 11,
+    "name" : "Wagner, Andreas",
+    "nation" : "GER",
+    "bib" : "2023",
+    "ageGroup" : "40",
+    "club" : "Baainbw L4 4",
+    "finish" : "03:07:48"
+  } ]
+}

@@ -1,0 +1,338 @@
+{
+  "year" : 2024,
+  "eventCode" : "VLN",
+  "eventName" : "Verbandsliga Nord",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2024/",
+  "resultCount" : 55,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Gravendyk, Matthias",
+    "bib" : "649",
+    "club" : "TuS 48 Ehringhausen",
+    "finish" : "02:08:15"
+  }, {
+    "place" : 2,
+    "name" : "Hönig, Carsten",
+    "bib" : "652",
+    "club" : "TuS 48 Ehringhausen",
+    "finish" : "02:16:51"
+  }, {
+    "place" : 3,
+    "name" : "Keil, Niklas",
+    "bib" : "645",
+    "club" : "TuS 09 Erkenschwick I",
+    "finish" : "02:17:47"
+  }, {
+    "place" : 4,
+    "name" : "Fischedick, Malte",
+    "bib" : "653",
+    "club" : "Radsportfreunde Borken",
+    "finish" : "02:17:50"
+  }, {
+    "place" : 5,
+    "name" : "Bradler, Claas",
+    "bib" : "629",
+    "club" : "Tri Speed Marienfeld III",
+    "finish" : "02:19:01"
+  }, {
+    "place" : 6,
+    "name" : "Jansen, Hendrik",
+    "bib" : "610",
+    "club" : "Marathon-Club Menden I",
+    "finish" : "02:19:14"
+  }, {
+    "place" : 7,
+    "name" : "Weingarten, Tobias",
+    "bib" : "612",
+    "club" : "Marathon-Club Menden I",
+    "finish" : "02:19:57"
+  }, {
+    "place" : 8,
+    "name" : "Stockhoff, Gerrit",
+    "bib" : "654",
+    "club" : "Radsportfreunde Borken",
+    "finish" : "02:20:30"
+  }, {
+    "place" : 9,
+    "name" : "Franke, Johannes",
+    "bib" : "609",
+    "club" : "Marathon-Club Menden I",
+    "finish" : "02:21:13"
+  }, {
+    "place" : 10,
+    "name" : "Schmedes, Andy",
+    "bib" : "626",
+    "club" : "W+F Münster I",
+    "finish" : "02:21:26"
+  }, {
+    "place" : 11,
+    "name" : "Carius, Dominik",
+    "bib" : "625",
+    "club" : "W+F Münster I",
+    "finish" : "02:22:36"
+  }, {
+    "place" : 12,
+    "name" : "Zingler, Adrian",
+    "bib" : "655",
+    "club" : "Radsportfreunde Borken",
+    "finish" : "02:23:07"
+  }, {
+    "place" : 13,
+    "name" : "Barwinski, Jonas",
+    "bib" : "608",
+    "club" : "ASC Ahlen",
+    "finish" : "02:23:07"
+  }, {
+    "place" : 14,
+    "name" : "Nienhaus, Daniel",
+    "bib" : "624",
+    "club" : "Bocholter WSV",
+    "finish" : "02:23:45"
+  }, {
+    "place" : 15,
+    "name" : "Elvers, Gerrit",
+    "bib" : "656",
+    "club" : "Radsportfreunde Borken",
+    "finish" : "02:25:15"
+  }, {
+    "place" : 16,
+    "name" : "Long, Joshua",
+    "bib" : "644",
+    "club" : "Tri-Sport-Team TV Verl II",
+    "finish" : "02:26:15"
+  }, {
+    "place" : 17,
+    "name" : "Kempe, Michael",
+    "bib" : "603",
+    "club" : "SC Aquarius Löhne",
+    "finish" : "02:26:25"
+  }, {
+    "place" : 18,
+    "name" : "Wolf, Marcus",
+    "bib" : "640",
+    "club" : "TSVE 1890 Bielefeld II",
+    "finish" : "02:26:54"
+  }, {
+    "place" : 19,
+    "name" : "Harder, Tom",
+    "bib" : "643",
+    "club" : "Tri-Sport-Team TV Verl II",
+    "finish" : "02:27:20"
+  }, {
+    "place" : 20,
+    "name" : "Evermann, Lars",
+    "bib" : "647",
+    "club" : "TuS 09 Erkenschwick I",
+    "finish" : "02:28:36"
+  }, {
+    "place" : 21,
+    "name" : "Kaase, Lars",
+    "bib" : "601",
+    "club" : "SC Aquarius Löhne",
+    "finish" : "02:29:20"
+  }, {
+    "place" : 22,
+    "name" : "Strathaus, Nils",
+    "bib" : "627",
+    "club" : "W+F Münster I",
+    "finish" : "02:29:34"
+  }, {
+    "place" : 23,
+    "name" : "Steinhoff, Christian",
+    "bib" : "611",
+    "club" : "Marathon-Club Menden I",
+    "finish" : "02:29:41"
+  }, {
+    "place" : 24,
+    "name" : "Diers, Dominik",
+    "bib" : "615",
+    "club" : "LTV Lippstadt",
+    "finish" : "02:29:49"
+  }, {
+    "place" : 25,
+    "name" : "Wagner, Jörg",
+    "bib" : "634",
+    "club" : "Tri-As Hamm",
+    "finish" : "02:29:51"
+  }, {
+    "place" : 26,
+    "name" : "Kerwien, Torsten",
+    "bib" : "631",
+    "club" : "Tri Speed Marienfeld III",
+    "finish" : "02:29:58"
+  }, {
+    "place" : 27,
+    "name" : "Ptasinski, Achim",
+    "bib" : "616",
+    "club" : "LTV Lippstadt",
+    "finish" : "02:30:14"
+  }, {
+    "place" : 28,
+    "name" : "Wegener, Olaf",
+    "bib" : "604",
+    "club" : "SC Aquarius Löhne",
+    "finish" : "02:31:14"
+  }, {
+    "place" : 29,
+    "name" : "Wiegers, Jan",
+    "bib" : "619",
+    "club" : "SC Altentheine I",
+    "finish" : "02:32:04"
+  }, {
+    "place" : 30,
+    "name" : "Berg, Torsten",
+    "bib" : "646",
+    "club" : "TuS 09 Erkenschwick I",
+    "finish" : "02:32:49"
+  }, {
+    "place" : 31,
+    "name" : "Schneider, Patrick",
+    "bib" : "606",
+    "club" : "ASC Ahlen",
+    "finish" : "02:33:57"
+  }, {
+    "place" : 32,
+    "name" : "Pollmeier, Holger",
+    "bib" : "641",
+    "club" : "Tri-Sport-Team TV Verl II",
+    "finish" : "02:34:44"
+  }, {
+    "place" : 33,
+    "name" : "Balschukat, Hermann",
+    "bib" : "613",
+    "club" : "LTV Lippstadt",
+    "finish" : "02:36:24"
+  }, {
+    "place" : 34,
+    "name" : "Lippsmeier, Malte",
+    "bib" : "660",
+    "club" : "Hartman Tri Team TVG Kaiserau II",
+    "finish" : "02:36:33"
+  }, {
+    "place" : 35,
+    "name" : "Dudek, Christian",
+    "bib" : "618",
+    "club" : "SC Altentheine I",
+    "finish" : "02:36:34"
+  }, {
+    "place" : 36,
+    "name" : "Wolbert, Benjamin",
+    "bib" : "657",
+    "club" : "Hartman Tri Team TVG Kaiserau II",
+    "finish" : "02:37:37"
+  }, {
+    "place" : 37,
+    "name" : "Beck, Calvin",
+    "bib" : "651",
+    "club" : "TuS 48 Ehringhausen",
+    "finish" : "02:37:49"
+  }, {
+    "place" : 38,
+    "name" : "Siepermann, Peter",
+    "bib" : "648",
+    "club" : "TuS 09 Erkenschwick I",
+    "finish" : "02:37:52"
+  }, {
+    "place" : 39,
+    "name" : "Kruse, David",
+    "bib" : "650",
+    "club" : "TuS 48 Ehringhausen",
+    "finish" : "02:38:01"
+  }, {
+    "place" : 40,
+    "name" : "Scherbarth, Jan",
+    "bib" : "637",
+    "club" : "TSVE 1890 Bielefeld II",
+    "finish" : "02:38:44"
+  }, {
+    "place" : 41,
+    "name" : "Wevelsiep, Damian",
+    "bib" : "617",
+    "club" : "SC Altentheine I",
+    "finish" : "02:39:08"
+  }, {
+    "place" : 42,
+    "name" : "Herse, Andreas",
+    "bib" : "630",
+    "club" : "Tri Speed Marienfeld III",
+    "finish" : "02:39:27"
+  }, {
+    "place" : 43,
+    "name" : "Hanisch, Adrian",
+    "bib" : "658",
+    "club" : "Hartman Tri Team TVG Kaiserau II",
+    "finish" : "02:39:56"
+  }, {
+    "place" : 44,
+    "name" : "Hämmerling, Bartosch",
+    "bib" : "607",
+    "club" : "ASC Ahlen",
+    "finish" : "02:40:54"
+  }, {
+    "place" : 45,
+    "name" : "Romberg, Andreas",
+    "bib" : "614",
+    "club" : "LTV Lippstadt",
+    "finish" : "02:41:46"
+  }, {
+    "place" : 46,
+    "name" : "Kiel, Felix",
+    "bib" : "639",
+    "club" : "TSVE 1890 Bielefeld II",
+    "finish" : "02:43:28"
+  }, {
+    "place" : 47,
+    "name" : "Dohrmann, Jens",
+    "bib" : "636",
+    "club" : "Tri-As Hamm",
+    "finish" : "02:49:16"
+  }, {
+    "place" : 48,
+    "name" : "Brands, Jan-Mischa",
+    "bib" : "622",
+    "club" : "Bocholter WSV",
+    "finish" : "02:49:31"
+  }, {
+    "place" : 49,
+    "name" : "Fanselow, Timm",
+    "bib" : "659",
+    "club" : "Hartman Tri Team TVG Kaiserau II",
+    "finish" : "02:51:21"
+  }, {
+    "place" : 50,
+    "name" : "Nieländer, Stefan",
+    "bib" : "632",
+    "club" : "Tri Speed Marienfeld III",
+    "finish" : "02:54:36"
+  }, {
+    "place" : 51,
+    "name" : "Borgschulte, Egbert",
+    "bib" : "605",
+    "club" : "ASC Ahlen",
+    "finish" : "02:56:12"
+  }, {
+    "place" : 52,
+    "name" : "Greiner, Frank",
+    "bib" : "602",
+    "club" : "SC Aquarius Löhne",
+    "finish" : "02:56:25"
+  }, {
+    "place" : 53,
+    "name" : "Rzyla, Adrian",
+    "bib" : "623",
+    "club" : "Bocholter WSV",
+    "finish" : "02:56:29"
+  }, {
+    "place" : 54,
+    "name" : "Radstaak, Marco",
+    "bib" : "621",
+    "club" : "Bocholter WSV",
+    "finish" : "02:57:43"
+  }, {
+    "place" : 55,
+    "name" : "Friedrich, Carsten",
+    "bib" : "635",
+    "club" : "Tri-As Hamm",
+    "finish" : "02:58:57"
+  } ]
+}

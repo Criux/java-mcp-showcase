@@ -1,0 +1,610 @@
+{
+  "year" : 2019,
+  "eventCode" : "ML",
+  "eventName" : "Masters Liga",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2019/",
+  "resultCount" : 86,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Ölmaier, Tobias",
+    "nation" : "GER",
+    "bib" : "646",
+    "club" : "TV Köln-Rodenkirchen III",
+    "finish" : "02:19:44"
+  }, {
+    "place" : 2,
+    "name" : "Kempmann, Raoul",
+    "nation" : "GER",
+    "bib" : "619",
+    "club" : "TSVE 1890 Bielefeld Masters",
+    "finish" : "02:20:29"
+  }, {
+    "place" : 3,
+    "name" : "Ehl, Markus",
+    "nation" : "GER",
+    "bib" : "636",
+    "club" : "Tri Geckos Dortmund I",
+    "finish" : "02:21:51"
+  }, {
+    "place" : 4,
+    "name" : "Pabich, André",
+    "nation" : "GER",
+    "bib" : "690",
+    "club" : "DJK Armada Euchen-Würselen",
+    "finish" : "02:22:01"
+  }, {
+    "place" : 5,
+    "name" : "Siepe, Volker",
+    "nation" : "GER",
+    "bib" : "614",
+    "club" : "Hildener AT - Triathlon",
+    "finish" : "02:22:12"
+  }, {
+    "place" : 6,
+    "name" : "Rave, Rob",
+    "nation" : "GER",
+    "bib" : "603",
+    "club" : "SSF Bonn I",
+    "finish" : "02:23:59"
+  }, {
+    "place" : 7,
+    "name" : "Janning, Matthias",
+    "nation" : "GER",
+    "bib" : "680",
+    "club" : "Tri-Team Hagen I",
+    "finish" : "02:25:55"
+  }, {
+    "place" : 8,
+    "name" : "Röpstorf, Uwe",
+    "nation" : "GER",
+    "bib" : "616",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:26:04"
+  }, {
+    "place" : 9,
+    "name" : "Holthausen, Manfred",
+    "nation" : "GER",
+    "bib" : "609",
+    "club" : "SSF Bonn II",
+    "finish" : "02:27:23"
+  }, {
+    "place" : 10,
+    "name" : "Fuchs, Thomas",
+    "nation" : "GER",
+    "bib" : "601",
+    "club" : "SSF Bonn I",
+    "finish" : "02:29:35"
+  }, {
+    "place" : 11,
+    "name" : "Klippert, Helmut",
+    "nation" : "GER",
+    "bib" : "602",
+    "club" : "SSF Bonn I",
+    "finish" : "02:29:58"
+  }, {
+    "place" : 12,
+    "name" : "Stolecki, Stephan",
+    "nation" : "GER",
+    "bib" : "634",
+    "club" : "Tri Geckos Dortmund I",
+    "finish" : "02:31:12"
+  }, {
+    "place" : 13,
+    "name" : "Riep, Arnim",
+    "nation" : "GER",
+    "bib" : "683",
+    "club" : "Tri-Team Hagen II",
+    "finish" : "02:31:32"
+  }, {
+    "place" : 14,
+    "name" : "Hegemann, Karsten",
+    "nation" : "GER",
+    "bib" : "612",
+    "club" : "Triathlon Team Ratingen 08 I",
+    "finish" : "02:32:01"
+  }, {
+    "place" : 15,
+    "name" : "Terstesse, Christian",
+    "nation" : "GER",
+    "bib" : "621",
+    "club" : "TSVE 1890 Bielefeld Masters",
+    "finish" : "02:32:08"
+  }, {
+    "place" : 16,
+    "name" : "Huschauer, Horst",
+    "nation" : "AUT",
+    "bib" : "649",
+    "club" : "TG Neuss",
+    "finish" : "02:32:15"
+  }, {
+    "place" : 17,
+    "name" : "Bitzer, Axel",
+    "nation" : "GER",
+    "bib" : "622",
+    "club" : "Tri Club Wuppertal I",
+    "finish" : "02:32:27"
+  }, {
+    "place" : 18,
+    "name" : "Drenker, Ditmar",
+    "nation" : "GER",
+    "bib" : "611",
+    "club" : "Triathlon Team Ratingen 08 I",
+    "finish" : "02:32:31"
+  }, {
+    "place" : 19,
+    "name" : "Zippert, Jürgen",
+    "nation" : "GER",
+    "bib" : "613",
+    "club" : "Hildener AT - Triathlon",
+    "finish" : "02:32:44"
+  }, {
+    "place" : 20,
+    "name" : "Balg, Berthold",
+    "nation" : "GER",
+    "bib" : "607",
+    "club" : "SSF Bonn II",
+    "finish" : "02:33:07"
+  }, {
+    "place" : 21,
+    "name" : "Ridderskamp, Michael",
+    "nation" : "GER",
+    "bib" : "628",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:33:10"
+  }, {
+    "place" : 22,
+    "name" : "Höfling, Michael",
+    "nation" : "GER",
+    "bib" : "681",
+    "club" : "Tri-Team Hagen I",
+    "finish" : "02:33:35"
+  }, {
+    "place" : 23,
+    "name" : "Königs, Ralf",
+    "nation" : "GER",
+    "bib" : "626",
+    "club" : "ASV Köln I",
+    "finish" : "02:33:51"
+  }, {
+    "place" : 24,
+    "name" : "Effertz, Norbert",
+    "nation" : "GER",
+    "bib" : "676",
+    "club" : "Team Indeland Eschweiler",
+    "finish" : "02:34:44"
+  }, {
+    "place" : 25,
+    "name" : "Birkendorf, Klaus",
+    "nation" : "GER",
+    "bib" : "635",
+    "club" : "Tri Geckos Dortmund I",
+    "finish" : "02:36:12"
+  }, {
+    "place" : 26,
+    "name" : "Hens, Andreas",
+    "nation" : "GER",
+    "bib" : "624",
+    "club" : "Tri Club Wuppertal I",
+    "finish" : "02:36:21"
+  }, {
+    "place" : 27,
+    "name" : "Jaross, Christoph",
+    "nation" : "GER",
+    "bib" : "610",
+    "club" : "Triathlon Team Ratingen 08 I",
+    "finish" : "02:37:07"
+  }, {
+    "place" : 28,
+    "name" : "Blasey, Frank",
+    "nation" : "GER",
+    "bib" : "604",
+    "club" : "SG Triathlon Witten",
+    "finish" : "02:37:13"
+  }, {
+    "place" : 29,
+    "name" : "Motycka, Hans",
+    "nation" : "GER",
+    "bib" : "620",
+    "club" : "TSVE 1890 Bielefeld Masters",
+    "finish" : "02:37:16"
+  }, {
+    "place" : 30,
+    "name" : "Schieferstein, Burkhard",
+    "nation" : "GER",
+    "bib" : "652",
+    "club" : "Triathlon Team Ratingen 08 II",
+    "finish" : "02:37:50"
+  }, {
+    "place" : 31,
+    "name" : "Beltermann, Hubertus",
+    "nation" : "GER",
+    "bib" : "661",
+    "club" : "RC Sorpesee",
+    "finish" : "02:38:00"
+  }, {
+    "place" : 32,
+    "name" : "Moryson, Sven",
+    "nation" : "GER",
+    "bib" : "615",
+    "club" : "Hildener AT - Triathlon",
+    "finish" : "02:38:18"
+  }, {
+    "place" : 33,
+    "name" : "Buhs, Jörg",
+    "nation" : "GER",
+    "bib" : "608",
+    "club" : "SSF Bonn II",
+    "finish" : "02:38:41"
+  }, {
+    "place" : 34,
+    "name" : "Schmidt, Burkhard",
+    "nation" : "GER",
+    "bib" : "653",
+    "club" : "Triathlon Team Ratingen 08 II",
+    "finish" : "02:38:45"
+  }, {
+    "place" : 35,
+    "name" : "Wächtler, Thomas",
+    "nation" : "GER",
+    "bib" : "617",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:38:53"
+  }, {
+    "place" : 36,
+    "name" : "Czernik, Martin",
+    "nation" : "GER",
+    "bib" : "623",
+    "club" : "Tri Club Wuppertal I",
+    "finish" : "02:39:18"
+  }, {
+    "place" : 37,
+    "name" : "Gotthold, Pattrick",
+    "nation" : "GER",
+    "bib" : "640",
+    "club" : "SSF Bonn III",
+    "finish" : "02:39:55"
+  }, {
+    "place" : 38,
+    "name" : "Brücher Pastor, Nils",
+    "nation" : "GER",
+    "bib" : "606",
+    "club" : "SG Triathlon Witten",
+    "finish" : "02:40:13"
+  }, {
+    "place" : 39,
+    "name" : "Müller, Christian",
+    "nation" : "GER",
+    "bib" : "689",
+    "club" : "DJK Armada Euchen-Würselen",
+    "finish" : "02:40:52"
+  }, {
+    "place" : 40,
+    "name" : "Grunewald, Ralf",
+    "nation" : "GER",
+    "bib" : "647",
+    "club" : "TV Köln-Rodenkirchen III",
+    "finish" : "02:41:21"
+  }, {
+    "place" : 41,
+    "name" : "Friedrich-Heyking, Marc",
+    "nation" : "GER",
+    "bib" : "679",
+    "club" : "Tri-Team Hagen I",
+    "finish" : "02:41:47"
+  }, {
+    "place" : 42,
+    "name" : "Ferling, Frank",
+    "nation" : "GER",
+    "bib" : "654",
+    "club" : "Triathlon Team Ratingen 08 II",
+    "finish" : "02:42:15"
+  }, {
+    "place" : 43,
+    "name" : "Rausch, Karl Heinz",
+    "nation" : "GER",
+    "bib" : "656",
+    "club" : "SSF Bonn IV Grandmasters",
+    "finish" : "02:42:16"
+  }, {
+    "place" : 44,
+    "name" : "Krämer, Frank",
+    "nation" : "GER",
+    "bib" : "648",
+    "club" : "TV Köln-Rodenkirchen III",
+    "finish" : "02:43:16"
+  }, {
+    "place" : 45,
+    "name" : "Karger, Ralf",
+    "nation" : "GER",
+    "bib" : "658",
+    "club" : "Triathlon Mülheim",
+    "finish" : "02:44:48"
+  }, {
+    "place" : 46,
+    "name" : "Hackenbruch, Frank",
+    "nation" : "GER",
+    "bib" : "688",
+    "club" : "DJK Armada Euchen-Würselen",
+    "finish" : "02:44:51"
+  }, {
+    "place" : 47,
+    "name" : "Stabrey, Robert",
+    "nation" : "GER",
+    "bib" : "687",
+    "club" : "Pulheimer SC",
+    "finish" : "02:47:11"
+  }, {
+    "place" : 48,
+    "name" : "Köster, Christof",
+    "nation" : "GER",
+    "bib" : "630",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:48:07"
+  }, {
+    "place" : 49,
+    "name" : "Schwerkolt, Torsten",
+    "nation" : "GER",
+    "bib" : "660",
+    "club" : "Triathlon Mülheim",
+    "finish" : "02:48:10"
+  }, {
+    "place" : 50,
+    "name" : "Weiner, Thomas",
+    "nation" : "GER",
+    "bib" : "629",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:48:29"
+  }, {
+    "place" : 51,
+    "name" : "Bürger, Thomas",
+    "nation" : "GER",
+    "bib" : "674",
+    "club" : "Tri Club Wuppertal III",
+    "finish" : "02:48:35"
+  }, {
+    "place" : 52,
+    "name" : "Reifenberg, Stefan",
+    "nation" : "GER",
+    "bib" : "641",
+    "club" : "SSF Bonn III",
+    "finish" : "02:48:56"
+  }, {
+    "place" : 53,
+    "name" : "Prünte, Kai",
+    "nation" : "GER",
+    "bib" : "605",
+    "club" : "SG Triathlon Witten",
+    "finish" : "02:49:02"
+  }, {
+    "place" : 54,
+    "name" : "Kick, Frank",
+    "nation" : "GER",
+    "bib" : "644",
+    "club" : "SG Tri Power Rhein Sieg I",
+    "finish" : "02:50:52"
+  }, {
+    "place" : 55,
+    "name" : "Spiess, Stefan",
+    "nation" : "GER",
+    "bib" : "627",
+    "club" : "ASV Köln I",
+    "finish" : "02:50:59"
+  }, {
+    "place" : 56,
+    "name" : "Päckmann, Siggi",
+    "nation" : "GER",
+    "bib" : "632",
+    "club" : "SG DJK Armada Würselen / PTSV Aachen",
+    "finish" : "02:51:10"
+  }, {
+    "place" : 57,
+    "name" : "Bruns, Martina",
+    "nation" : "GER",
+    "bib" : "618",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:51:32"
+  }, {
+    "place" : 58,
+    "name" : "Baaske, Rolf",
+    "nation" : "GER",
+    "bib" : "638",
+    "club" : "Tri Club Wuppertal II",
+    "finish" : "02:52:04"
+  }, {
+    "place" : 59,
+    "name" : "Unverzagt, Guido",
+    "nation" : "GER",
+    "bib" : "642",
+    "club" : "SSF Bonn III",
+    "finish" : "02:53:13"
+  }, {
+    "place" : 60,
+    "name" : "van der Kaaij, Rens",
+    "nation" : "NED",
+    "bib" : "650",
+    "club" : "TG Neuss",
+    "finish" : "02:54:09"
+  }, {
+    "place" : 61,
+    "name" : "Weller, Timm",
+    "nation" : "GER",
+    "bib" : "625",
+    "club" : "ASV Köln I",
+    "finish" : "02:54:41"
+  }, {
+    "place" : 62,
+    "name" : "Franke, Norbert",
+    "nation" : "GER",
+    "bib" : "668",
+    "club" : "W + F Münster",
+    "finish" : "02:55:20"
+  }, {
+    "place" : 63,
+    "name" : "Schumacher, Hans Heinz",
+    "nation" : "GER",
+    "bib" : "639",
+    "club" : "Tri Club Wuppertal II",
+    "finish" : "02:55:22"
+  }, {
+    "place" : 64,
+    "name" : "Meinke, Carsten",
+    "nation" : "GER",
+    "bib" : "669",
+    "club" : "W + F Münster",
+    "finish" : "02:57:49"
+  }, {
+    "place" : 65,
+    "name" : "Höwer, Peter",
+    "nation" : "GER",
+    "bib" : "666",
+    "club" : "WEICON Tri Finish Münster",
+    "finish" : "02:58:00"
+  }, {
+    "place" : 66,
+    "name" : "Wappelhorst, Michael",
+    "nation" : "GER",
+    "bib" : "657",
+    "club" : "SSF Bonn IV Grandmasters",
+    "finish" : "02:58:53"
+  }, {
+    "place" : 67,
+    "name" : "Müller, Roger",
+    "nation" : "GER",
+    "bib" : "682",
+    "club" : "Tri-Team Hagen II",
+    "finish" : "02:59:41"
+  }, {
+    "place" : 68,
+    "name" : "Burkhardt, Frank",
+    "nation" : "GER",
+    "bib" : "655",
+    "club" : "SSF Bonn IV Grandmasters",
+    "finish" : "03:00:22"
+  }, {
+    "place" : 69,
+    "name" : "Ernst, Michael",
+    "nation" : "GER",
+    "bib" : "664",
+    "club" : "WEICON Tri Finish Münster",
+    "finish" : "03:00:28"
+  }, {
+    "place" : 70,
+    "name" : "Quandt, Karina",
+    "nation" : "GER",
+    "bib" : "686",
+    "club" : "Pulheimer SC",
+    "finish" : "03:00:56"
+  }, {
+    "place" : 71,
+    "name" : "Heinen, Robert",
+    "nation" : "GER",
+    "bib" : "678",
+    "club" : "Team Indeland Eschweiler",
+    "finish" : "03:01:01"
+  }, {
+    "place" : 72,
+    "name" : "Otten, Simone",
+    "nation" : "GER",
+    "bib" : "631",
+    "club" : "SG DJK Armada Würselen / PTSV Aachen",
+    "finish" : "03:01:17"
+  }, {
+    "place" : 73,
+    "name" : "Ellenrieder, Monika",
+    "nation" : "GER",
+    "bib" : "673",
+    "club" : "Tri Club Wuppertal III",
+    "finish" : "03:01:23"
+  }, {
+    "place" : 74,
+    "name" : "Walther, Jörg",
+    "nation" : "GER",
+    "bib" : "643",
+    "club" : "SG Tri Power Rhein Sieg I",
+    "finish" : "03:02:07"
+  }, {
+    "place" : 75,
+    "name" : "Pilters, Marcus",
+    "nation" : "GER",
+    "bib" : "637",
+    "club" : "Tri Club Wuppertal II",
+    "finish" : "03:02:13"
+  }, {
+    "place" : 76,
+    "name" : "Bork, Christian",
+    "nation" : "GER",
+    "bib" : "671",
+    "club" : "TV Erkelenz",
+    "finish" : "03:02:33"
+  }, {
+    "place" : 77,
+    "name" : "Baukhage, Michael",
+    "nation" : "GER",
+    "bib" : "663",
+    "club" : "RC Sorpesee",
+    "finish" : "03:03:02"
+  }, {
+    "place" : 78,
+    "name" : "Fuchs, Sandra",
+    "nation" : "GER",
+    "bib" : "670",
+    "club" : "TV Erkelenz",
+    "finish" : "03:03:07"
+  }, {
+    "place" : 79,
+    "name" : "Knebel, Karina",
+    "nation" : "GER",
+    "bib" : "685",
+    "club" : "Pulheimer SC",
+    "finish" : "03:05:10"
+  }, {
+    "place" : 80,
+    "name" : "Severin, Gerd",
+    "nation" : "GER",
+    "bib" : "677",
+    "club" : "Team Indeland Eschweiler",
+    "finish" : "03:06:48"
+  }, {
+    "place" : 81,
+    "name" : "Siegler, Frank",
+    "nation" : "GER",
+    "bib" : "659",
+    "club" : "Triathlon Mülheim",
+    "finish" : "03:07:01"
+  }, {
+    "place" : 82,
+    "name" : "Vobis, Andreas",
+    "nation" : "GER",
+    "bib" : "651",
+    "club" : "TG Neuss",
+    "finish" : "03:12:14"
+  }, {
+    "place" : 83,
+    "name" : "Benz, Christian",
+    "nation" : "GER",
+    "bib" : "684",
+    "club" : "Tri-Team Hagen II",
+    "finish" : "03:14:08"
+  }, {
+    "place" : 84,
+    "name" : "Eidmann, Volker",
+    "nation" : "GER",
+    "bib" : "675",
+    "club" : "Tri Club Wuppertal III",
+    "finish" : "03:16:10"
+  }, {
+    "place" : 85,
+    "name" : "Höwer, Doris",
+    "nation" : "GER",
+    "bib" : "665",
+    "club" : "WEICON Tri Finish Münster",
+    "finish" : "03:23:03"
+  }, {
+    "place" : 86,
+    "name" : "Loos, Britta",
+    "nation" : "GER",
+    "bib" : "645",
+    "club" : "SG Tri Power Rhein Sieg I",
+    "finish" : "03:29:44"
+  } ]
+}

@@ -1,0 +1,356 @@
+{
+  "year" : 2024,
+  "eventCode" : "VLM",
+  "eventName" : "Verbandsliga Mitte",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2024/",
+  "resultCount" : 58,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Preden, Stephan",
+    "bib" : "753",
+    "club" : "Triathlon Team TSV Gruiten 1884",
+    "finish" : "02:15:49"
+  }, {
+    "place" : 2,
+    "name" : "Schlei, Sören",
+    "bib" : "717",
+    "club" : "Nispa TriTeam HADI Wesel",
+    "finish" : "02:16:59"
+  }, {
+    "place" : 3,
+    "name" : "Weiss, Bastian",
+    "bib" : "759",
+    "club" : "TriForce-Vital e.V.",
+    "finish" : "02:18:01"
+  }, {
+    "place" : 4,
+    "name" : "Kommorowski, Henri",
+    "bib" : "708",
+    "club" : "PV Triathlon TG Witten IV",
+    "finish" : "02:20:03"
+  }, {
+    "place" : 5,
+    "name" : "Dörner, Merlin Niklas",
+    "bib" : "760",
+    "club" : "TriForce-Vital e.V.",
+    "finish" : "02:21:41"
+  }, {
+    "place" : 6,
+    "name" : "Gossmann, Alexander",
+    "bib" : "749",
+    "club" : "Triathlon Team Ratingen 08 III",
+    "finish" : "02:22:10"
+  }, {
+    "place" : 7,
+    "name" : "Heine, Timo",
+    "bib" : "729",
+    "club" : "tri.SI (Triathlon Siegen)",
+    "finish" : "02:23:01"
+  }, {
+    "place" : 8,
+    "name" : "Blackmore, Neil",
+    "bib" : "701",
+    "club" : "Starlight Team Essen",
+    "finish" : "02:23:01"
+  }, {
+    "place" : 9,
+    "name" : "Schubert, Jannik",
+    "bib" : "744",
+    "club" : "TSV Solingen",
+    "finish" : "02:23:14"
+  }, {
+    "place" : 10,
+    "name" : "Fabisiak, Malte",
+    "bib" : "763",
+    "club" : "Tri Ducks Dorsten I",
+    "finish" : "02:23:35"
+  }, {
+    "place" : 11,
+    "name" : "Rudat, Philipp",
+    "bib" : "751",
+    "club" : "Triathlon Team Ratingen 08 III",
+    "finish" : "02:24:04"
+  }, {
+    "place" : 12,
+    "name" : "Müller, André",
+    "bib" : "733",
+    "club" : "TRIandertaler Mettmann-Sport I",
+    "finish" : "02:25:59"
+  }, {
+    "place" : 13,
+    "name" : "Tautz, Tobias",
+    "bib" : "724",
+    "club" : "RSV Osthelden",
+    "finish" : "02:27:18"
+  }, {
+    "place" : 14,
+    "name" : "Reiß, Christopher",
+    "bib" : "752",
+    "club" : "Triathlon Team Ratingen 08 III",
+    "finish" : "02:27:38"
+  }, {
+    "place" : 15,
+    "name" : "Kerstan, Frank",
+    "bib" : "754",
+    "club" : "Triathlon Team TSV Gruiten 1884",
+    "finish" : "02:28:12"
+  }, {
+    "place" : 16,
+    "name" : "Sauerborn, Lucas",
+    "bib" : "745",
+    "club" : "SC Rot-Weiß Oberhausen II",
+    "finish" : "02:29:16"
+  }, {
+    "place" : 17,
+    "name" : "Wilmes, Maximilian",
+    "bib" : "739",
+    "club" : "TV Attendorn TRI-TIME",
+    "finish" : "02:29:53"
+  }, {
+    "place" : 18,
+    "name" : "Goltsch, Tillmann",
+    "bib" : "706",
+    "club" : "PV Triathlon TG Witten IV",
+    "finish" : "02:30:50"
+  }, {
+    "place" : 19,
+    "name" : "Bachmayr, Stefan",
+    "bib" : "705",
+    "club" : "PV Triathlon TG Witten IV",
+    "finish" : "02:31:00"
+  }, {
+    "place" : 20,
+    "name" : "Wysocki, Arkadiusz",
+    "bib" : "702",
+    "club" : "Starlight Team Essen",
+    "finish" : "02:31:32"
+  }, {
+    "place" : 21,
+    "name" : "Wulf, Benedict",
+    "bib" : "748",
+    "club" : "SC Rot-Weiß Oberhausen II",
+    "finish" : "02:32:11"
+  }, {
+    "place" : 22,
+    "name" : "Weber, Markus",
+    "bib" : "723",
+    "club" : "RSV Osthelden",
+    "finish" : "02:34:12"
+  }, {
+    "place" : 23,
+    "name" : "Holste, Alexander",
+    "bib" : "710",
+    "club" : "TRC Essen 84 III",
+    "finish" : "02:34:48"
+  }, {
+    "place" : 24,
+    "name" : "Kuschewski, Niklas",
+    "bib" : "728",
+    "club" : "Nordtriathleten Oberhausen I",
+    "finish" : "02:35:59"
+  }, {
+    "place" : 25,
+    "name" : "Diekmann, Bernd",
+    "bib" : "720",
+    "club" : "Nispa TriTeam HADI Wesel",
+    "finish" : "02:36:01"
+  }, {
+    "place" : 26,
+    "name" : "Stobbe, Markus",
+    "bib" : "711",
+    "club" : "TRC Essen 84 III",
+    "finish" : "02:36:19"
+  }, {
+    "place" : 27,
+    "name" : "Schäfer, André",
+    "bib" : "743",
+    "club" : "TSV Solingen",
+    "finish" : "02:36:28"
+  }, {
+    "place" : 28,
+    "name" : "Schlosser, André",
+    "bib" : "750",
+    "club" : "Triathlon Team Ratingen 08 III",
+    "finish" : "02:36:53"
+  }, {
+    "place" : 29,
+    "name" : "Rayher, Benjamin",
+    "bib" : "761",
+    "club" : "Tri Ducks Dorsten I",
+    "finish" : "02:38:00"
+  }, {
+    "place" : 30,
+    "name" : "Pooth, Daniel",
+    "bib" : "719",
+    "club" : "Nispa TriTeam HADI Wesel",
+    "finish" : "02:39:28"
+  }, {
+    "place" : 31,
+    "name" : "Rödder, Philipp",
+    "bib" : "732",
+    "club" : "tri.SI (Triathlon Siegen)",
+    "finish" : "02:39:57"
+  }, {
+    "place" : 32,
+    "name" : "Milinski, Tim",
+    "bib" : "734",
+    "club" : "TRIandertaler Mettmann-Sport I",
+    "finish" : "02:40:00"
+  }, {
+    "place" : 33,
+    "name" : "Bettger, Thomas",
+    "bib" : "718",
+    "club" : "Nispa TriTeam HADI Wesel",
+    "finish" : "02:40:01"
+  }, {
+    "place" : 34,
+    "name" : "Bendick, Sven",
+    "bib" : "764",
+    "club" : "Tri Ducks Dorsten I",
+    "finish" : "02:40:25"
+  }, {
+    "place" : 35,
+    "name" : "Tiggelbeck, Daniel",
+    "bib" : "725",
+    "club" : "Nordtriathleten Oberhausen I",
+    "finish" : "02:42:37"
+  }, {
+    "place" : 36,
+    "name" : "Wortmann, Stefan",
+    "bib" : "740",
+    "club" : "TV Attendorn TRI-TIME",
+    "finish" : "02:42:49"
+  }, {
+    "place" : 37,
+    "name" : "Huschauer, Horst",
+    "bib" : "714",
+    "club" : "TG Neuss",
+    "finish" : "02:43:05"
+  }, {
+    "place" : 38,
+    "name" : "Debus, Markus",
+    "bib" : "721",
+    "club" : "RSV Osthelden",
+    "finish" : "02:43:13"
+  }, {
+    "place" : 39,
+    "name" : "Breitenbach, Johannes",
+    "bib" : "707",
+    "club" : "PV Triathlon TG Witten IV",
+    "finish" : "02:43:14"
+  }, {
+    "place" : 40,
+    "name" : "Grüner, Jan",
+    "bib" : "709",
+    "club" : "TRC Essen 84 III",
+    "finish" : "02:44:23"
+  }, {
+    "place" : 41,
+    "name" : "Hennel, Niels",
+    "bib" : "738",
+    "club" : "TV Attendorn TRI-TIME",
+    "finish" : "02:46:31"
+  }, {
+    "place" : 42,
+    "name" : "Fischer, Lothar",
+    "bib" : "737",
+    "club" : "TV Attendorn TRI-TIME",
+    "finish" : "02:48:15"
+  }, {
+    "place" : 43,
+    "name" : "Wehran, Frank",
+    "bib" : "727",
+    "club" : "Nordtriathleten Oberhausen I",
+    "finish" : "02:49:09"
+  }, {
+    "place" : 44,
+    "name" : "Hauser, Kai",
+    "bib" : "747",
+    "club" : "SC Rot-Weiß Oberhausen II",
+    "finish" : "02:50:49"
+  }, {
+    "place" : 45,
+    "name" : "Leifeld, Pascal",
+    "bib" : "726",
+    "club" : "Nordtriathleten Oberhausen I",
+    "finish" : "02:51:49"
+  }, {
+    "place" : 46,
+    "name" : "van Laak, Dennis",
+    "bib" : "746",
+    "club" : "SC Rot-Weiß Oberhausen II",
+    "finish" : "02:52:15"
+  }, {
+    "place" : 47,
+    "name" : "Villalobos, Adryan",
+    "bib" : "735",
+    "club" : "TRIandertaler Mettmann-Sport I",
+    "finish" : "02:57:15"
+  }, {
+    "place" : 48,
+    "name" : "Junker, Andreas",
+    "bib" : "731",
+    "club" : "tri.SI (Triathlon Siegen)",
+    "finish" : "02:59:12"
+  }, {
+    "place" : 49,
+    "name" : "Hörnchen-Montag, Christian",
+    "bib" : "756",
+    "club" : "Triathlon Team TSV Gruiten 1884",
+    "finish" : "02:59:28"
+  }, {
+    "place" : 50,
+    "name" : "Braems, Malte",
+    "bib" : "712",
+    "club" : "TRC Essen 84 III",
+    "finish" : "03:01:46"
+  }, {
+    "place" : 51,
+    "name" : "Genscher, Udo",
+    "bib" : "741",
+    "club" : "TSV Solingen",
+    "finish" : "03:02:27"
+  }, {
+    "place" : 52,
+    "name" : "Diekow, Arne",
+    "bib" : "713",
+    "club" : "TG Neuss",
+    "finish" : "03:02:52"
+  }, {
+    "place" : 53,
+    "name" : "Glomb, Sebastian",
+    "bib" : "736",
+    "club" : "TRIandertaler Mettmann-Sport I",
+    "finish" : "03:04:14"
+  }, {
+    "place" : 54,
+    "name" : "Stock, Patrick",
+    "bib" : "722",
+    "club" : "RSV Osthelden",
+    "finish" : "03:04:26"
+  }, {
+    "place" : 55,
+    "name" : "Kopp, Christian",
+    "bib" : "762",
+    "club" : "Tri Ducks Dorsten I",
+    "finish" : "03:06:21"
+  }, {
+    "place" : 56,
+    "name" : "Morcinek-Mehlau, Thomas",
+    "bib" : "742",
+    "club" : "TSV Solingen",
+    "finish" : "03:06:24"
+  }, {
+    "place" : 57,
+    "name" : "Böttcher, Frank",
+    "bib" : "703",
+    "club" : "Starlight Team Essen",
+    "finish" : "03:22:17"
+  }, {
+    "place" : 58,
+    "name" : "Plettau, Markus",
+    "bib" : "704",
+    "club" : "Starlight Team Essen",
+    "finish" : "03:22:19"
+  } ]
+}

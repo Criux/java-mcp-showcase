@@ -1,0 +1,428 @@
+{
+  "year" : 2023,
+  "eventCode" : "VLN",
+  "eventName" : "Verbandsliga Nord",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2023/",
+  "resultCount" : 60,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Veldhuis, Jan",
+    "nation" : "GER",
+    "bib" : "635",
+    "club" : "SC Altentheine I",
+    "finish" : "02:12:16"
+  }, {
+    "place" : 2,
+    "name" : "Orfgen, Jonas",
+    "nation" : "GER",
+    "bib" : "609",
+    "club" : "Tricity 2001 e.V.",
+    "finish" : "02:14:59"
+  }, {
+    "place" : 3,
+    "name" : "Jansen, Hendrik",
+    "nation" : "GER",
+    "bib" : "651",
+    "club" : "Marathon-Club Menden I",
+    "finish" : "02:15:33"
+  }, {
+    "place" : 4,
+    "name" : "Nieberg, Sebastian",
+    "nation" : "GER",
+    "bib" : "667",
+    "club" : "TV Werne 03 Wasserfreunde e.V. II",
+    "finish" : "02:16:15"
+  }, {
+    "place" : 5,
+    "name" : "Magiera, Florian",
+    "nation" : "GER",
+    "bib" : "610",
+    "club" : "Tricity 2001 e.V.",
+    "finish" : "02:17:16"
+  }, {
+    "place" : 6,
+    "name" : "Kern, Paul",
+    "nation" : "GER",
+    "bib" : "603",
+    "club" : "Bocholter WSV II",
+    "finish" : "02:17:39"
+  }, {
+    "place" : 7,
+    "name" : "Dieckmann, Marco",
+    "nation" : "GER",
+    "bib" : "617",
+    "club" : "TriStar Oelde II",
+    "finish" : "02:19:21"
+  }, {
+    "place" : 8,
+    "name" : "Janitzki, Alexander",
+    "nation" : "GER",
+    "bib" : "602",
+    "club" : "Bocholter WSV II",
+    "finish" : "02:19:40"
+  }, {
+    "place" : 9,
+    "name" : "Wagner, Jörg",
+    "nation" : "GER",
+    "bib" : "658",
+    "club" : "Tri-As Hamm",
+    "finish" : "02:20:53"
+  }, {
+    "place" : 10,
+    "name" : "Kiene, Nils",
+    "nation" : "GER",
+    "bib" : "638",
+    "club" : "1. Tri-Club Paderborn II",
+    "finish" : "02:21:47"
+  }, {
+    "place" : 11,
+    "name" : "Koch, Christian",
+    "nation" : "GER",
+    "bib" : "620",
+    "club" : "TriStar Oelde II",
+    "finish" : "02:23:35"
+  }, {
+    "place" : 12,
+    "name" : "Franke, Johannes",
+    "nation" : "GER",
+    "bib" : "649",
+    "club" : "Marathon-Club Menden I",
+    "finish" : "02:24:10"
+  }, {
+    "place" : 13,
+    "name" : "Sandmann, Martin",
+    "nation" : "GER",
+    "bib" : "615",
+    "club" : "1.Tri Team Gütersloh II",
+    "finish" : "02:24:44"
+  }, {
+    "place" : 14,
+    "name" : "Wiegers, Jan",
+    "nation" : "GER",
+    "bib" : "636",
+    "club" : "SC Altentheine I",
+    "finish" : "02:25:20"
+  }, {
+    "place" : 15,
+    "name" : "Hogenkamp, Niklas",
+    "nation" : "GER",
+    "bib" : "601",
+    "club" : "Bocholter WSV II",
+    "finish" : "02:25:53"
+  }, {
+    "place" : 16,
+    "name" : "Schnell, Uwe",
+    "nation" : "GER",
+    "bib" : "622",
+    "club" : "Tri-Sport-Team TV Verl II",
+    "finish" : "02:26:13"
+  }, {
+    "place" : 17,
+    "name" : "Wachenfeld, Thorben",
+    "nation" : "GER",
+    "bib" : "655",
+    "club" : "SV Hullern 68",
+    "finish" : "02:26:14"
+  }, {
+    "place" : 18,
+    "name" : "Ptasinski, Achim",
+    "nation" : "GER",
+    "bib" : "643",
+    "club" : "LTV Lippstadt",
+    "finish" : "02:26:30"
+  }, {
+    "place" : 19,
+    "name" : "Dobrzinski, Oliver",
+    "nation" : "GER",
+    "bib" : "634",
+    "club" : "SC Altentheine I",
+    "finish" : "02:26:38"
+  }, {
+    "place" : 20,
+    "name" : "Arens, Sebastian",
+    "nation" : "GER",
+    "bib" : "644",
+    "club" : "LTV Lippstadt",
+    "finish" : "02:26:38"
+  }, {
+    "place" : 21,
+    "name" : "Buchwald, Daniel",
+    "nation" : "GER",
+    "bib" : "613",
+    "club" : "1.Tri Team Gütersloh II",
+    "finish" : "02:27:42"
+  }, {
+    "place" : 22,
+    "name" : "Weier, Ralf",
+    "nation" : "GER",
+    "bib" : "652",
+    "club" : "Marathon-Club Menden I",
+    "finish" : "02:28:08"
+  }, {
+    "place" : 23,
+    "name" : "Knaup, Andreas",
+    "nation" : "GER",
+    "bib" : "619",
+    "club" : "TriStar Oelde II",
+    "finish" : "02:28:13"
+  }, {
+    "place" : 24,
+    "name" : "Oldenburg, Julian",
+    "nation" : "GER",
+    "bib" : "614",
+    "club" : "1.Tri Team Gütersloh II",
+    "finish" : "02:29:12"
+  }, {
+    "place" : 25,
+    "name" : "Hellmann, Daniel",
+    "nation" : "GER",
+    "bib" : "618",
+    "club" : "TriStar Oelde II",
+    "finish" : "02:29:22"
+  }, {
+    "place" : 26,
+    "name" : "Tigges, Sebastian",
+    "nation" : "GER",
+    "bib" : "616",
+    "club" : "1.Tri Team Gütersloh II",
+    "finish" : "02:30:11"
+  }, {
+    "place" : 27,
+    "name" : "Overberg, Florian",
+    "nation" : "GER",
+    "bib" : "628",
+    "club" : "Beermann alles grün-SV Teuto Riesenbeck",
+    "finish" : "02:30:20"
+  }, {
+    "place" : 28,
+    "name" : "Kerwien, Torsten",
+    "nation" : "GER",
+    "bib" : "662",
+    "club" : "Tri Speed Marienfeld III",
+    "finish" : "02:31:07"
+  }, {
+    "place" : 29,
+    "name" : "Wurm, Johannes",
+    "nation" : "GER",
+    "bib" : "645",
+    "club" : "TSVE 1890 Bielefeld II",
+    "finish" : "02:31:23"
+  }, {
+    "place" : 30,
+    "name" : "Blaschke, Göran",
+    "nation" : "GER",
+    "bib" : "633",
+    "club" : "SC Altentheine I",
+    "finish" : "02:32:32"
+  }, {
+    "place" : 31,
+    "name" : "Balschukat, Hermann",
+    "nation" : "GER",
+    "bib" : "641",
+    "club" : "LTV Lippstadt",
+    "finish" : "02:33:29"
+  }, {
+    "place" : 32,
+    "name" : "Kottenhahn, Jan",
+    "nation" : "GER",
+    "bib" : "668",
+    "club" : "TV Werne 03 Wasserfreunde e.V. II",
+    "finish" : "02:33:41"
+  }, {
+    "place" : 33,
+    "name" : "Magiera, Joachim",
+    "nation" : "GER",
+    "bib" : "612",
+    "club" : "Tricity 2001 e.V.",
+    "finish" : "02:33:50"
+  }, {
+    "place" : 34,
+    "name" : "Künsken, Carsten",
+    "nation" : "GER",
+    "bib" : "656",
+    "club" : "SV Hullern 68",
+    "finish" : "02:35:29"
+  }, {
+    "place" : 35,
+    "name" : "Borsutzki, Michael",
+    "nation" : "GER",
+    "bib" : "606",
+    "club" : "W+F Münster I",
+    "finish" : "02:36:02"
+  }, {
+    "place" : 36,
+    "name" : "Steinhoff, Christian",
+    "nation" : "GER",
+    "bib" : "650",
+    "club" : "Marathon-Club Menden I",
+    "finish" : "02:36:56"
+  }, {
+    "place" : 37,
+    "name" : "Ortkras, Meinolf",
+    "nation" : "GER",
+    "bib" : "663",
+    "club" : "Tri Speed Marienfeld III",
+    "finish" : "02:37:26"
+  }, {
+    "place" : 38,
+    "name" : "Prohaska, Jörg",
+    "nation" : "GER",
+    "bib" : "646",
+    "club" : "TSVE 1890 Bielefeld II",
+    "finish" : "02:37:38"
+  }, {
+    "place" : 39,
+    "name" : "Becker, Matthias",
+    "nation" : "GER",
+    "bib" : "605",
+    "club" : "W+F Münster I",
+    "finish" : "02:37:42"
+  }, {
+    "place" : 40,
+    "name" : "Brinkmann, Tobias",
+    "nation" : "GER",
+    "bib" : "654",
+    "club" : "SV Hullern 68",
+    "finish" : "02:38:53"
+  }, {
+    "place" : 41,
+    "name" : "Waltar, Thomas",
+    "nation" : "GER",
+    "bib" : "642",
+    "club" : "LTV Lippstadt",
+    "finish" : "02:39:01"
+  }, {
+    "place" : 42,
+    "name" : "Ostendorf, Simon",
+    "nation" : "GER",
+    "bib" : "604",
+    "club" : "Bocholter WSV II",
+    "finish" : "02:39:02"
+  }, {
+    "place" : 43,
+    "name" : "Kräher, Björn",
+    "nation" : "GER",
+    "bib" : "666",
+    "club" : "TV Werne 03 Wasserfreunde e.V. II",
+    "finish" : "02:39:08"
+  }, {
+    "place" : 44,
+    "name" : "Keuns, Udo",
+    "nation" : "GER",
+    "bib" : "611",
+    "club" : "Tricity 2001 e.V.",
+    "finish" : "02:40:05"
+  }, {
+    "place" : 45,
+    "name" : "Bendick, Sven",
+    "nation" : "GER",
+    "bib" : "630",
+    "club" : "Tri Ducks Dorsten I",
+    "finish" : "02:40:08"
+  }, {
+    "place" : 46,
+    "name" : "Ullrich, Sebastian",
+    "nation" : "GER",
+    "bib" : "625",
+    "club" : "Beermann alles grün-SV Teuto Riesenbeck",
+    "finish" : "02:40:21"
+  }, {
+    "place" : 47,
+    "name" : "Leppersjohann, Frank",
+    "nation" : "GER",
+    "bib" : "624",
+    "club" : "Tri-Sport-Team TV Verl II",
+    "finish" : "02:40:36"
+  }, {
+    "place" : 48,
+    "name" : "Koch, Ralf",
+    "nation" : "GER",
+    "bib" : "665",
+    "club" : "TV Werne 03 Wasserfreunde e.V. II",
+    "finish" : "02:42:57"
+  }, {
+    "place" : 49,
+    "name" : "Gennet, Uwe",
+    "nation" : "GER",
+    "bib" : "621",
+    "club" : "Tri-Sport-Team TV Verl II",
+    "finish" : "02:43:04"
+  }, {
+    "place" : 50,
+    "name" : "Polarczyk, Jakob",
+    "nation" : "GER",
+    "bib" : "653",
+    "club" : "SV Hullern 68",
+    "finish" : "02:45:34"
+  }, {
+    "place" : 51,
+    "name" : "Götten, Michael",
+    "nation" : "GER",
+    "bib" : "627",
+    "club" : "Beermann alles grün-SV Teuto Riesenbeck",
+    "finish" : "02:45:56"
+  }, {
+    "place" : 52,
+    "name" : "Tewes, Ingo",
+    "nation" : "GER",
+    "bib" : "629",
+    "club" : "Tri Ducks Dorsten I",
+    "finish" : "02:46:18"
+  }, {
+    "place" : 53,
+    "name" : "Frerichs, Luca",
+    "nation" : "GER",
+    "bib" : "608",
+    "club" : "W+F Münster I",
+    "finish" : "02:47:30"
+  }, {
+    "place" : 54,
+    "name" : "Vogel, Arno",
+    "nation" : "GER",
+    "bib" : "632",
+    "club" : "Tri Ducks Dorsten I",
+    "finish" : "02:48:21"
+  }, {
+    "place" : 55,
+    "name" : "Fasel, Tim",
+    "nation" : "GER",
+    "bib" : "637",
+    "club" : "1. Tri-Club Paderborn II",
+    "finish" : "02:48:54"
+  }, {
+    "place" : 56,
+    "name" : "Gawlik, Christian",
+    "nation" : "GER",
+    "bib" : "648",
+    "club" : "TSVE 1890 Bielefeld II",
+    "finish" : "02:49:21"
+  }, {
+    "place" : 57,
+    "name" : "Carius, Dominik",
+    "nation" : "GER",
+    "bib" : "607",
+    "club" : "W+F Münster I",
+    "finish" : "02:53:07"
+  }, {
+    "place" : 58,
+    "name" : "Friedrich, Carsten",
+    "nation" : "GER",
+    "bib" : "659",
+    "club" : "Tri-As Hamm",
+    "finish" : "02:54:28"
+  }, {
+    "place" : 59,
+    "name" : "Mirschel, Peter",
+    "nation" : "GER",
+    "bib" : "626",
+    "club" : "Beermann alles grün-SV Teuto Riesenbeck",
+    "finish" : "02:56:35"
+  }, {
+    "place" : 60,
+    "name" : "Knoche, Ulrich",
+    "nation" : "GER",
+    "bib" : "623",
+    "club" : "Tri-Sport-Team TV Verl II",
+    "finish" : "03:20:09"
+  } ]
+}

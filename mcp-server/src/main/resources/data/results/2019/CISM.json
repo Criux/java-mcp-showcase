@@ -1,0 +1,106 @@
+{
+  "year" : 2019,
+  "eventCode" : "CISM",
+  "eventName" : "CISM Euro Cup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2019/",
+  "resultCount" : 14,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Schaffeld, Timo",
+    "nation" : "GER",
+    "bib" : "2300",
+    "club" : "Deutschland",
+    "finish" : "02:08:47"
+  }, {
+    "place" : 1,
+    "name" : "Dammekens, Mandy",
+    "nation" : "BEL",
+    "bib" : "2315",
+    "club" : "Belgien",
+    "finish" : "02:25:10"
+  }, {
+    "place" : 2,
+    "name" : "Voorhout, Marloes",
+    "nation" : "NED",
+    "bib" : "2309",
+    "club" : "Niederlande",
+    "finish" : "02:40:31"
+  }, {
+    "place" : 2,
+    "name" : "Clusters, Jelle",
+    "nation" : "BEL",
+    "bib" : "2312",
+    "club" : "Belgien",
+    "finish" : "02:09:13"
+  }, {
+    "place" : 3,
+    "name" : "Lorenzen, Marit",
+    "nation" : "GER",
+    "bib" : "2303",
+    "club" : "Deutschland",
+    "finish" : "02:46:15"
+  }, {
+    "place" : 3,
+    "name" : "Bernar, Gunther",
+    "nation" : "BEL",
+    "bib" : "2313",
+    "club" : "Belgien",
+    "finish" : "02:14:04"
+  }, {
+    "place" : 4,
+    "name" : "Schöps, Franz",
+    "nation" : "GER",
+    "bib" : "2302",
+    "club" : "Deutschland",
+    "finish" : "02:14:48"
+  }, {
+    "place" : 4,
+    "name" : "Schönwald, Charlotte",
+    "nation" : "GER",
+    "bib" : "2304",
+    "club" : "Deutschland",
+    "finish" : "02:49:12"
+  }, {
+    "place" : 5,
+    "name" : "Junker, Franziska",
+    "nation" : "GER",
+    "bib" : "2305",
+    "club" : "Deutschland",
+    "finish" : "02:53:14"
+  }, {
+    "place" : 5,
+    "name" : "de Vos, Willem",
+    "nation" : "NED",
+    "bib" : "2306",
+    "club" : "Niederlande",
+    "finish" : "02:18:14"
+  }, {
+    "place" : 6,
+    "name" : "Cornelisz, Michael",
+    "nation" : "NED",
+    "bib" : "2308",
+    "club" : "Niederlande",
+    "finish" : "02:19:42"
+  }, {
+    "place" : 7,
+    "name" : "Liekens, Johan",
+    "nation" : "BEL",
+    "bib" : "2314",
+    "club" : "Belgien",
+    "finish" : "02:21:40"
+  }, {
+    "place" : 8,
+    "name" : "Ritzmann, Sami",
+    "nation" : "GER",
+    "bib" : "2301",
+    "club" : "Deutschland",
+    "finish" : "02:23:32"
+  }, {
+    "place" : 9,
+    "name" : "Verlaan, Lars",
+    "nation" : "NED",
+    "bib" : "2307",
+    "club" : "Niederlande",
+    "finish" : "02:33:18"
+  } ]
+}

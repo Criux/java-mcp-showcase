@@ -1,0 +1,29 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: mcp-client
+  freemarker:
+    suffix: .ftlh
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY}
+      chat:
+        options:
+          model: gpt-4o-mini
+          temperature: 0.2
+    mcp:
+      client:
+        name: sassenberger-triathlon-chat
+        version: 1.0.0
+        type: SYNC
+        request-timeout: 60s
+        streamable-http:
+          connections:
+            triathlon:
+              url: ${MCP_SERVER_URL:http://localhost:8080}
+
+logging:
+  level:
+    io.modelcontextprotocol: INFO

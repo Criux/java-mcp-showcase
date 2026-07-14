@@ -1,0 +1,106 @@
+{
+  "year" : 2018,
+  "eventCode" : "SW",
+  "eventName" : "Seniorinnen Liga",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2018/",
+  "resultCount" : 14,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Dauben, Conny",
+    "nation" : "GER",
+    "bib" : "827",
+    "club" : "SG Triathlon Witten F",
+    "finish" : "02:37:04"
+  }, {
+    "place" : 2,
+    "name" : "Goris, Rhoda",
+    "nation" : "GER",
+    "bib" : "825",
+    "club" : "Krefelder Kanu Klub F",
+    "finish" : "02:43:35"
+  }, {
+    "place" : 3,
+    "name" : "Schneider, Silke",
+    "nation" : "GER",
+    "bib" : "822",
+    "club" : "SSF Bonn F",
+    "finish" : "02:45:41"
+  }, {
+    "place" : 4,
+    "name" : "Falkenstein, Britta",
+    "nation" : "GER",
+    "bib" : "834",
+    "club" : "SV Gladbeck 13 F",
+    "finish" : "02:46:40"
+  }, {
+    "place" : 5,
+    "name" : "Minke, Angela",
+    "nation" : "GER",
+    "bib" : "826",
+    "club" : "Krefelder Kanu Klub F",
+    "finish" : "02:48:07"
+  }, {
+    "place" : 6,
+    "name" : "Marquardt, Anika",
+    "nation" : "GER",
+    "bib" : "835",
+    "club" : "SV Gladbeck 13 F",
+    "finish" : "02:49:51"
+  }, {
+    "place" : 7,
+    "name" : "Wienforth, Silke",
+    "nation" : "GER",
+    "bib" : "829",
+    "club" : "SG Triathlon Witten F",
+    "finish" : "02:53:45"
+  }, {
+    "place" : 8,
+    "name" : "Loeber, Katharina",
+    "nation" : "GER",
+    "bib" : "831",
+    "club" : "Pulheimer SC F",
+    "finish" : "02:53:57"
+  }, {
+    "place" : 9,
+    "name" : "Gensior, Berenike",
+    "nation" : "GER",
+    "bib" : "824",
+    "club" : "Krefelder Kanu Klub F",
+    "finish" : "02:54:32"
+  }, {
+    "place" : 10,
+    "name" : "Quiskamp, Verena",
+    "nation" : "GER",
+    "bib" : "828",
+    "club" : "SG Triathlon Witten F",
+    "finish" : "02:55:55"
+  }, {
+    "place" : 11,
+    "name" : "Kontio, Carina",
+    "nation" : "GER",
+    "bib" : "821",
+    "club" : "SSF Bonn F",
+    "finish" : "02:56:52"
+  }, {
+    "place" : 12,
+    "name" : "Marx, Petra",
+    "nation" : "GER",
+    "bib" : "833",
+    "club" : "SV Gladbeck 13 F",
+    "finish" : "02:57:15"
+  }, {
+    "place" : 13,
+    "name" : "Hoenig, Ursula",
+    "nation" : "GER",
+    "bib" : "823",
+    "club" : "SSF Bonn F",
+    "finish" : "03:09:55"
+  }, {
+    "place" : 14,
+    "name" : "Bohn, Angela",
+    "nation" : "GER",
+    "bib" : "830",
+    "club" : "Pulheimer SC F",
+    "finish" : "03:15:44"
+  } ]
+}

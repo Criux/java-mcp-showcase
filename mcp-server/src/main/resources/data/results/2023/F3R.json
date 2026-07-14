@@ -1,0 +1,160 @@
+{
+  "year" : 2023,
+  "eventCode" : "F3R",
+  "eventName" : "Strohbücker StaffelCup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2023/",
+  "resultCount" : 38,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Raving Racers¿",
+    "finish" : "01:13:09"
+  }, {
+    "place" : 2,
+    "name" : "Triangels",
+    "finish" : "01:16:19"
+  }, {
+    "place" : 3,
+    "name" : "PhysioFit Korte 1",
+    "finish" : "01:17:18"
+  }, {
+    "place" : 4,
+    "name" : "Tri The Hard Way",
+    "finish" : "01:17:55"
+  }, {
+    "place" : 5,
+    "name" : "Stiftung Wadentest",
+    "finish" : "01:20:50"
+  }, {
+    "place" : 6,
+    "name" : "Utility Partners Team 2",
+    "finish" : "01:21:14"
+  }, {
+    "place" : 7,
+    "name" : "Die Ruhrpotter",
+    "finish" : "01:22:22"
+  }, {
+    "place" : 8,
+    "name" : "Die schnellen Schildkröten",
+    "finish" : "01:22:45"
+  }, {
+    "place" : 9,
+    "name" : "Team Scheller-Nubbi",
+    "finish" : "01:23:38"
+  }, {
+    "place" : 10,
+    "name" : "Die Exinnen",
+    "finish" : "01:27:40"
+  }, {
+    "place" : 11,
+    "name" : "Tri Ducks Heisado",
+    "finish" : "01:28:44"
+  }, {
+    "place" : 12,
+    "name" : "Partnervermittlung Petermann",
+    "finish" : "01:29:28"
+  }, {
+    "place" : 13,
+    "name" : "Utility Partners Team 1",
+    "finish" : "01:30:23"
+  }, {
+    "place" : 14,
+    "name" : "R-Team",
+    "finish" : "01:30:24"
+  }, {
+    "place" : 15,
+    "name" : "Triathlon Raketen",
+    "finish" : "01:30:55"
+  }, {
+    "place" : 16,
+    "name" : "Tennischamps",
+    "finish" : "01:31:06"
+  }, {
+    "place" : 17,
+    "name" : "Die durstigen Radler",
+    "finish" : "01:32:21"
+  }, {
+    "place" : 18,
+    "name" : "Wsu Volleyball",
+    "finish" : "01:32:22"
+  }, {
+    "place" : 19,
+    "name" : "GRANO Racing Team",
+    "finish" : "01:33:18"
+  }, {
+    "place" : 20,
+    "name" : "Bierbauch Voraus Oelde",
+    "finish" : "01:34:18"
+  }, {
+    "place" : 21,
+    "name" : "Die Hotten Hüs",
+    "finish" : "01:34:18"
+  }, {
+    "place" : 22,
+    "name" : "Schlappis",
+    "finish" : "01:34:38"
+  }, {
+    "place" : 23,
+    "name" : "ACC-Akut",
+    "finish" : "01:35:13"
+  }, {
+    "place" : 24,
+    "name" : "Tri-Harder Sisters",
+    "finish" : "01:36:17"
+  }, {
+    "place" : 25,
+    "name" : "Tri-Queens",
+    "finish" : "01:36:23"
+  }, {
+    "place" : 26,
+    "name" : "Die Pinne",
+    "finish" : "01:36:47"
+  }, {
+    "place" : 27,
+    "name" : "Warendorfer SU",
+    "finish" : "01:37:18"
+  }, {
+    "place" : 28,
+    "name" : "Mannis Fans",
+    "finish" : "01:37:43"
+  }, {
+    "place" : 29,
+    "name" : "Tri Katletti",
+    "finish" : "01:38:55"
+  }, {
+    "place" : 30,
+    "name" : "Physiofit Korte 2",
+    "finish" : "01:39:03"
+  }, {
+    "place" : 31,
+    "name" : "Rookies",
+    "finish" : "01:40:16"
+  }, {
+    "place" : 32,
+    "name" : "Mmmmmhhhhh",
+    "finish" : "01:40:38"
+  }, {
+    "place" : 33,
+    "name" : "Physiofit Korte 3",
+    "finish" : "01:42:19"
+  }, {
+    "place" : 34,
+    "name" : "Kloudern Bielefeld",
+    "finish" : "01:44:28"
+  }, {
+    "place" : 35,
+    "name" : "Die Essener",
+    "finish" : "01:56:07"
+  }, {
+    "place" : 36,
+    "name" : "Besserjetztalsnie",
+    "finish" : "02:01:17"
+  }, {
+    "place" : 37,
+    "name" : "Bunert Lauftreff",
+    "finish" : "02:02:11"
+  }, {
+    "place" : 38,
+    "name" : "Turboschnecken",
+    "finish" : "02:04:46"
+  } ]
+}

@@ -1,0 +1,442 @@
+{
+  "year" : 2023,
+  "eventCode" : "SL",
+  "eventName" : "Senioren Liga",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2023/",
+  "resultCount" : 62,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Mockenhaupt, Markus",
+    "nation" : "GER",
+    "bib" : "908",
+    "club" : "Team TVE Netphen",
+    "finish" : "02:17:42"
+  }, {
+    "place" : 2,
+    "name" : "Jensen, Martin",
+    "nation" : "GER",
+    "bib" : "913",
+    "club" : "PSV Bonn Triathlon I",
+    "finish" : "02:17:59"
+  }, {
+    "place" : 3,
+    "name" : "Elskamp, Gregor",
+    "nation" : "GER",
+    "bib" : "950",
+    "club" : "ASV Köln",
+    "finish" : "02:19:49"
+  }, {
+    "place" : 4,
+    "name" : "Weiß, Ben",
+    "nation" : "GER",
+    "bib" : "947",
+    "club" : "Triathlon Team Düsseldorf",
+    "finish" : "02:20:51"
+  }, {
+    "place" : 5,
+    "name" : "Röpstorf, Uwe",
+    "nation" : "GER",
+    "bib" : "936",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:21:11"
+  }, {
+    "place" : 6,
+    "name" : "Plenio, Götz",
+    "nation" : "GER",
+    "bib" : "948",
+    "club" : "Triathlon Team Düsseldorf",
+    "finish" : "02:21:16"
+  }, {
+    "place" : 7,
+    "name" : "Klusmann, Ingmar",
+    "nation" : "GER",
+    "bib" : "945",
+    "club" : "Triathlon Team Düsseldorf",
+    "finish" : "02:21:19"
+  }, {
+    "place" : 8,
+    "name" : "Manno, Roland",
+    "nation" : "GER",
+    "bib" : "946",
+    "club" : "Triathlon Team Düsseldorf",
+    "finish" : "02:23:57"
+  }, {
+    "place" : 9,
+    "name" : "Winterstein, Florian",
+    "nation" : "GER",
+    "bib" : "977",
+    "club" : "Tri Team Hagen S",
+    "finish" : "02:24:14"
+  }, {
+    "place" : 10,
+    "name" : "Emde, Frank",
+    "nation" : "GER",
+    "bib" : "915",
+    "club" : "PSV Bonn Triathlon I",
+    "finish" : "02:25:00"
+  }, {
+    "place" : 11,
+    "name" : "Robin, Marcel",
+    "nation" : "GER",
+    "bib" : "966",
+    "club" : "Tri-4-Fun SVKT07 Minden",
+    "finish" : "02:25:33"
+  }, {
+    "place" : 12,
+    "name" : "Mutira, Robbie",
+    "nation" : "GER",
+    "bib" : "929",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "finish" : "02:25:57"
+  }, {
+    "place" : 13,
+    "name" : "Kugler, Sebastian",
+    "nation" : "GER",
+    "bib" : "914",
+    "club" : "PSV Bonn Triathlon I",
+    "finish" : "02:26:36"
+  }, {
+    "place" : 14,
+    "name" : "Paech, Andreas",
+    "nation" : "GER",
+    "bib" : "962",
+    "club" : "RTC Frechen 80",
+    "finish" : "02:28:34"
+  }, {
+    "place" : 15,
+    "name" : "Aepfelbach, Tim",
+    "nation" : "GER",
+    "bib" : "911",
+    "club" : "PV Triathlon TG Witten",
+    "finish" : "02:28:55"
+  }, {
+    "place" : 16,
+    "name" : "Goltsch, Tillmann",
+    "nation" : "GER",
+    "bib" : "909",
+    "club" : "PV Triathlon TG Witten",
+    "finish" : "02:29:10"
+  }, {
+    "place" : 17,
+    "name" : "Latsch, Mike",
+    "nation" : "GER",
+    "bib" : "906",
+    "club" : "Team TVE Netphen",
+    "finish" : "02:29:45"
+  }, {
+    "place" : 18,
+    "name" : "Weitzel, Sebastian",
+    "nation" : "GER",
+    "bib" : "916",
+    "club" : "PSV Bonn Triathlon I",
+    "finish" : "02:29:45"
+  }, {
+    "place" : 19,
+    "name" : "Heitze, Georg",
+    "nation" : "GER",
+    "bib" : "905",
+    "club" : "Team TVE Netphen",
+    "finish" : "02:30:08"
+  }, {
+    "place" : 20,
+    "name" : "Methfessel, Jan",
+    "nation" : "GER",
+    "bib" : "967",
+    "club" : "Tri-4-Fun SVKT07 Minden",
+    "finish" : "02:31:04"
+  }, {
+    "place" : 21,
+    "name" : "Königschulte, Alexander",
+    "nation" : "GER",
+    "bib" : "912",
+    "club" : "PV Triathlon TG Witten",
+    "finish" : "02:31:26"
+  }, {
+    "place" : 22,
+    "name" : "Assmann, Manfred",
+    "nation" : "GER",
+    "bib" : "934",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:31:45"
+  }, {
+    "place" : 23,
+    "name" : "Jäger, Thomas",
+    "nation" : "GER",
+    "bib" : "976",
+    "club" : "SV Blau-Weiß Bochum",
+    "finish" : "02:32:02"
+  }, {
+    "place" : 24,
+    "name" : "Weigel, Karsten",
+    "nation" : "GER",
+    "bib" : "903",
+    "club" : "EJOT Team TV Buschhütten",
+    "finish" : "02:34:48"
+  }, {
+    "place" : 25,
+    "name" : "Lenzen, Robert",
+    "nation" : "GER",
+    "bib" : "963",
+    "club" : "RTC Frechen 80",
+    "finish" : "02:34:57"
+  }, {
+    "place" : 26,
+    "name" : "Lenz, Tanja",
+    "nation" : "GER",
+    "bib" : "969",
+    "club" : "SV Bayer 08 Uerdingen",
+    "finish" : "02:35:33"
+  }, {
+    "place" : 27,
+    "name" : "Kuhl, Alexander",
+    "nation" : "GER",
+    "bib" : "941",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "02:35:34"
+  }, {
+    "place" : 28,
+    "name" : "Radermacher, Oliver",
+    "nation" : "GER",
+    "bib" : "961",
+    "club" : "RTC Frechen 80",
+    "finish" : "02:35:45"
+  }, {
+    "place" : 29,
+    "name" : "Thomas, Martin",
+    "nation" : "GER",
+    "bib" : "930",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "finish" : "02:36:20"
+  }, {
+    "place" : 30,
+    "name" : "Gidaszewski, Lars",
+    "nation" : "GER",
+    "bib" : "923",
+    "club" : "Tri-Geckos Dortmund",
+    "finish" : "02:37:19"
+  }, {
+    "place" : 31,
+    "name" : "Rizzi, Matteo",
+    "nation" : "ITA",
+    "bib" : "955",
+    "club" : "Kölner Triathlon-Team",
+    "finish" : "02:37:40"
+  }, {
+    "place" : 32,
+    "name" : "Wolf, Daniel",
+    "nation" : "GER",
+    "bib" : "956",
+    "club" : "Kölner Triathlon-Team",
+    "finish" : "02:38:16"
+  }, {
+    "place" : 33,
+    "name" : "Brennecke, Rene",
+    "nation" : "GER",
+    "bib" : "922",
+    "club" : "Tri-Geckos Dortmund",
+    "finish" : "02:39:19"
+  }, {
+    "place" : 34,
+    "name" : "Mann, Jürgen",
+    "nation" : "GER",
+    "bib" : "975",
+    "club" : "SV Blau-Weiß Bochum",
+    "finish" : "02:39:27"
+  }, {
+    "place" : 35,
+    "name" : "Krumm, Thilo",
+    "nation" : "GER",
+    "bib" : "902",
+    "club" : "EJOT Team TV Buschhütten",
+    "finish" : "02:40:18"
+  }, {
+    "place" : 36,
+    "name" : "Meinert, Sascha",
+    "nation" : "GER",
+    "bib" : "965",
+    "club" : "Tri-4-Fun SVKT07 Minden",
+    "finish" : "02:40:43"
+  }, {
+    "place" : 37,
+    "name" : "Bily, Alexander",
+    "nation" : "GER",
+    "bib" : "921",
+    "club" : "Tri-Geckos Dortmund",
+    "finish" : "02:40:49"
+  }, {
+    "place" : 38,
+    "name" : "Zander, Christoph",
+    "nation" : "GER",
+    "bib" : "944",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "02:41:18"
+  }, {
+    "place" : 39,
+    "name" : "Radtke, Inga",
+    "nation" : "GER",
+    "bib" : "943",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "02:43:06"
+  }, {
+    "place" : 40,
+    "name" : "Hering, Andreas",
+    "nation" : "GER",
+    "bib" : "918",
+    "club" : "SGW Iserlohn",
+    "finish" : "02:44:45"
+  }, {
+    "place" : 41,
+    "name" : "Altena, Bernd",
+    "nation" : "GER",
+    "bib" : "972",
+    "club" : "SV Bayer 08 Uerdingen",
+    "finish" : "02:45:18"
+  }, {
+    "place" : 42,
+    "name" : "Urlaß, Matti",
+    "nation" : "GER",
+    "bib" : "942",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "02:48:12"
+  }, {
+    "place" : 43,
+    "name" : "Belting, Andreas",
+    "nation" : "GER",
+    "bib" : "933",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:48:22"
+  }, {
+    "place" : 44,
+    "name" : "Ketzer, Ina",
+    "nation" : "GER",
+    "bib" : "920",
+    "club" : "SGW Iserlohn",
+    "finish" : "02:48:26"
+  }, {
+    "place" : 45,
+    "name" : "Spiess, Stefan",
+    "nation" : "GER",
+    "bib" : "952",
+    "club" : "ASV Köln",
+    "finish" : "02:51:16"
+  }, {
+    "place" : 46,
+    "name" : "Brüchert-Pastor, Nils",
+    "nation" : "GER",
+    "bib" : "910",
+    "club" : "PV Triathlon TG Witten",
+    "finish" : "02:52:49"
+  }, {
+    "place" : 47,
+    "name" : "Otte, Daniel",
+    "nation" : "GER",
+    "bib" : "954",
+    "club" : "Kölner Triathlon-Team",
+    "finish" : "02:52:59"
+  }, {
+    "place" : 48,
+    "name" : "Winter, Stefan",
+    "nation" : "GER",
+    "bib" : "974",
+    "club" : "SV Blau-Weiß Bochum",
+    "finish" : "02:53:57"
+  }, {
+    "place" : 49,
+    "name" : "Hoffrichter, Andreas",
+    "nation" : "GER",
+    "bib" : "901",
+    "club" : "EJOT Team TV Buschhütten",
+    "finish" : "02:55:05"
+  }, {
+    "place" : 50,
+    "name" : "Bressen, Rene",
+    "nation" : "GER",
+    "bib" : "917",
+    "club" : "SGW Iserlohn",
+    "finish" : "02:55:14"
+  }, {
+    "place" : 51,
+    "name" : "Froning, Marianne",
+    "nation" : "GER",
+    "bib" : "953",
+    "club" : "Kölner Triathlon-Team",
+    "finish" : "02:55:47"
+  }, {
+    "place" : 52,
+    "name" : "Frenzel, Stefan",
+    "nation" : "GER",
+    "bib" : "951",
+    "club" : "ASV Köln",
+    "finish" : "02:56:04"
+  }, {
+    "place" : 53,
+    "name" : "Mues, Michael",
+    "nation" : "GER",
+    "bib" : "935",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:56:11"
+  }, {
+    "place" : 54,
+    "name" : "Grote, Stefan",
+    "nation" : "GER",
+    "bib" : "919",
+    "club" : "SGW Iserlohn",
+    "finish" : "02:56:41"
+  }, {
+    "place" : 55,
+    "name" : "Schumacher, Michael",
+    "nation" : "GER",
+    "bib" : "970",
+    "club" : "SV Bayer 08 Uerdingen",
+    "finish" : "02:58:27"
+  }, {
+    "place" : 56,
+    "name" : "Kölsch, Petra",
+    "nation" : "GER",
+    "bib" : "927",
+    "club" : "RSV Osthelden",
+    "finish" : "02:59:57"
+  }, {
+    "place" : 57,
+    "name" : "Bordihn, Reiner",
+    "nation" : "GER",
+    "bib" : "926",
+    "club" : "RSV Osthelden",
+    "finish" : "03:01:29"
+  }, {
+    "place" : 58,
+    "name" : "Cau, Fabrizio",
+    "nation" : "ITA",
+    "bib" : "964",
+    "club" : "RTC Frechen 80",
+    "finish" : "03:03:41"
+  }, {
+    "place" : 59,
+    "name" : "Heymann, Jan",
+    "nation" : "GER",
+    "bib" : "973",
+    "club" : "SV Blau-Weiß Bochum",
+    "finish" : "03:10:08"
+  }, {
+    "place" : 60,
+    "name" : "Bieler, Katja",
+    "nation" : "GER",
+    "bib" : "925",
+    "club" : "RSV Osthelden",
+    "finish" : "03:11:13"
+  }, {
+    "place" : 61,
+    "name" : "Liebig, Thomas",
+    "nation" : "GER",
+    "bib" : "931",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "finish" : "03:12:47"
+  }, {
+    "place" : 62,
+    "name" : "Runte, Oliver",
+    "nation" : "GER",
+    "bib" : "924",
+    "club" : "Tri-Geckos Dortmund",
+    "finish" : "03:18:34"
+  } ]
+}

@@ -1,0 +1,1349 @@
+{
+  "year" : 2024,
+  "eventCode" : "MGP",
+  "eventName" : "Münsterland GrandPrix",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2024/",
+  "resultCount" : 152,
+  "results" : [ {
+    "place" : 1,
+    "agePlace" : 1,
+    "name" : "Büttner, Anna",
+    "nation" : "GER",
+    "bib" : "3045",
+    "ageGroup" : "20",
+    "finish" : "03:16:37"
+  }, {
+    "place" : 1,
+    "agePlace" : 1,
+    "name" : "Heerdt, Luca",
+    "nation" : "GER",
+    "bib" : "3283",
+    "ageGroup" : "25",
+    "club" : "Weicon Tri Finish Münster",
+    "finish" : "03:04:21"
+  }, {
+    "place" : 2,
+    "agePlace" : 1,
+    "name" : "Schmitz, Sophie",
+    "nation" : "GER",
+    "bib" : "3040",
+    "ageGroup" : "25",
+    "club" : "Srl Triathlon",
+    "finish" : "03:22:34"
+  }, {
+    "place" : 2,
+    "agePlace" : 1,
+    "name" : "Mock, Philipp",
+    "nation" : "GER",
+    "bib" : "3285",
+    "ageGroup" : "35",
+    "club" : "Omni-Biotic Powerteam / Eschweger TSV",
+    "finish" : "03:05:31"
+  }, {
+    "place" : 3,
+    "agePlace" : 1,
+    "name" : "Bossow, Franzi",
+    "nation" : "GER",
+    "bib" : "3046",
+    "ageGroup" : "35",
+    "club" : "TSVE 1890 Bielefeld",
+    "finish" : "03:22:43"
+  }, {
+    "place" : 3,
+    "agePlace" : 1,
+    "name" : "Surmont, Jean",
+    "nation" : "GER",
+    "bib" : "3274",
+    "ageGroup" : "30",
+    "club" : "Triathlon Dänischer Wohld",
+    "finish" : "03:06:12"
+  }, {
+    "place" : 4,
+    "agePlace" : 2,
+    "name" : "Ludwig, Sascha",
+    "nation" : "GER",
+    "bib" : "3242",
+    "ageGroup" : "30",
+    "club" : "Sv Teuto Riesenbeck TV Lengerich",
+    "finish" : "03:08:42"
+  }, {
+    "place" : 4,
+    "agePlace" : 1,
+    "name" : "Beyer, Lisa-Alexandra",
+    "nation" : "GER",
+    "bib" : "3029",
+    "ageGroup" : "30",
+    "club" : "Triathlon Dänischer Wohld",
+    "finish" : "03:34:16"
+  }, {
+    "place" : 5,
+    "agePlace" : 2,
+    "name" : "Gosebrink, Jens",
+    "nation" : "GER",
+    "bib" : "3224",
+    "ageGroup" : "35",
+    "club" : "Triathlon Team Rheinberg",
+    "finish" : "03:09:06"
+  }, {
+    "place" : 5,
+    "agePlace" : 2,
+    "name" : "Betz, Anna",
+    "nation" : "GER",
+    "bib" : "3038",
+    "ageGroup" : "25",
+    "club" : "1. Tri-Team Gütersloh GTV",
+    "finish" : "03:38:29"
+  }, {
+    "place" : 6,
+    "agePlace" : 3,
+    "name" : "Kraemer, Marian",
+    "nation" : "GER",
+    "bib" : "3290",
+    "ageGroup" : "30",
+    "club" : "KTT 01",
+    "finish" : "03:09:10"
+  }, {
+    "place" : 6,
+    "agePlace" : 3,
+    "name" : "Poppe, Celine",
+    "nation" : "GER",
+    "bib" : "3022",
+    "ageGroup" : "25",
+    "club" : "Hsp Münster Schwimmen",
+    "finish" : "03:38:43"
+  }, {
+    "place" : 7,
+    "agePlace" : 2,
+    "name" : "Dr. Bobowski, Julia",
+    "nation" : "GER",
+    "bib" : "3041",
+    "ageGroup" : "30",
+    "club" : "Recklinghäuser Lc",
+    "finish" : "03:41:02"
+  }, {
+    "place" : 7,
+    "agePlace" : 1,
+    "name" : "Harbecke, Sascha",
+    "nation" : "GER",
+    "bib" : "3200",
+    "ageGroup" : "40",
+    "club" : "Fortuna Düsseldorf Laufen & Triathlon",
+    "finish" : "03:10:57"
+  }, {
+    "place" : 8,
+    "agePlace" : 3,
+    "name" : "Gösmann, Raphael",
+    "nation" : "GER",
+    "bib" : "3263",
+    "ageGroup" : "35",
+    "club" : "Tri Speed Sauerland",
+    "finish" : "03:14:30"
+  }, {
+    "place" : 8,
+    "agePlace" : 4,
+    "name" : "Rapp, Gwendolin",
+    "nation" : "GER",
+    "bib" : "3020",
+    "ageGroup" : "25",
+    "club" : "1. Tri-Club Paderborn",
+    "finish" : "03:43:01"
+  }, {
+    "place" : 9,
+    "agePlace" : 5,
+    "name" : "Siersema, Anne",
+    "nation" : "NED",
+    "bib" : "3006",
+    "ageGroup" : "25",
+    "club" : "Triathlon Club Twente",
+    "finish" : "03:43:38"
+  }, {
+    "place" : 9,
+    "agePlace" : 4,
+    "name" : "Reineke, Marco",
+    "nation" : "GER",
+    "bib" : "3333",
+    "ageGroup" : "30",
+    "finish" : "03:14:56"
+  }, {
+    "place" : 10,
+    "agePlace" : 4,
+    "name" : "Zimmermann, Chris",
+    "nation" : "GER",
+    "bib" : "3253",
+    "ageGroup" : "35",
+    "club" : "Tri Club Wuppertal",
+    "finish" : "03:15:08"
+  }, {
+    "place" : 10,
+    "agePlace" : 6,
+    "name" : "Schäfer, Anna",
+    "nation" : "GER",
+    "bib" : "3044",
+    "ageGroup" : "25",
+    "finish" : "03:50:28"
+  }, {
+    "place" : 11,
+    "agePlace" : 2,
+    "name" : "Hundeloh, Paul Moritz",
+    "nation" : "GER",
+    "bib" : "3302",
+    "ageGroup" : "25",
+    "club" : "1. Tri-Team Gütersloh GTV",
+    "finish" : "03:18:31"
+  }, {
+    "place" : 11,
+    "agePlace" : 1,
+    "name" : "Vrieze, Dorothe",
+    "nation" : "NED",
+    "bib" : "3000",
+    "ageGroup" : "55",
+    "finish" : "03:50:36"
+  }, {
+    "place" : 12,
+    "agePlace" : 1,
+    "name" : "Baedeker, Grit",
+    "nation" : "GER",
+    "bib" : "3042",
+    "ageGroup" : "50",
+    "club" : "Sv Hellas Siegburg Erdinger Active",
+    "finish" : "03:56:18"
+  }, {
+    "place" : 12,
+    "agePlace" : 1,
+    "name" : "Sievers, Thomas",
+    "nation" : "GER",
+    "bib" : "3332",
+    "ageGroup" : "50",
+    "club" : "Tri Finish Münster",
+    "finish" : "03:20:16"
+  }, {
+    "place" : 13,
+    "agePlace" : 5,
+    "name" : "Wehling, Lukas",
+    "nation" : "GER",
+    "bib" : "3299",
+    "ageGroup" : "30",
+    "club" : "PSV Stralsund",
+    "finish" : "03:21:28"
+  }, {
+    "place" : 13,
+    "agePlace" : 3,
+    "name" : "Klönhammer, Nele",
+    "nation" : "GER",
+    "bib" : "3002",
+    "ageGroup" : "30",
+    "club" : "Tri Finish Münster",
+    "finish" : "03:56:30"
+  }, {
+    "place" : 14,
+    "agePlace" : 1,
+    "name" : "Adam, Miriam",
+    "nation" : "GER",
+    "bib" : "3043",
+    "ageGroup" : "40",
+    "club" : "Tri Club Wuppertal",
+    "finish" : "03:57:33"
+  }, {
+    "place" : 14,
+    "agePlace" : 5,
+    "name" : "Penning, Raphael",
+    "nation" : "GER",
+    "bib" : "3326",
+    "ageGroup" : "35",
+    "club" : "ASV Duisburg",
+    "finish" : "03:21:39"
+  }, {
+    "place" : 15,
+    "agePlace" : 6,
+    "name" : "Dr. Zanen, Joep",
+    "nation" : "NED",
+    "bib" : "3321",
+    "ageGroup" : "30",
+    "club" : "Triathlon Club Twente",
+    "finish" : "03:22:35"
+  }, {
+    "place" : 15,
+    "agePlace" : 1,
+    "name" : "Hennig, Dagmar",
+    "nation" : "GER",
+    "bib" : "3047",
+    "ageGroup" : "45",
+    "club" : "Tv Einigkeit 1900 Netphen",
+    "finish" : "04:00:12"
+  }, {
+    "place" : 16,
+    "agePlace" : 4,
+    "name" : "Wegner, Sabrina",
+    "nation" : "GER",
+    "bib" : "3012",
+    "ageGroup" : "30",
+    "club" : "Tri-Geckos Dortmund",
+    "finish" : "04:05:05"
+  }, {
+    "place" : 16,
+    "agePlace" : 2,
+    "name" : "Dr. Holleman, Sebastiaan",
+    "nation" : "NED",
+    "bib" : "3213",
+    "ageGroup" : "40",
+    "finish" : "03:26:40"
+  }, {
+    "place" : 17,
+    "agePlace" : 3,
+    "name" : "Werner, Niko",
+    "nation" : "GER",
+    "bib" : "3270",
+    "ageGroup" : "40",
+    "club" : "ESV Eintracht Hameln",
+    "finish" : "03:27:58"
+  }, {
+    "place" : 17,
+    "agePlace" : 2,
+    "name" : "Kontio, Anja",
+    "nation" : "GER",
+    "bib" : "3026",
+    "ageGroup" : "45",
+    "club" : "SSF Bonn Triathlon",
+    "finish" : "04:05:38"
+  }, {
+    "place" : 18,
+    "agePlace" : 2,
+    "name" : "Pöttgen, Marie-Christine",
+    "nation" : "GER",
+    "bib" : "3035",
+    "ageGroup" : "20",
+    "club" : "Hsp Münster Triathlon",
+    "finish" : "04:06:23"
+  }, {
+    "place" : 18,
+    "agePlace" : 3,
+    "name" : "Lachmann, Henrik",
+    "nation" : "GER",
+    "bib" : "3282",
+    "ageGroup" : "25",
+    "club" : "SVTeuto Riesenbeck",
+    "finish" : "03:29:02"
+  }, {
+    "place" : 19,
+    "agePlace" : 3,
+    "name" : "Neumann, Silke",
+    "nation" : "GER",
+    "bib" : "3005",
+    "ageGroup" : "45",
+    "club" : "Tricity Paderborn",
+    "finish" : "04:07:32"
+  }, {
+    "place" : 19,
+    "agePlace" : 4,
+    "name" : "Stegemann, Carsten",
+    "nation" : "GER",
+    "bib" : "3303",
+    "ageGroup" : "40",
+    "club" : "Power & Pace",
+    "finish" : "03:29:16"
+  }, {
+    "place" : 20,
+    "agePlace" : 2,
+    "name" : "Dobrinsky, Thomas",
+    "nation" : "GER",
+    "bib" : "3271",
+    "ageGroup" : "50",
+    "club" : "Tri4fun Minden",
+    "finish" : "03:29:49"
+  }, {
+    "place" : 20,
+    "agePlace" : 4,
+    "name" : "Rakers, Linda",
+    "nation" : "NED",
+    "bib" : "3024",
+    "ageGroup" : "45",
+    "finish" : "04:08:31"
+  }, {
+    "place" : 21,
+    "agePlace" : 5,
+    "name" : "Gieseler, Tim",
+    "nation" : "GER",
+    "bib" : "3289",
+    "ageGroup" : "40",
+    "club" : "Rotation Wolbeck",
+    "finish" : "03:31:53"
+  }, {
+    "place" : 21,
+    "agePlace" : 2,
+    "name" : "Gaspercic, Martina",
+    "nation" : "GER",
+    "bib" : "3008",
+    "ageGroup" : "55",
+    "club" : "ASV Duisburg",
+    "finish" : "04:08:40"
+  }, {
+    "place" : 22,
+    "agePlace" : 3,
+    "name" : "Müll, Stephan",
+    "nation" : "GER",
+    "bib" : "3307",
+    "ageGroup" : "50",
+    "club" : "Sv Hellas Siegburg",
+    "finish" : "03:32:07"
+  }, {
+    "place" : 22,
+    "agePlace" : 5,
+    "name" : "Linßen, Yvonne",
+    "nation" : "GER",
+    "bib" : "3011",
+    "ageGroup" : "45",
+    "club" : "As Neukirchen-Vluyn",
+    "finish" : "04:09:34"
+  }, {
+    "place" : 23,
+    "agePlace" : 2,
+    "name" : "Branz, Stefanie",
+    "nation" : "GER",
+    "bib" : "3051",
+    "ageGroup" : "50",
+    "club" : "TRC Essen 84",
+    "finish" : "04:10:08"
+  }, {
+    "place" : 23,
+    "agePlace" : 1,
+    "name" : "Hennig, Carsten",
+    "nation" : "GER",
+    "bib" : "3325",
+    "ageGroup" : "55",
+    "club" : "Tri-Flow Bad Endbach",
+    "finish" : "03:32:09"
+  }, {
+    "place" : 24,
+    "agePlace" : 6,
+    "name" : "Blom, Christian",
+    "nation" : "GER",
+    "bib" : "3231",
+    "ageGroup" : "35",
+    "club" : "Marathon Ibbenbüren",
+    "finish" : "03:32:38"
+  }, {
+    "place" : 24,
+    "agePlace" : 7,
+    "name" : "Hüer, Kira",
+    "nation" : "GER",
+    "bib" : "3003",
+    "ageGroup" : "25",
+    "club" : "Tri Finish Münster",
+    "finish" : "04:13:29"
+  }, {
+    "place" : 25,
+    "agePlace" : 1,
+    "name" : "Adolphs, Dirk",
+    "nation" : "GER",
+    "bib" : "3335",
+    "ageGroup" : "45",
+    "club" : "Nordtriathleten Oberhausen",
+    "finish" : "03:32:46"
+  }, {
+    "place" : 25,
+    "agePlace" : 5,
+    "name" : "Kissing, Barbara",
+    "nation" : "GER",
+    "bib" : "3031",
+    "ageGroup" : "30",
+    "club" : "1. Tri Finish Münster",
+    "finish" : "04:13:42"
+  }, {
+    "place" : 26,
+    "agePlace" : 7,
+    "name" : "Widera, Sascha",
+    "nation" : "GER",
+    "bib" : "3243",
+    "ageGroup" : "30",
+    "club" : "Tv Lengerich",
+    "finish" : "03:33:01"
+  }, {
+    "place" : 26,
+    "agePlace" : 6,
+    "name" : "Artmann, Kathrin",
+    "nation" : "GER",
+    "bib" : "3037",
+    "ageGroup" : "30",
+    "club" : "Trifinish Münster",
+    "finish" : "04:14:24"
+  }, {
+    "place" : 27,
+    "agePlace" : 2,
+    "name" : "Düring, Friederike",
+    "nation" : "GER",
+    "bib" : "3007",
+    "ageGroup" : "35",
+    "club" : "ACT Cassel e.V.",
+    "finish" : "04:14:38"
+  }, {
+    "place" : 27,
+    "agePlace" : 4,
+    "name" : "Otto, Jürgen",
+    "nation" : "GER",
+    "bib" : "3241",
+    "ageGroup" : "50",
+    "club" : "PSV Brühl Triathlon Team",
+    "finish" : "03:34:04"
+  }, {
+    "place" : 28,
+    "agePlace" : 3,
+    "name" : "Rohleder, Dunja",
+    "nation" : "GER",
+    "bib" : "3025",
+    "ageGroup" : "50",
+    "club" : "Tria Team Ruhrpott Herne",
+    "finish" : "04:16:28"
+  }, {
+    "place" : 28,
+    "agePlace" : 5,
+    "name" : "Bergsma, Rohalt",
+    "nation" : "NED",
+    "bib" : "3208",
+    "ageGroup" : "50",
+    "club" : "Woest Sport Ttvw Hof van Twente",
+    "finish" : "03:34:51"
+  }, {
+    "place" : 29,
+    "agePlace" : 7,
+    "name" : "Fehrenkötter, Rieke",
+    "nation" : "GER",
+    "bib" : "3023",
+    "ageGroup" : "30",
+    "club" : "Athletico Leipzig",
+    "finish" : "04:18:33"
+  }, {
+    "place" : 29,
+    "agePlace" : 6,
+    "name" : "Holzmann, Frank",
+    "nation" : "GER",
+    "bib" : "3238",
+    "ageGroup" : "50",
+    "club" : "Trispeed Sauerland",
+    "finish" : "03:35:53"
+  }, {
+    "place" : 30,
+    "agePlace" : 6,
+    "name" : "Stroomer, Marleen",
+    "nation" : "GER",
+    "bib" : "3030",
+    "ageGroup" : "45",
+    "club" : "Tv Arnhem",
+    "finish" : "04:21:27"
+  }, {
+    "place" : 30,
+    "agePlace" : 7,
+    "name" : "Overberg, Florian",
+    "nation" : "GER",
+    "bib" : "3249",
+    "ageGroup" : "35",
+    "club" : "SVTeuto Riesenbeck",
+    "finish" : "03:37:28"
+  }, {
+    "place" : 31,
+    "agePlace" : 8,
+    "name" : "Hilla, Reneé",
+    "nation" : "GER",
+    "bib" : "3308",
+    "ageGroup" : "35",
+    "club" : "Ssg Brake Enger",
+    "finish" : "03:37:55"
+  }, {
+    "place" : 31,
+    "agePlace" : 8,
+    "name" : "Adomeit, Julia",
+    "nation" : "GER",
+    "bib" : "3016",
+    "ageGroup" : "25",
+    "finish" : "04:23:01"
+  }, {
+    "place" : 32,
+    "agePlace" : 2,
+    "name" : "Hilgenbrink, Monika",
+    "nation" : "GER",
+    "bib" : "3049",
+    "ageGroup" : "40",
+    "club" : "Power & Pace",
+    "finish" : "04:30:13"
+  }, {
+    "place" : 32,
+    "agePlace" : 7,
+    "name" : "Mayer, Claude",
+    "nation" : "LUX",
+    "bib" : "3286",
+    "ageGroup" : "50",
+    "club" : "SGW Iserlohn",
+    "finish" : "03:40:27"
+  }, {
+    "place" : 33,
+    "agePlace" : 8,
+    "name" : "Winkelhorst, Andre",
+    "nation" : "GER",
+    "bib" : "3203",
+    "ageGroup" : "50",
+    "club" : "Tv Westfalia 07 Epe",
+    "finish" : "03:40:34"
+  }, {
+    "place" : 33,
+    "agePlace" : 7,
+    "name" : "Bohn, Angela",
+    "nation" : "GER",
+    "bib" : "3036",
+    "ageGroup" : "45",
+    "club" : "MTV Aurich",
+    "finish" : "04:35:27"
+  }, {
+    "place" : 34,
+    "agePlace" : 8,
+    "name" : "Westermann, Lena",
+    "nation" : "GER",
+    "bib" : "3018",
+    "ageGroup" : "30",
+    "finish" : "04:40:21"
+  }, {
+    "place" : 34,
+    "agePlace" : 6,
+    "name" : "Kather, Andre",
+    "nation" : "GER",
+    "bib" : "3259",
+    "ageGroup" : "40",
+    "club" : "LC Solbad Ravensberg",
+    "finish" : "03:40:35"
+  }, {
+    "place" : 35,
+    "agePlace" : 2,
+    "name" : "Cürlis, Frank",
+    "nation" : "GER",
+    "bib" : "3246",
+    "ageGroup" : "55",
+    "club" : "Dsfc",
+    "finish" : "03:40:51"
+  }, {
+    "place" : 35,
+    "agePlace" : 3,
+    "name" : "Breuer-Federwisch, Gudrun",
+    "nation" : "GER",
+    "bib" : "3027",
+    "ageGroup" : "55",
+    "club" : "Tricamp",
+    "finish" : "04:41:38"
+  }, {
+    "place" : 36,
+    "agePlace" : 8,
+    "name" : "Wolf, Maren",
+    "nation" : "GER",
+    "bib" : "3033",
+    "ageGroup" : "45",
+    "club" : "SG Rodenberg",
+    "finish" : "04:41:42"
+  }, {
+    "place" : 36,
+    "agePlace" : 3,
+    "name" : "Thoma, Waldemar",
+    "nation" : "GER",
+    "bib" : "3320",
+    "ageGroup" : "55",
+    "finish" : "03:41:32"
+  }, {
+    "place" : 37,
+    "agePlace" : 9,
+    "name" : "Gottschalk, Jenny",
+    "nation" : "GER",
+    "bib" : "3034",
+    "ageGroup" : "45",
+    "club" : "SG Rodenberg",
+    "finish" : "04:41:49"
+  }, {
+    "place" : 37,
+    "agePlace" : 9,
+    "name" : "Reineke, Marius",
+    "nation" : "GER",
+    "bib" : "3327",
+    "ageGroup" : "35",
+    "club" : "1. Tri-Team Gütersloh GTV",
+    "finish" : "03:41:43"
+  }, {
+    "place" : 38,
+    "agePlace" : 4,
+    "name" : "Prof. Dr. Petri, Stavro",
+    "nation" : "GER",
+    "bib" : "3295",
+    "ageGroup" : "55",
+    "club" : "Yeah Sport",
+    "finish" : "03:43:15"
+  }, {
+    "place" : 38,
+    "agePlace" : 1,
+    "name" : "Jacobs-Minneboo, Jolie",
+    "nation" : "NED",
+    "bib" : "3039",
+    "ageGroup" : "60",
+    "club" : "Tri-Aquapoldro",
+    "finish" : "04:42:31"
+  }, {
+    "place" : 39,
+    "agePlace" : 9,
+    "name" : "Deckers, Sonja",
+    "nation" : "GER",
+    "bib" : "3009",
+    "ageGroup" : "30",
+    "club" : "VfL Lingen",
+    "finish" : "04:58:26"
+  }, {
+    "place" : 39,
+    "agePlace" : 8,
+    "name" : "Krüßmann, Dominik",
+    "nation" : "GER",
+    "bib" : "3319",
+    "ageGroup" : "30",
+    "finish" : "03:43:36"
+  }, {
+    "place" : 40,
+    "agePlace" : 2,
+    "name" : "Van Treeck, Simone",
+    "nation" : "GER",
+    "bib" : "3015",
+    "ageGroup" : "60",
+    "club" : "Djk Coesfeld",
+    "finish" : "05:11:34"
+  }, {
+    "place" : 40,
+    "agePlace" : 10,
+    "name" : "Prof. Dr. Lange, Peter",
+    "nation" : "GER",
+    "bib" : "3291",
+    "ageGroup" : "35",
+    "club" : "Mendener Schwimmverein 03",
+    "finish" : "03:43:48"
+  }, {
+    "place" : 41,
+    "agePlace" : 10,
+    "name" : "Wacker, Eva-Maria",
+    "nation" : "GER",
+    "bib" : "3010",
+    "ageGroup" : "45",
+    "finish" : "05:44:31"
+  }, {
+    "place" : 41,
+    "agePlace" : 9,
+    "name" : "Herbe, Stefan",
+    "nation" : "GER",
+    "bib" : "3334",
+    "ageGroup" : "50",
+    "club" : "TSR Wilhelmshaven",
+    "finish" : "03:45:06"
+  }, {
+    "place" : 42,
+    "agePlace" : 11,
+    "name" : "Schapdick, Johannes",
+    "nation" : "GER",
+    "bib" : "3331",
+    "ageGroup" : "35",
+    "club" : "Bocholter WSV",
+    "finish" : "03:46:32"
+  }, {
+    "place" : 43,
+    "agePlace" : 7,
+    "name" : "Ziemann, Michael",
+    "nation" : "GER",
+    "bib" : "3296",
+    "ageGroup" : "40",
+    "club" : "Triathlon Team Düsseldorf",
+    "finish" : "03:47:35"
+  }, {
+    "place" : 44,
+    "agePlace" : 1,
+    "name" : "Vrieze, Bert",
+    "nation" : "NED",
+    "bib" : "3211",
+    "ageGroup" : "60",
+    "finish" : "03:48:42"
+  }, {
+    "place" : 45,
+    "agePlace" : 2,
+    "name" : "Reiß, Björn",
+    "nation" : "GER",
+    "bib" : "3322",
+    "ageGroup" : "45",
+    "club" : "MACH3 Köln e.V.",
+    "finish" : "03:48:51"
+  }, {
+    "place" : 46,
+    "agePlace" : 9,
+    "name" : "Thiel, Henry",
+    "nation" : "GER",
+    "bib" : "3254",
+    "ageGroup" : "30",
+    "finish" : "03:49:31"
+  }, {
+    "place" : 47,
+    "agePlace" : 8,
+    "name" : "Hiebing, Sebastian",
+    "nation" : "GER",
+    "bib" : "3329",
+    "ageGroup" : "40",
+    "club" : "Team Erdinger Alkoholfrei-1 Tri Team Gütersloh",
+    "finish" : "03:49:42"
+  }, {
+    "place" : 48,
+    "agePlace" : 10,
+    "name" : "Haverkamp, Kai",
+    "nation" : "GER",
+    "bib" : "3232",
+    "ageGroup" : "50",
+    "club" : "Hartman Tri Team TVG Kaiserau",
+    "finish" : "03:50:04"
+  }, {
+    "place" : 49,
+    "agePlace" : 11,
+    "name" : "Vogel, Frank",
+    "nation" : "GER",
+    "bib" : "3287",
+    "ageGroup" : "50",
+    "club" : "Triathlon Club Bremen",
+    "finish" : "03:50:56"
+  }, {
+    "place" : 50,
+    "agePlace" : 3,
+    "name" : "Diekmann, Marius",
+    "nation" : "GER",
+    "bib" : "3266",
+    "ageGroup" : "45",
+    "club" : "Hsp Münster Triathlon",
+    "finish" : "03:51:20"
+  }, {
+    "place" : 51,
+    "agePlace" : 10,
+    "name" : "Heitkötter, Patrick",
+    "nation" : "GER",
+    "bib" : "3206",
+    "ageGroup" : "30",
+    "club" : "Sc Bw Ottmarsbocholt",
+    "finish" : "03:52:12"
+  }, {
+    "place" : 52,
+    "agePlace" : 12,
+    "name" : "Scharfenstein, Sven",
+    "nation" : "GER",
+    "bib" : "3201",
+    "ageGroup" : "50",
+    "club" : "Sv Tri City Darmstadt e V",
+    "finish" : "03:52:29"
+  }, {
+    "place" : 53,
+    "agePlace" : 5,
+    "name" : "Rodinger, Ralf",
+    "nation" : "GER",
+    "bib" : "3313",
+    "ageGroup" : "55",
+    "club" : "Sv Gau-Algesheim 1910 e V",
+    "finish" : "03:53:13"
+  }, {
+    "place" : 54,
+    "agePlace" : 13,
+    "name" : "Reinecke, Michael",
+    "nation" : "GER",
+    "bib" : "3235",
+    "ageGroup" : "50",
+    "club" : "Trispeed Sauerland",
+    "finish" : "03:53:21"
+  }, {
+    "place" : 55,
+    "agePlace" : 4,
+    "name" : "Schmelzer, Kai",
+    "nation" : "GER",
+    "bib" : "3223",
+    "ageGroup" : "45",
+    "club" : "Lauf Team Unna",
+    "finish" : "03:53:37"
+  }, {
+    "place" : 56,
+    "agePlace" : 12,
+    "name" : "Hönzke, Marcel",
+    "nation" : "GER",
+    "bib" : "3273",
+    "ageGroup" : "35",
+    "finish" : "03:54:09"
+  }, {
+    "place" : 57,
+    "agePlace" : 9,
+    "name" : "Tempesta, Michael",
+    "nation" : "GER",
+    "bib" : "3234",
+    "ageGroup" : "40",
+    "club" : "As Neukirchen-Vluyn",
+    "finish" : "03:54:42"
+  }, {
+    "place" : 58,
+    "agePlace" : 11,
+    "name" : "Brink, Niklas",
+    "nation" : "GER",
+    "bib" : "3225",
+    "ageGroup" : "30",
+    "club" : "Running Crew Münster",
+    "finish" : "03:54:49"
+  }, {
+    "place" : 59,
+    "agePlace" : 10,
+    "name" : "Kesche, Oliver",
+    "nation" : "GER",
+    "bib" : "3318",
+    "ageGroup" : "40",
+    "finish" : "03:55:18"
+  }, {
+    "place" : 60,
+    "agePlace" : 6,
+    "name" : "Scharf, Martin",
+    "nation" : "GER",
+    "bib" : "3310",
+    "ageGroup" : "55",
+    "club" : "Sv Greven Triathlon",
+    "finish" : "03:55:31"
+  }, {
+    "place" : 61,
+    "agePlace" : 14,
+    "name" : "Meyer, Frank",
+    "nation" : "GER",
+    "bib" : "3257",
+    "ageGroup" : "50",
+    "club" : "FC St. Pauli Triathlon",
+    "finish" : "03:56:15"
+  }, {
+    "place" : 62,
+    "agePlace" : 15,
+    "name" : "Bergmeier, Udo",
+    "nation" : "GER",
+    "bib" : "3272",
+    "ageGroup" : "50",
+    "club" : "Tv Langenberg",
+    "finish" : "03:57:01"
+  }, {
+    "place" : 63,
+    "agePlace" : 4,
+    "name" : "Prof. Beule, Mauritz",
+    "nation" : "GER",
+    "bib" : "3252",
+    "ageGroup" : "25",
+    "club" : "Reinindieaero Racing Team",
+    "finish" : "03:57:17"
+  }, {
+    "place" : 64,
+    "agePlace" : 11,
+    "name" : "Voet, Thomas",
+    "nation" : "GER",
+    "bib" : "3305",
+    "ageGroup" : "40",
+    "club" : "Olympia Uelsen",
+    "finish" : "03:57:34"
+  }, {
+    "place" : 65,
+    "agePlace" : 5,
+    "name" : "Wentrup, Benedikt",
+    "nation" : "GER",
+    "bib" : "3276",
+    "ageGroup" : "45",
+    "club" : "Zentrum Für Sportmedizin",
+    "finish" : "03:57:58"
+  }, {
+    "place" : 66,
+    "agePlace" : 6,
+    "name" : "Lersch, Michael",
+    "nation" : "GER",
+    "bib" : "3204",
+    "ageGroup" : "45",
+    "club" : "TSVE 1890 Bielefeld",
+    "finish" : "03:58:30"
+  }, {
+    "place" : 67,
+    "agePlace" : 5,
+    "name" : "Fähnrich, Nils",
+    "nation" : "GER",
+    "bib" : "3300",
+    "ageGroup" : "25",
+    "club" : "TriTeam SSV Wehrden",
+    "finish" : "03:58:35"
+  }, {
+    "place" : 68,
+    "agePlace" : 12,
+    "name" : "Bungert, Alexander",
+    "nation" : "GER",
+    "bib" : "3217",
+    "ageGroup" : "30",
+    "club" : "Trifinish Münster",
+    "finish" : "04:02:08"
+  }, {
+    "place" : 69,
+    "agePlace" : 13,
+    "name" : "Hagedorn, Michael",
+    "nation" : "GER",
+    "bib" : "3328",
+    "ageGroup" : "35",
+    "club" : "ASC Ahlen",
+    "finish" : "04:02:56"
+  }, {
+    "place" : 70,
+    "agePlace" : 16,
+    "name" : "Lück, Stefan",
+    "nation" : "GER",
+    "bib" : "3275",
+    "ageGroup" : "50",
+    "club" : "Tri4fun Minden",
+    "finish" : "04:03:18"
+  }, {
+    "place" : 71,
+    "agePlace" : 14,
+    "name" : "Lindemann, Julian",
+    "nation" : "GER",
+    "bib" : "3280",
+    "ageGroup" : "35",
+    "finish" : "04:04:14"
+  }, {
+    "place" : 72,
+    "agePlace" : 7,
+    "name" : "Renners, Georg",
+    "nation" : "GER",
+    "bib" : "3255",
+    "ageGroup" : "55",
+    "club" : "Tri Team Gütersloh",
+    "finish" : "04:04:53"
+  }, {
+    "place" : 73,
+    "agePlace" : 17,
+    "name" : "Harenberg, Mark",
+    "nation" : "GER",
+    "bib" : "3220",
+    "ageGroup" : "50",
+    "finish" : "04:05:54"
+  }, {
+    "place" : 74,
+    "agePlace" : 7,
+    "name" : "Almasy, Rahim",
+    "nation" : "GER",
+    "bib" : "3226",
+    "ageGroup" : "45",
+    "club" : "Tricity Darmstadt",
+    "finish" : "04:09:28"
+  }, {
+    "place" : 75,
+    "agePlace" : 8,
+    "name" : "Brudereck, Martin",
+    "nation" : "GER",
+    "bib" : "3309",
+    "ageGroup" : "55",
+    "club" : "Sparta 4 Fun",
+    "finish" : "04:09:44"
+  }, {
+    "place" : 76,
+    "agePlace" : 6,
+    "name" : "Erpenbeck, Simon Paul",
+    "nation" : "GER",
+    "bib" : "3281",
+    "ageGroup" : "25",
+    "club" : "NiceGuysRacingTeam",
+    "finish" : "04:10:57"
+  }, {
+    "place" : 77,
+    "agePlace" : 8,
+    "name" : "Holtel, Ralf",
+    "nation" : "GER",
+    "bib" : "3294",
+    "ageGroup" : "45",
+    "club" : "Lg Rheine-Elte",
+    "finish" : "04:11:44"
+  }, {
+    "place" : 78,
+    "agePlace" : 15,
+    "name" : "van Gelder, Andre",
+    "nation" : "GER",
+    "bib" : "3323",
+    "ageGroup" : "35",
+    "club" : "Bokeltsen Blagen",
+    "finish" : "04:11:53"
+  }, {
+    "place" : 79,
+    "agePlace" : 2,
+    "name" : "Lammers, Hans",
+    "nation" : "NED",
+    "bib" : "3212",
+    "ageGroup" : "60",
+    "club" : "Bocholter WSV",
+    "finish" : "04:12:47"
+  }, {
+    "place" : 80,
+    "agePlace" : 18,
+    "name" : "Steigerwald, Stefan",
+    "nation" : "GER",
+    "bib" : "3315",
+    "ageGroup" : "50",
+    "club" : "DSV 98",
+    "finish" : "04:12:55"
+  }, {
+    "place" : 81,
+    "agePlace" : 9,
+    "name" : "Prigge, Oliver",
+    "nation" : "GER",
+    "bib" : "3248",
+    "ageGroup" : "55",
+    "club" : "Triathlon Team Hagen",
+    "finish" : "04:13:11"
+  }, {
+    "place" : 82,
+    "agePlace" : 7,
+    "name" : "Erpenbeck, Stefan",
+    "nation" : "GER",
+    "bib" : "3202",
+    "ageGroup" : "25",
+    "club" : "NiceGuysRacingTeam",
+    "finish" : "04:13:24"
+  }, {
+    "place" : 83,
+    "agePlace" : 19,
+    "name" : "Hönig, Michael",
+    "nation" : "GER",
+    "bib" : "3258",
+    "ageGroup" : "50",
+    "club" : "Haardman Team",
+    "finish" : "04:13:36"
+  }, {
+    "place" : 84,
+    "agePlace" : 13,
+    "name" : "Höper, Kevin",
+    "nation" : "GER",
+    "bib" : "3261",
+    "ageGroup" : "30",
+    "finish" : "04:14:03"
+  }, {
+    "place" : 85,
+    "agePlace" : 9,
+    "name" : "Anders, Lars",
+    "nation" : "GER",
+    "bib" : "3251",
+    "ageGroup" : "45",
+    "club" : "PSV Brühl Triathlon Team",
+    "finish" : "04:14:22"
+  }, {
+    "place" : 86,
+    "agePlace" : 8,
+    "name" : "Uhländer, Levin",
+    "nation" : "GER",
+    "bib" : "3293",
+    "ageGroup" : "25",
+    "club" : "Sutt36",
+    "finish" : "04:16:06"
+  }, {
+    "place" : 87,
+    "agePlace" : 20,
+    "name" : "Oestmann, Stephan",
+    "nation" : "GER",
+    "bib" : "3233",
+    "ageGroup" : "50",
+    "finish" : "04:16:45"
+  }, {
+    "place" : 88,
+    "agePlace" : 3,
+    "name" : "Gössler, Thomas",
+    "nation" : "GER",
+    "bib" : "3229",
+    "ageGroup" : "60",
+    "club" : "As Neukirchen-Vluyn",
+    "finish" : "04:17:00"
+  }, {
+    "place" : 89,
+    "agePlace" : 4,
+    "name" : "Engel, Yaron",
+    "nation" : "GER",
+    "bib" : "3279",
+    "ageGroup" : "60",
+    "club" : "TSVE 1890 Bielefeld",
+    "finish" : "04:19:09"
+  }, {
+    "place" : 90,
+    "agePlace" : 10,
+    "name" : "Mittmann, Carsten",
+    "nation" : "GER",
+    "bib" : "3221",
+    "ageGroup" : "45",
+    "club" : "Yeah Sport/Lauf Team Unna",
+    "finish" : "04:19:43"
+  }, {
+    "place" : 91,
+    "agePlace" : 14,
+    "name" : "Artmann, Marius",
+    "nation" : "GER",
+    "bib" : "3297",
+    "ageGroup" : "30",
+    "club" : "Sutt36",
+    "finish" : "04:19:56"
+  }, {
+    "place" : 92,
+    "agePlace" : 11,
+    "name" : "Redeker, Matthias",
+    "nation" : "GER",
+    "bib" : "3245",
+    "ageGroup" : "45",
+    "club" : "Tv Bergkrug",
+    "finish" : "04:21:37"
+  }, {
+    "place" : 93,
+    "agePlace" : 16,
+    "name" : "Janzen, Richard",
+    "nation" : "GER",
+    "bib" : "3284",
+    "ageGroup" : "35",
+    "finish" : "04:22:42"
+  }, {
+    "place" : 94,
+    "agePlace" : 10,
+    "name" : "Kath, Bodo",
+    "nation" : "GER",
+    "bib" : "3210",
+    "ageGroup" : "55",
+    "club" : "PSV Iserlohn",
+    "finish" : "04:23:02"
+  }, {
+    "place" : 95,
+    "agePlace" : 21,
+    "name" : "Dümpelmann, Marc",
+    "nation" : "GER",
+    "bib" : "3298",
+    "ageGroup" : "50",
+    "finish" : "04:23:19"
+  }, {
+    "place" : 96,
+    "agePlace" : 12,
+    "name" : "Brüggenthies, André",
+    "nation" : "GER",
+    "bib" : "3237",
+    "ageGroup" : "45",
+    "finish" : "04:23:36"
+  }, {
+    "place" : 97,
+    "agePlace" : 22,
+    "name" : "Pruijt, David",
+    "nation" : "NED",
+    "bib" : "3277",
+    "ageGroup" : "50",
+    "club" : "Av 1923",
+    "finish" : "04:25:49"
+  }, {
+    "place" : 98,
+    "agePlace" : 13,
+    "name" : "Kojellis, Holger",
+    "nation" : "GER",
+    "bib" : "3316",
+    "ageGroup" : "45",
+    "finish" : "04:26:25"
+  }, {
+    "place" : 99,
+    "agePlace" : 15,
+    "name" : "Günay, Ismail",
+    "nation" : "GER",
+    "bib" : "3330",
+    "ageGroup" : "30",
+    "club" : "Flugzeit-Store de",
+    "finish" : "04:27:41"
+  }, {
+    "place" : 100,
+    "agePlace" : 17,
+    "name" : "Eck, Tobias",
+    "nation" : "GER",
+    "bib" : "3314",
+    "ageGroup" : "35",
+    "finish" : "04:29:01"
+  }, {
+    "place" : 101,
+    "agePlace" : 11,
+    "name" : "Scherlatzik, Dirk",
+    "nation" : "GER",
+    "bib" : "3311",
+    "ageGroup" : "55",
+    "finish" : "04:29:07"
+  }, {
+    "place" : 102,
+    "agePlace" : 1,
+    "name" : "Mevenkamp, Bernd",
+    "nation" : "GER",
+    "bib" : "3244",
+    "ageGroup" : "65",
+    "finish" : "04:29:41"
+  }, {
+    "place" : 103,
+    "agePlace" : 18,
+    "name" : "Dr. Linke, Phillip",
+    "nation" : "GER",
+    "bib" : "3260",
+    "ageGroup" : "35",
+    "club" : "KTT 01",
+    "finish" : "04:32:44"
+  }, {
+    "place" : 104,
+    "agePlace" : 12,
+    "name" : "Ostendorf, Marc",
+    "nation" : "GER",
+    "bib" : "3214",
+    "ageGroup" : "40",
+    "club" : "Bocholter Wassersportverein 1920 e.V.",
+    "finish" : "04:33:47"
+  }, {
+    "place" : 105,
+    "agePlace" : 23,
+    "name" : "Zab, Gunnar",
+    "nation" : "GER",
+    "bib" : "3304",
+    "ageGroup" : "50",
+    "club" : "LF Trills 09",
+    "finish" : "04:33:54"
+  }, {
+    "place" : 106,
+    "agePlace" : 12,
+    "name" : "Wolf, Thomas",
+    "nation" : "GER",
+    "bib" : "3227",
+    "ageGroup" : "55",
+    "club" : "Sv Aegir 09 Hannover",
+    "finish" : "04:39:35"
+  }, {
+    "place" : 107,
+    "agePlace" : 13,
+    "name" : "Jürgensmeier, Christoph",
+    "nation" : "GER",
+    "bib" : "3265",
+    "ageGroup" : "55",
+    "club" : "TSVE 1890 Bielefeld",
+    "finish" : "04:43:12"
+  }, {
+    "place" : 108,
+    "agePlace" : 14,
+    "name" : "Blesgen, Jörg",
+    "nation" : "GER",
+    "bib" : "3230",
+    "ageGroup" : "55",
+    "club" : "Tricity Darmstadt",
+    "finish" : "04:44:57"
+  }, {
+    "place" : 109,
+    "agePlace" : 15,
+    "name" : "Weber, Christoph",
+    "nation" : "GER",
+    "bib" : "3219",
+    "ageGroup" : "55",
+    "club" : "Wktri24",
+    "finish" : "05:01:37"
+  }, {
+    "place" : 110,
+    "agePlace" : 16,
+    "name" : "Teigeler, Michael",
+    "nation" : "GER",
+    "bib" : "3216",
+    "ageGroup" : "55",
+    "finish" : "05:17:18"
+  }, {
+    "place" : 111,
+    "agePlace" : 2,
+    "name" : "Stöcken, Jan Hauke",
+    "nation" : "GER",
+    "bib" : "3312",
+    "ageGroup" : "65",
+    "club" : "Triathlon Club Wuppertal",
+    "finish" : "06:42:45"
+  } ]
+}

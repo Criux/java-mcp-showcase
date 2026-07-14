@@ -1,0 +1,116 @@
+{
+  "year" : 2022,
+  "eventCode" : "MTC",
+  "eventName" : "23. Internationaler Militär-Triathlon-Cup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2022/",
+  "resultCount" : 12,
+  "results" : [ {
+    "place" : 1,
+    "agePlace" : 1,
+    "name" : "Koebrügge, Eva",
+    "nation" : "GER",
+    "bib" : "2803",
+    "ageGroup" : "35",
+    "club" : "Sanversz Ahlen",
+    "finish" : "03:11:15"
+  }, {
+    "place" : 1,
+    "agePlace" : 1,
+    "name" : "Klinder, Markus",
+    "nation" : "GER",
+    "bib" : "2802",
+    "ageGroup" : "30",
+    "club" : "FmBtl 10",
+    "finish" : "02:05:42"
+  }, {
+    "place" : 2,
+    "agePlace" : 2,
+    "name" : "Buck, Pascal",
+    "nation" : "GER",
+    "bib" : "2800",
+    "ageGroup" : "30",
+    "club" : "Cism",
+    "finish" : "02:12:57"
+  }, {
+    "place" : 3,
+    "agePlace" : 1,
+    "name" : "Schleyer, Marco",
+    "nation" : "GER",
+    "bib" : "2807",
+    "ageGroup" : "50",
+    "club" : "Baainbw L3 3",
+    "finish" : "02:23:28"
+  }, {
+    "place" : 4,
+    "agePlace" : 1,
+    "name" : "Gatterer, Tom",
+    "nation" : "GER",
+    "bib" : "2801",
+    "ageGroup" : "45",
+    "club" : "Bundeswehr FJgRgt3",
+    "finish" : "02:31:30"
+  }, {
+    "place" : 5,
+    "agePlace" : 1,
+    "name" : "Wolkow, Johannes",
+    "nation" : "GER",
+    "bib" : "2812",
+    "ageGroup" : "35",
+    "club" : "OSLw FüPrax",
+    "finish" : "02:39:58"
+  }, {
+    "place" : 6,
+    "agePlace" : 1,
+    "name" : "Sperber, Michael",
+    "nation" : "GER",
+    "bib" : "2808",
+    "ageGroup" : "25",
+    "club" : "FmBtl 10",
+    "finish" : "02:42:24"
+  }, {
+    "place" : 7,
+    "agePlace" : 2,
+    "name" : "Wagner, Anderas",
+    "nation" : "GER",
+    "bib" : "2810",
+    "ageGroup" : "45",
+    "club" : "Baainbw",
+    "finish" : "02:42:27"
+  }, {
+    "place" : 8,
+    "agePlace" : 1,
+    "name" : "Dr. Otto, Christoph",
+    "nation" : "GER",
+    "bib" : "2804",
+    "ageGroup" : "60",
+    "club" : "Run Like Hell",
+    "finish" : "02:44:47"
+  }, {
+    "place" : 9,
+    "agePlace" : 2,
+    "name" : "Wöhrmann, Nikos",
+    "nation" : "GER",
+    "bib" : "2811",
+    "ageGroup" : "25",
+    "club" : "FmBtl 10",
+    "finish" : "02:58:38"
+  }, {
+    "place" : 10,
+    "agePlace" : 3,
+    "name" : "Ruttor, Sven",
+    "nation" : "GER",
+    "bib" : "2806",
+    "ageGroup" : "30",
+    "club" : "FmBtl 10",
+    "finish" : "02:59:34"
+  }, {
+    "place" : 11,
+    "agePlace" : 1,
+    "name" : "Radtke, Björn",
+    "nation" : "GER",
+    "bib" : "2805",
+    "ageGroup" : "40",
+    "club" : "FmBtl 10",
+    "finish" : "03:17:39"
+  } ]
+}

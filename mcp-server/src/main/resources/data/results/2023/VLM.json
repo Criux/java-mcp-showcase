@@ -1,0 +1,379 @@
+{
+  "year" : 2023,
+  "eventCode" : "VLM",
+  "eventName" : "Verbandsliga Mitte",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2023/",
+  "resultCount" : 53,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Homberg, Jonathan",
+    "nation" : "GER",
+    "bib" : "713",
+    "club" : "SV Blau-Weiß Bochum I",
+    "finish" : "02:09:24"
+  }, {
+    "place" : 2,
+    "name" : "Engler, Kevin",
+    "nation" : "GER",
+    "bib" : "750",
+    "club" : "SC Rot-Weiß Oberhausen I",
+    "finish" : "02:18:19"
+  }, {
+    "place" : 3,
+    "name" : "Bühring, Marco",
+    "nation" : "GER",
+    "bib" : "749",
+    "club" : "SC Rot-Weiß Oberhausen I",
+    "finish" : "02:19:47"
+  }, {
+    "place" : 4,
+    "name" : "Eling, Kai",
+    "nation" : "GER",
+    "bib" : "764",
+    "club" : "RSV Osthelden",
+    "finish" : "02:20:39"
+  }, {
+    "place" : 5,
+    "name" : "Schlei, Sören",
+    "nation" : "GER",
+    "bib" : "725",
+    "club" : "Nispa TriTeam HADI Wesel",
+    "finish" : "02:20:55"
+  }, {
+    "place" : 6,
+    "name" : "Müthing, Thomas",
+    "nation" : "GER",
+    "bib" : "751",
+    "club" : "SC Rot-Weiß Oberhausen I",
+    "finish" : "02:22:52"
+  }, {
+    "place" : 7,
+    "name" : "Müller, André",
+    "nation" : "GER",
+    "bib" : "733",
+    "club" : "TRIandertaler Mettmann-Sport I",
+    "finish" : "02:23:43"
+  }, {
+    "place" : 8,
+    "name" : "Kölsch, Tim-Oliver",
+    "nation" : "GER",
+    "bib" : "763",
+    "club" : "RSV Osthelden",
+    "finish" : "02:23:54"
+  }, {
+    "place" : 9,
+    "name" : "Seidel, Stephan",
+    "nation" : "GER",
+    "bib" : "719",
+    "club" : "TG Neuss",
+    "finish" : "02:24:01"
+  }, {
+    "place" : 10,
+    "name" : "Wirtz, René",
+    "nation" : "GER",
+    "bib" : "755",
+    "club" : "Triathlon Waldfeucht I",
+    "finish" : "02:24:48"
+  }, {
+    "place" : 11,
+    "name" : "Schröder, Jan-Christian",
+    "nation" : "GER",
+    "bib" : "714",
+    "club" : "SV Blau-Weiß Bochum I",
+    "finish" : "02:24:51"
+  }, {
+    "place" : 12,
+    "name" : "Rademacher, Jens",
+    "nation" : "GER",
+    "bib" : "756",
+    "club" : "Triathlon Waldfeucht I",
+    "finish" : "02:25:25"
+  }, {
+    "place" : 13,
+    "name" : "Jung, David",
+    "nation" : "GER",
+    "bib" : "701",
+    "club" : "PV Triathlon TG Witten IV",
+    "finish" : "02:25:38"
+  }, {
+    "place" : 14,
+    "name" : "Pastor, Till",
+    "nation" : "GER",
+    "bib" : "703",
+    "club" : "PV Triathlon TG Witten IV",
+    "finish" : "02:25:58"
+  }, {
+    "place" : 15,
+    "name" : "Pioch, Sascha",
+    "nation" : "GER",
+    "bib" : "717",
+    "club" : "TG Neuss",
+    "finish" : "02:27:38"
+  }, {
+    "place" : 16,
+    "name" : "Hohlweg, Tim",
+    "nation" : "GER",
+    "bib" : "716",
+    "club" : "SV Blau-Weiß Bochum I",
+    "finish" : "02:29:01"
+  }, {
+    "place" : 17,
+    "name" : "Humberg, Patrick",
+    "nation" : "GER",
+    "bib" : "758",
+    "club" : "TSV Solingen",
+    "finish" : "02:31:02"
+  }, {
+    "place" : 18,
+    "name" : "Müller, Thomas",
+    "nation" : "GER",
+    "bib" : "708",
+    "club" : "TuS Xanten I",
+    "finish" : "02:31:08"
+  }, {
+    "place" : 19,
+    "name" : "Bettger, Thomas",
+    "nation" : "GER",
+    "bib" : "726",
+    "club" : "Nispa TriTeam HADI Wesel",
+    "finish" : "02:31:44"
+  }, {
+    "place" : 20,
+    "name" : "Wulf, Benedict",
+    "nation" : "GER",
+    "bib" : "752",
+    "club" : "SC Rot-Weiß Oberhausen I",
+    "finish" : "02:32:11"
+  }, {
+    "place" : 21,
+    "name" : "Schillinger, Oliver",
+    "nation" : "GER",
+    "bib" : "721",
+    "club" : "Nordtriathleten Oberhausen I",
+    "finish" : "02:32:57"
+  }, {
+    "place" : 22,
+    "name" : "Merschmann, Friedrich Julian",
+    "nation" : "GER",
+    "bib" : "702",
+    "club" : "PV Triathlon TG Witten IV",
+    "finish" : "02:33:02"
+  }, {
+    "place" : 23,
+    "name" : "Kroniger, Björn",
+    "nation" : "GER",
+    "bib" : "715",
+    "club" : "SV Blau-Weiß Bochum I",
+    "finish" : "02:33:27"
+  }, {
+    "place" : 24,
+    "name" : "Bätzel, Torsten",
+    "nation" : "GER",
+    "bib" : "741",
+    "club" : "tri.SI (Triathlon Siegen)",
+    "finish" : "02:34:03"
+  }, {
+    "place" : 25,
+    "name" : "Breitenbach, Johannes",
+    "nation" : "GER",
+    "bib" : "704",
+    "club" : "PV Triathlon TG Witten IV",
+    "finish" : "02:34:32"
+  }, {
+    "place" : 26,
+    "name" : "Diekmann, Bernd",
+    "nation" : "GER",
+    "bib" : "727",
+    "club" : "Nispa TriTeam HADI Wesel",
+    "finish" : "02:34:32"
+  }, {
+    "place" : 27,
+    "name" : "Weimer, Tobias",
+    "nation" : "GER",
+    "bib" : "711",
+    "club" : "TRC Essen 84 III",
+    "finish" : "02:35:12"
+  }, {
+    "place" : 28,
+    "name" : "Fischer, Lothar",
+    "nation" : "GER",
+    "bib" : "729",
+    "club" : "TV Attendorn TRI-TIME",
+    "finish" : "02:35:25"
+  }, {
+    "place" : 29,
+    "name" : "Daub, Florian",
+    "nation" : "GER",
+    "bib" : "761",
+    "club" : "RSV Osthelden",
+    "finish" : "02:36:33"
+  }, {
+    "place" : 30,
+    "name" : "Krekelberg, Thorsten",
+    "nation" : "GER",
+    "bib" : "754",
+    "club" : "Triathlon Waldfeucht I",
+    "finish" : "02:37:15"
+  }, {
+    "place" : 31,
+    "name" : "Pooth, Daniel",
+    "nation" : "GER",
+    "bib" : "728",
+    "club" : "Nispa TriTeam HADI Wesel",
+    "finish" : "02:37:18"
+  }, {
+    "place" : 32,
+    "name" : "Wortmann, Stefan",
+    "nation" : "GER",
+    "bib" : "732",
+    "club" : "TV Attendorn TRI-TIME",
+    "finish" : "02:37:37"
+  }, {
+    "place" : 33,
+    "name" : "Schäfer, André",
+    "nation" : "GER",
+    "bib" : "759",
+    "club" : "TSV Solingen",
+    "finish" : "02:37:48"
+  }, {
+    "place" : 34,
+    "name" : "Löwecke, Malte",
+    "nation" : "GER",
+    "bib" : "709",
+    "club" : "TRC Essen 84 III",
+    "finish" : "02:38:09"
+  }, {
+    "place" : 35,
+    "name" : "Zang, Pierre",
+    "nation" : "GER",
+    "bib" : "712",
+    "club" : "TRC Essen 84 III",
+    "finish" : "02:39:29"
+  }, {
+    "place" : 36,
+    "name" : "Leifeld, Pascal",
+    "nation" : "GER",
+    "bib" : "722",
+    "club" : "Nordtriathleten Oberhausen I",
+    "finish" : "02:39:41"
+  }, {
+    "place" : 37,
+    "name" : "Bardach, Rachid",
+    "nation" : "GER",
+    "bib" : "720",
+    "club" : "TG Neuss",
+    "finish" : "02:41:00"
+  }, {
+    "place" : 38,
+    "name" : "Kuschewski, Niklas",
+    "nation" : "GER",
+    "bib" : "723",
+    "club" : "Nordtriathleten Oberhausen I",
+    "finish" : "02:41:16"
+  }, {
+    "place" : 39,
+    "name" : "Dreissen, Georg",
+    "nation" : "GER",
+    "bib" : "753",
+    "club" : "Triathlon Waldfeucht I",
+    "finish" : "02:41:30"
+  }, {
+    "place" : 40,
+    "name" : "Betz, Martin",
+    "nation" : "GER",
+    "bib" : "744",
+    "club" : "tri.SI (Triathlon Siegen)",
+    "finish" : "02:41:52"
+  }, {
+    "place" : 41,
+    "name" : "Burkhard, Jens",
+    "nation" : "GER",
+    "bib" : "705",
+    "club" : "TuS Xanten I",
+    "finish" : "02:42:47"
+  }, {
+    "place" : 42,
+    "name" : "Bauer, Henrik",
+    "nation" : "GER",
+    "bib" : "762",
+    "club" : "RSV Osthelden",
+    "finish" : "02:43:54"
+  }, {
+    "place" : 43,
+    "name" : "Reichert, Mathis",
+    "nation" : "GER",
+    "bib" : "718",
+    "club" : "TG Neuss",
+    "finish" : "02:44:19"
+  }, {
+    "place" : 44,
+    "name" : "Fernandez Saenz, Ernesto",
+    "nation" : "GER",
+    "bib" : "734",
+    "club" : "TRIandertaler Mettmann-Sport I",
+    "finish" : "02:44:32"
+  }, {
+    "place" : 45,
+    "name" : "Neumann, Christoph",
+    "nation" : "GER",
+    "bib" : "706",
+    "club" : "TuS Xanten I",
+    "finish" : "02:46:20"
+  }, {
+    "place" : 46,
+    "name" : "Rödder, Philipp",
+    "nation" : "GER",
+    "bib" : "743",
+    "club" : "tri.SI (Triathlon Siegen)",
+    "finish" : "02:47:19"
+  }, {
+    "place" : 47,
+    "name" : "Kluß, David",
+    "nation" : "GER",
+    "bib" : "724",
+    "club" : "Nordtriathleten Oberhausen I",
+    "finish" : "02:51:07"
+  }, {
+    "place" : 48,
+    "name" : "Junker, Andreas",
+    "nation" : "GER",
+    "bib" : "742",
+    "club" : "tri.SI (Triathlon Siegen)",
+    "finish" : "02:56:31"
+  }, {
+    "place" : 49,
+    "name" : "Tippmann, Thomas",
+    "nation" : "GER",
+    "bib" : "731",
+    "club" : "TV Attendorn TRI-TIME",
+    "finish" : "03:00:22"
+  }, {
+    "place" : 50,
+    "name" : "Köster, Noah",
+    "nation" : "GER",
+    "bib" : "730",
+    "club" : "TV Attendorn TRI-TIME",
+    "finish" : "03:00:35"
+  }, {
+    "place" : 51,
+    "name" : "Genscher, Udo",
+    "nation" : "GER",
+    "bib" : "757",
+    "club" : "TSV Solingen",
+    "finish" : "03:01:59"
+  }, {
+    "place" : 52,
+    "name" : "Schröter, Johannes",
+    "nation" : "GER",
+    "bib" : "760",
+    "club" : "TSV Solingen",
+    "finish" : "03:04:36"
+  }, {
+    "place" : 53,
+    "name" : "van Laar, Alexander",
+    "nation" : "GER",
+    "bib" : "736",
+    "club" : "TRIandertaler Mettmann-Sport I",
+    "finish" : "03:09:52"
+  } ]
+}

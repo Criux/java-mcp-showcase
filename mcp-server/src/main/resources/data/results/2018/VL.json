@@ -1,0 +1,428 @@
+{
+  "year" : 2018,
+  "eventCode" : "VL",
+  "eventName" : "Verbandsliga Nord",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2018/",
+  "resultCount" : 60,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Bleisch, Leif Erik",
+    "nation" : "GER",
+    "bib" : "565",
+    "club" : "1. Tri Team Gütersloh I",
+    "finish" : "02:08:37"
+  }, {
+    "place" : 2,
+    "name" : "Müller, Arne",
+    "nation" : "GER",
+    "bib" : "541",
+    "club" : "Viermärker Dortmund",
+    "finish" : "02:09:55"
+  }, {
+    "place" : 3,
+    "name" : "Hegenbarth, Amadeus",
+    "nation" : "GER",
+    "bib" : "510",
+    "club" : "LC Solbad Ravensberg",
+    "finish" : "02:13:01"
+  }, {
+    "place" : 4,
+    "name" : "Rohden, Jannis",
+    "nation" : "GER",
+    "bib" : "516",
+    "club" : "ASC Ahlen",
+    "finish" : "02:15:41"
+  }, {
+    "place" : 5,
+    "name" : "Komes, Max Paul",
+    "nation" : "GER",
+    "bib" : "507",
+    "club" : "SC Westfalia 04 Herne",
+    "finish" : "02:17:18"
+  }, {
+    "place" : 6,
+    "name" : "Selinger, Hendrik",
+    "nation" : "GER",
+    "bib" : "566",
+    "club" : "1. Tri Team Gütersloh I",
+    "finish" : "02:20:13"
+  }, {
+    "place" : 7,
+    "name" : "Hensiek, Carsten",
+    "nation" : "GER",
+    "bib" : "509",
+    "club" : "LC Solbad Ravensberg",
+    "finish" : "02:21:12"
+  }, {
+    "place" : 8,
+    "name" : "Dahmen, Marc",
+    "nation" : "GER",
+    "bib" : "514",
+    "club" : "ASC Ahlen",
+    "finish" : "02:21:34"
+  }, {
+    "place" : 9,
+    "name" : "Diekenbrock, Timm",
+    "nation" : "GER",
+    "bib" : "537",
+    "club" : "SV Hullern 68",
+    "finish" : "02:22:25"
+  }, {
+    "place" : 10,
+    "name" : "Korte, Andreas",
+    "nation" : "GER",
+    "bib" : "512",
+    "club" : "LC Solbad Ravensberg",
+    "finish" : "02:22:37"
+  }, {
+    "place" : 11,
+    "name" : "Esselmann, Tim-Felix",
+    "nation" : "GER",
+    "bib" : "511",
+    "club" : "LC Solbad Ravensberg",
+    "finish" : "02:23:39"
+  }, {
+    "place" : 12,
+    "name" : "Diecksmeier, Oliver",
+    "nation" : "GER",
+    "bib" : "513",
+    "club" : "ASC Ahlen",
+    "finish" : "02:26:13"
+  }, {
+    "place" : 13,
+    "name" : "Behle, Stefan",
+    "nation" : "GER",
+    "bib" : "545",
+    "club" : "TRITANS Lippstadt",
+    "finish" : "02:26:35"
+  }, {
+    "place" : 14,
+    "name" : "Diestelkamp, Eike-Jan",
+    "nation" : "GER",
+    "bib" : "567",
+    "club" : "1. Tri Team Gütersloh I",
+    "finish" : "02:27:08"
+  }, {
+    "place" : 15,
+    "name" : "Müller, Jan-Kristof",
+    "nation" : "GER",
+    "bib" : "506",
+    "club" : "SC Westfalia 04 Herne",
+    "finish" : "02:27:15"
+  }, {
+    "place" : 16,
+    "name" : "Hoenen, Niklas",
+    "nation" : "GER",
+    "bib" : "543",
+    "club" : "Viermärker Dortmund",
+    "finish" : "02:27:19"
+  }, {
+    "place" : 17,
+    "name" : "Strathaus, Nils",
+    "nation" : "GER",
+    "bib" : "526",
+    "club" : "W + F Münster III",
+    "finish" : "02:27:38"
+  }, {
+    "place" : 18,
+    "name" : "Tewes, Heiko",
+    "nation" : "GER",
+    "bib" : "502",
+    "club" : "Tri Duck Dorsten I",
+    "finish" : "02:27:42"
+  }, {
+    "place" : 19,
+    "name" : "Probst, Wolfgang",
+    "nation" : "GER",
+    "bib" : "532",
+    "club" : "Marathon Steinfurt",
+    "finish" : "02:27:55"
+  }, {
+    "place" : 20,
+    "name" : "Jaffke, Felix",
+    "nation" : "GER",
+    "bib" : "533",
+    "club" : "Weicon Tri Finish Münster V",
+    "finish" : "02:27:56"
+  }, {
+    "place" : 21,
+    "name" : "Müller, Malte",
+    "nation" : "GER",
+    "bib" : "542",
+    "club" : "Viermärker Dortmund",
+    "finish" : "02:28:31"
+  }, {
+    "place" : 22,
+    "name" : "Hassenkamp, Hendrik",
+    "nation" : "GER",
+    "bib" : "539",
+    "club" : "SV Hullern 68",
+    "finish" : "02:28:32"
+  }, {
+    "place" : 23,
+    "name" : "Evermann, Lars",
+    "nation" : "GER",
+    "bib" : "562",
+    "club" : "TuS 09 Erkenschwick I",
+    "finish" : "02:28:35"
+  }, {
+    "place" : 24,
+    "name" : "Damnitz, Dennis",
+    "nation" : "GER",
+    "bib" : "504",
+    "club" : "Tri Duck Dorsten I",
+    "finish" : "02:28:46"
+  }, {
+    "place" : 25,
+    "name" : "Engelmann, Christian",
+    "nation" : "GER",
+    "bib" : "517",
+    "club" : "TSVE 1890 Bielefeld II",
+    "finish" : "02:29:56"
+  }, {
+    "place" : 26,
+    "name" : "Elfert, Reinhard",
+    "nation" : "GER",
+    "bib" : "561",
+    "club" : "TuS 09 Erkenschwick I",
+    "finish" : "02:30:14"
+  }, {
+    "place" : 27,
+    "name" : "Bruch, Jens",
+    "nation" : "GER",
+    "bib" : "546",
+    "club" : "TRITANS Lippstadt",
+    "finish" : "02:30:15"
+  }, {
+    "place" : 28,
+    "name" : "Dunkel, Thomas",
+    "nation" : "GER",
+    "bib" : "520",
+    "club" : "TSVE 1890 Bielefeld II",
+    "finish" : "02:31:13"
+  }, {
+    "place" : 29,
+    "name" : "Siepermann, Peter",
+    "nation" : "GER",
+    "bib" : "563",
+    "club" : "TuS 09 Erkenschwick I",
+    "finish" : "02:32:02"
+  }, {
+    "place" : 30,
+    "name" : "Hoenen, Leon",
+    "nation" : "GER",
+    "bib" : "544",
+    "club" : "Viermärker Dortmund",
+    "finish" : "02:32:14"
+  }, {
+    "place" : 31,
+    "name" : "Berghaus, Jürgen",
+    "nation" : "GER",
+    "bib" : "531",
+    "club" : "Marathon Steinfurt",
+    "finish" : "02:33:00"
+  }, {
+    "place" : 32,
+    "name" : "Donnermeyer, Julian",
+    "nation" : "GER",
+    "bib" : "534",
+    "club" : "Weicon Tri Finish Münster V",
+    "finish" : "02:33:00"
+  }, {
+    "place" : 33,
+    "name" : "Gniffke, Michael",
+    "nation" : "GER",
+    "bib" : "505",
+    "club" : "SC Westfalia 04 Herne",
+    "finish" : "02:33:24"
+  }, {
+    "place" : 34,
+    "name" : "Klug, Marcel",
+    "nation" : "GER",
+    "bib" : "527",
+    "club" : "W + F Münster III",
+    "finish" : "02:33:31"
+  }, {
+    "place" : 35,
+    "name" : "Geisemeier, Jan",
+    "nation" : "GER",
+    "bib" : "568",
+    "club" : "1. Tri Team Gütersloh I",
+    "finish" : "02:33:44"
+  }, {
+    "place" : 36,
+    "name" : "Reimann, Björn",
+    "nation" : "GER",
+    "bib" : "519",
+    "club" : "TSVE 1890 Bielefeld II",
+    "finish" : "02:34:09"
+  }, {
+    "place" : 37,
+    "name" : "Weissner, Martin",
+    "nation" : "GER",
+    "bib" : "528",
+    "club" : "W + F Münster III",
+    "finish" : "02:34:32"
+  }, {
+    "place" : 38,
+    "name" : "Mamaikanov, Evgeni",
+    "nation" : "GER",
+    "bib" : "556",
+    "club" : "LV Tristar Oelde II",
+    "finish" : "02:34:43"
+  }, {
+    "place" : 39,
+    "name" : "Schmitt, Volker",
+    "nation" : "GER",
+    "bib" : "518",
+    "club" : "TSVE 1890 Bielefeld II",
+    "finish" : "02:34:45"
+  }, {
+    "place" : 40,
+    "name" : "Baum, Stephan",
+    "nation" : "GER",
+    "bib" : "553",
+    "club" : "LV Tristar Oelde II",
+    "finish" : "02:34:46"
+  }, {
+    "place" : 41,
+    "name" : "Graw, Burkhard",
+    "nation" : "GER",
+    "bib" : "554",
+    "club" : "LV Tristar Oelde II",
+    "finish" : "02:35:22"
+  }, {
+    "place" : 42,
+    "name" : "Knaup, Andreas",
+    "nation" : "GER",
+    "bib" : "555",
+    "club" : "LV Tristar Oelde II",
+    "finish" : "02:36:07"
+  }, {
+    "place" : 43,
+    "name" : "Hereth, Frank",
+    "nation" : "GER",
+    "bib" : "522",
+    "club" : "Tri-Team Selimed Herscheid II",
+    "finish" : "02:36:54"
+  }, {
+    "place" : 44,
+    "name" : "Kurwowski, Philipp",
+    "nation" : "GER",
+    "bib" : "560",
+    "club" : "TV Hülsenbusch",
+    "finish" : "02:38:01"
+  }, {
+    "place" : 45,
+    "name" : "Portela, Luis",
+    "nation" : "ESP",
+    "bib" : "547",
+    "club" : "TRITANS Lippstadt",
+    "finish" : "02:41:43"
+  }, {
+    "place" : 46,
+    "name" : "Strathaus, Wolfgang",
+    "nation" : "GER",
+    "bib" : "525",
+    "club" : "W + F Münster III",
+    "finish" : "02:42:26"
+  }, {
+    "place" : 47,
+    "name" : "Tewes, Ingo",
+    "nation" : "GER",
+    "bib" : "503",
+    "club" : "Tri Duck Dorsten I",
+    "finish" : "02:44:33"
+  }, {
+    "place" : 48,
+    "name" : "Kösters, Markus",
+    "nation" : "GER",
+    "bib" : "538",
+    "club" : "SV Hullern 68",
+    "finish" : "02:45:52"
+  }, {
+    "place" : 49,
+    "name" : "Clare, Michael",
+    "nation" : "GER",
+    "bib" : "530",
+    "club" : "Marathon Steinfurt",
+    "finish" : "02:48:14"
+  }, {
+    "place" : 50,
+    "name" : "Kochanski, Bjoern",
+    "nation" : "GER",
+    "bib" : "558",
+    "club" : "TV Hülsenbusch",
+    "finish" : "02:48:43"
+  }, {
+    "place" : 51,
+    "name" : "van Eik, Marcel",
+    "nation" : "GER",
+    "bib" : "540",
+    "club" : "SV Hullern 68",
+    "finish" : "02:49:00"
+  }, {
+    "place" : 52,
+    "name" : "Hinkers, Jan",
+    "nation" : "GER",
+    "bib" : "529",
+    "club" : "Marathon Steinfurt",
+    "finish" : "02:49:56"
+  }, {
+    "place" : 53,
+    "name" : "Richter, Dietmar",
+    "nation" : "GER",
+    "bib" : "523",
+    "club" : "Tri-Team Selimed Herscheid II",
+    "finish" : "02:53:13"
+  }, {
+    "place" : 54,
+    "name" : "Lachnitt, Frank",
+    "nation" : "GER",
+    "bib" : "524",
+    "club" : "Tri-Team Selimed Herscheid II",
+    "finish" : "02:55:40"
+  }, {
+    "place" : 55,
+    "name" : "Thiesbrummel, Andre",
+    "nation" : "GER",
+    "bib" : "548",
+    "club" : "TRITANS Lippstadt",
+    "finish" : "02:58:18"
+  }, {
+    "place" : 56,
+    "name" : "Vortmeier, Martin",
+    "nation" : "GER",
+    "bib" : "564",
+    "club" : "TuS 09 Erkenschwick I",
+    "finish" : "03:00:16"
+  }, {
+    "place" : 57,
+    "name" : "Rasmußen, Jörn",
+    "nation" : "GER",
+    "bib" : "501",
+    "club" : "Tri Duck Dorsten I",
+    "finish" : "03:03:28"
+  }, {
+    "place" : 58,
+    "name" : "Fischer, Alex",
+    "nation" : "GER",
+    "bib" : "508",
+    "club" : "SC Westfalia 04 Herne",
+    "finish" : "03:19:51"
+  }, {
+    "place" : 59,
+    "name" : "Falk, Holger",
+    "nation" : "GER",
+    "bib" : "536",
+    "club" : "Weicon Tri Finish Münster V",
+    "finish" : "03:25:08"
+  }, {
+    "place" : 60,
+    "name" : "Klasen, Frithjof",
+    "nation" : "GER",
+    "bib" : "559",
+    "club" : "TV Hülsenbusch",
+    "finish" : "03:27:34"
+  } ]
+}

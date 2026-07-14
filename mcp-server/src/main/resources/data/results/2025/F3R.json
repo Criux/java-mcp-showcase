@@ -1,0 +1,510 @@
+{
+  "year" : 2025,
+  "eventCode" : "F3R",
+  "eventName" : "Strohbücker StaffelCup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2025/",
+  "resultCount" : 56,
+  "results" : [ {
+    "agePlace" : 1,
+    "name" : "Staffel Op D r Eck",
+    "bib" : "1933",
+    "club" : "Staffel Op D r Eck",
+    "swim" : "00:15:30",
+    "bike" : "00:34:39",
+    "run" : "00:21:25",
+    "finish" : "01:13:52"
+  }, {
+    "agePlace" : 2,
+    "name" : "UnauFHaltbar",
+    "bib" : "1900",
+    "club" : "UnauFHaltbar",
+    "swim" : "00:13:59",
+    "bike" : "00:34:28",
+    "run" : "00:23:40",
+    "finish" : "01:14:54"
+  }, {
+    "agePlace" : 3,
+    "name" : "TriHarder",
+    "bib" : "1908",
+    "club" : "TriHarder",
+    "swim" : "00:12:46",
+    "bike" : "00:36:51",
+    "run" : "00:23:38",
+    "finish" : "01:15:43"
+  }, {
+    "agePlace" : 4,
+    "name" : "NTT DATA Pixel Pacers",
+    "bib" : "1916",
+    "club" : "NTT DATA Pixel Pacers",
+    "swim" : "00:15:30",
+    "bike" : "00:34:11",
+    "run" : "00:27:13",
+    "finish" : "01:19:49"
+  }, {
+    "agePlace" : 5,
+    "name" : "Trigether",
+    "bib" : "1943",
+    "club" : "Trigether",
+    "swim" : "00:11:02",
+    "bike" : "00:39:24",
+    "run" : "00:26:54",
+    "finish" : "01:20:04"
+  }, {
+    "agePlace" : 6,
+    "name" : "Die Schmiddis",
+    "bib" : "1956",
+    "club" : "Die Schmiddis",
+    "swim" : "00:10:43",
+    "bike" : "00:40:30",
+    "run" : "00:26:51",
+    "finish" : "01:20:44"
+  }, {
+    "agePlace" : 7,
+    "name" : "Crazy Chicas",
+    "bib" : "1954",
+    "club" : "Crazy Chicas",
+    "swim" : "00:11:25",
+    "bike" : "00:38:34",
+    "run" : "00:28:15",
+    "finish" : "01:21:07"
+  }, {
+    "agePlace" : 8,
+    "name" : "Tus Köln Rrh",
+    "bib" : "1904",
+    "club" : "Tus Köln Rrh",
+    "swim" : "00:13:42",
+    "bike" : "00:37:34",
+    "run" : "00:26:50",
+    "finish" : "01:21:32"
+  }, {
+    "agePlace" : 9,
+    "name" : "Tri Tra Trullala",
+    "bib" : "1925",
+    "club" : "Tri Tra Trullala",
+    "swim" : "00:12:35",
+    "bike" : "00:37:16",
+    "run" : "00:29:39",
+    "finish" : "01:22:19"
+  }, {
+    "agePlace" : 10,
+    "name" : "Tri Team Cordes",
+    "bib" : "1936",
+    "club" : "Tri Team Cordes",
+    "swim" : "00:12:50",
+    "bike" : "00:40:16",
+    "run" : "00:26:55",
+    "finish" : "01:22:25"
+  }, {
+    "agePlace" : 11,
+    "name" : "Lauflust GE Running-Team",
+    "bib" : "1923",
+    "club" : "Lauflust GE Running-Team",
+    "swim" : "00:13:34",
+    "bike" : "00:41:03",
+    "run" : "00:25:17",
+    "finish" : "01:23:05"
+  }, {
+    "agePlace" : 12,
+    "name" : "Trimäuse",
+    "bib" : "1947",
+    "club" : "Trimäuse",
+    "swim" : "00:13:48",
+    "bike" : "00:45:57",
+    "run" : "00:21:04",
+    "finish" : "01:23:31"
+  }, {
+    "agePlace" : 13,
+    "name" : "FHinisher",
+    "bib" : "1903",
+    "club" : "FHinisher",
+    "swim" : "00:11:42",
+    "bike" : "00:45:18",
+    "run" : "00:24:28",
+    "finish" : "01:24:34"
+  }, {
+    "agePlace" : 14,
+    "name" : "Susi Sonnenschein",
+    "bib" : "1910",
+    "club" : "Susi Sonnenschein",
+    "swim" : "00:21:15",
+    "bike" : "00:36:29",
+    "run" : "00:23:26",
+    "finish" : "01:24:41"
+  }, {
+    "agePlace" : 15,
+    "name" : "Vfl Sassenberg",
+    "bib" : "1909",
+    "club" : "Vfl Sassenberg",
+    "swim" : "00:15:42",
+    "bike" : "00:42:38",
+    "run" : "00:25:27",
+    "finish" : "01:26:31"
+  }, {
+    "agePlace" : 16,
+    "name" : "KKS",
+    "bib" : "1955",
+    "club" : "KKS",
+    "swim" : "00:17:59",
+    "bike" : "00:43:41",
+    "run" : "00:22:46",
+    "finish" : "01:26:48"
+  }, {
+    "agePlace" : 17,
+    "name" : "Karlsruher Lemminge",
+    "bib" : "1959",
+    "club" : "Karlsruher Lemminge",
+    "swim" : "00:15:56",
+    "bike" : "00:35:47",
+    "run" : "00:30:42",
+    "finish" : "01:26:54"
+  }, {
+    "agePlace" : 18,
+    "name" : "Hier könnte ihre Werbung stehen",
+    "bib" : "1957",
+    "club" : "Hier könnte ihre Werbung stehen",
+    "swim" : "00:17:41",
+    "bike" : "00:40:23",
+    "run" : "00:27:09",
+    "finish" : "01:28:01"
+  }, {
+    "agePlace" : 19,
+    "name" : "WSU",
+    "bib" : "1907",
+    "club" : "WSU",
+    "swim" : "00:16:45",
+    "bike" : "00:43:19",
+    "run" : "00:26:18",
+    "finish" : "01:29:24"
+  }, {
+    "agePlace" : 20,
+    "name" : "Gesund Durch Sport",
+    "bib" : "1948",
+    "club" : "Gesund Durch Sport",
+    "swim" : "00:11:45",
+    "bike" : "00:49:28",
+    "run" : "00:25:44",
+    "finish" : "01:29:30"
+  }, {
+    "agePlace" : 21,
+    "name" : "Wadenkrampf United",
+    "bib" : "1930",
+    "club" : "Wadenkrampf United",
+    "swim" : "00:17:43",
+    "bike" : "00:43:32",
+    "run" : "00:26:02",
+    "finish" : "01:30:09"
+  }, {
+    "agePlace" : 22,
+    "name" : "A-Team Warendorf",
+    "bib" : "1915",
+    "club" : "A-Team Warendorf",
+    "swim" : "00:17:20",
+    "bike" : "00:45:39",
+    "run" : "00:24:34",
+    "finish" : "01:30:29"
+  }, {
+    "agePlace" : 23,
+    "name" : "Trio ideale",
+    "bib" : "1922",
+    "club" : "Trio ideale",
+    "swim" : "00:17:10",
+    "bike" : "00:46:42",
+    "run" : "00:24:27",
+    "finish" : "01:31:13"
+  }, {
+    "agePlace" : 24,
+    "name" : "3 Stroopwafels",
+    "bib" : "1934",
+    "club" : "3 Stroopwafels",
+    "swim" : "00:12:53",
+    "bike" : "00:43:48",
+    "run" : "00:32:51",
+    "finish" : "01:32:09"
+  }, {
+    "agePlace" : 25,
+    "name" : "DorstenPower",
+    "bib" : "1920",
+    "club" : "DorstenPower",
+    "swim" : "00:16:01",
+    "bike" : "00:40:02",
+    "run" : "00:32:59",
+    "finish" : "01:32:41"
+  }, {
+    "agePlace" : 26,
+    "name" : "Die Fantastischen Drei",
+    "bib" : "1940",
+    "club" : "Die Fantastischen Drei",
+    "swim" : "00:16:55",
+    "bike" : "00:40:52",
+    "run" : "00:31:37",
+    "finish" : "01:32:42"
+  }, {
+    "agePlace" : 27,
+    "name" : "Vfl Sassenberg",
+    "bib" : "1944",
+    "club" : "Vfl Sassenberg",
+    "swim" : "00:16:18",
+    "bike" : "00:48:15",
+    "run" : "00:25:12",
+    "finish" : "01:33:04"
+  }, {
+    "agePlace" : 28,
+    "name" : "Barkey",
+    "bib" : "1928",
+    "club" : "Barkey",
+    "swim" : "00:16:40",
+    "bike" : "00:45:04",
+    "run" : "00:27:32",
+    "finish" : "01:33:07"
+  }, {
+    "agePlace" : 29,
+    "name" : "Der Strotdresch-Anhang",
+    "bib" : "1953",
+    "club" : "Der Strotdresch-Anhang",
+    "swim" : "00:20:53",
+    "bike" : "00:43:55",
+    "run" : "00:25:54",
+    "finish" : "01:33:37"
+  }, {
+    "agePlace" : 30,
+    "name" : "Die Drei",
+    "bib" : "1912",
+    "club" : "Die Drei",
+    "swim" : "00:16:45",
+    "bike" : "00:42:28",
+    "run" : "00:31:23",
+    "finish" : "01:33:43"
+  }, {
+    "agePlace" : 31,
+    "name" : "Two And A half Women",
+    "bib" : "1914",
+    "club" : "Two And A half Women",
+    "swim" : "00:18:54",
+    "bike" : "00:47:49",
+    "run" : "00:24:35",
+    "finish" : "01:34:17"
+  }, {
+    "agePlace" : 32,
+    "name" : "Die Altis",
+    "bib" : "1958",
+    "club" : "Die Altis",
+    "swim" : "00:12:48",
+    "bike" : "00:49:14",
+    "run" : "00:29:34",
+    "finish" : "01:34:34"
+  }, {
+    "agePlace" : 33,
+    "name" : "Mfg",
+    "bib" : "1942",
+    "club" : "Mfg",
+    "swim" : "00:17:36",
+    "bike" : "00:45:19",
+    "run" : "00:29:12",
+    "finish" : "01:34:46"
+  }, {
+    "agePlace" : 34,
+    "name" : "Mannis Fans",
+    "bib" : "1938",
+    "club" : "Mannis Fans",
+    "swim" : "00:15:08",
+    "bike" : "00:49:14",
+    "run" : "00:27:54",
+    "finish" : "01:35:27"
+  }, {
+    "agePlace" : 35,
+    "name" : "Ergoteam Warendorf",
+    "bib" : "1919",
+    "club" : "Ergoteam Warendorf",
+    "swim" : "00:18:49",
+    "bike" : "00:48:25",
+    "run" : "00:25:32",
+    "finish" : "01:35:40"
+  }, {
+    "agePlace" : 36,
+    "name" : "Rkg",
+    "bib" : "1929",
+    "club" : "Rkg",
+    "swim" : "00:19:26",
+    "bike" : "00:44:01",
+    "run" : "00:30:15",
+    "finish" : "01:36:17"
+  }, {
+    "agePlace" : 37,
+    "name" : "Laura hoch 3",
+    "bib" : "1931",
+    "club" : "Laura hoch 3",
+    "swim" : "00:15:40",
+    "bike" : "00:48:19",
+    "run" : "00:30:20",
+    "finish" : "01:37:20"
+  }, {
+    "agePlace" : 38,
+    "name" : "T R Inkerbells",
+    "bib" : "1945",
+    "club" : "T R Inkerbells",
+    "swim" : "00:17:37",
+    "bike" : "00:46:55",
+    "run" : "00:30:11",
+    "finish" : "01:37:34"
+  }, {
+    "agePlace" : 39,
+    "name" : "NTT Data Transformational Trio",
+    "bib" : "1911",
+    "club" : "NTT Data Transformational Trio",
+    "swim" : "00:12:52",
+    "bike" : "00:45:35",
+    "run" : "00:36:43",
+    "finish" : "01:37:52"
+  }, {
+    "agePlace" : 40,
+    "name" : "Silvester Raketen",
+    "bib" : "1901",
+    "club" : "Silvester Raketen",
+    "swim" : "00:13:09",
+    "bike" : "00:48:07",
+    "run" : "00:32:50",
+    "finish" : "01:38:16"
+  }, {
+    "agePlace" : 41,
+    "name" : "NIE OHNE MEIN TEAM",
+    "bib" : "1941",
+    "club" : "NIE OHNE MEIN TEAM",
+    "swim" : "00:17:22",
+    "bike" : "00:46:06",
+    "run" : "00:31:46",
+    "finish" : "01:38:28"
+  }, {
+    "agePlace" : 42,
+    "name" : "Harter Tobak",
+    "bib" : "1924",
+    "club" : "Harter Tobak",
+    "swim" : "00:19:15",
+    "bike" : "00:45:55",
+    "run" : "00:32:58",
+    "finish" : "01:40:38"
+  }, {
+    "agePlace" : 43,
+    "name" : "Tri Katletti",
+    "bib" : "1932",
+    "club" : "Tri Katletti",
+    "swim" : "00:19:54",
+    "bike" : "00:44:52",
+    "run" : "00:33:15",
+    "finish" : "01:41:25"
+  }, {
+    "agePlace" : 44,
+    "name" : "Niemerg",
+    "bib" : "1918",
+    "club" : "Niemerg",
+    "swim" : "00:22:56",
+    "bike" : "00:47:22",
+    "run" : "00:24:11",
+    "finish" : "01:41:34"
+  }, {
+    "agePlace" : 45,
+    "name" : "Tri for Fries",
+    "bib" : "1951",
+    "club" : "Tri for Fries",
+    "swim" : "00:19:16",
+    "bike" : "00:48:00",
+    "run" : "00:31:52",
+    "finish" : "01:42:07"
+  }, {
+    "agePlace" : 46,
+    "name" : "Strotdresch Racing Team",
+    "bib" : "1926",
+    "club" : "Strotdresch Racing Team",
+    "swim" : "00:15:04",
+    "bike" : "00:50:58",
+    "run" : "00:34:34",
+    "finish" : "01:43:15"
+  }, {
+    "agePlace" : 47,
+    "name" : "Svenni, Hanni & Chelli on Fire",
+    "bib" : "1949",
+    "club" : "Svenni, Hanni & Chelli on Fire",
+    "swim" : "00:18:38",
+    "bike" : "00:49:23",
+    "run" : "00:34:09",
+    "finish" : "01:45:44"
+  }, {
+    "agePlace" : 48,
+    "bib" : "1935",
+    "swim" : "00:20:05",
+    "bike" : "00:54:08",
+    "run" : "00:29:07",
+    "finish" : "01:48:38"
+  }, {
+    "agePlace" : 49,
+    "name" : "Triathlon Team Versmold Süß",
+    "bib" : "1950",
+    "club" : "Triathlon Team Versmold Süß",
+    "swim" : "00:14:17",
+    "bike" : "00:57:13",
+    "run" : "00:34:29",
+    "finish" : "01:48:51"
+  }, {
+    "agePlace" : 50,
+    "name" : "Dachdecker Brinkmann",
+    "bib" : "1927",
+    "club" : "Dachdecker Brinkmann",
+    "swim" : "00:26:55",
+    "bike" : "00:45:41",
+    "run" : "00:33:48",
+    "finish" : "01:49:02"
+  }, {
+    "agePlace" : 51,
+    "name" : "Tus Köln Rrh",
+    "bib" : "1906",
+    "club" : "Tus Köln Rrh",
+    "swim" : "00:24:18",
+    "bike" : "00:46:53",
+    "run" : "00:37:07",
+    "finish" : "01:52:00"
+  }, {
+    "agePlace" : 52,
+    "name" : "Triducks",
+    "bib" : "1917",
+    "club" : "Triducks",
+    "swim" : "00:18:30",
+    "bike" : "00:48:29",
+    "run" : "00:39:42",
+    "finish" : "01:52:14"
+  }, {
+    "agePlace" : 53,
+    "name" : "Warum Hab Ich nicht NEIN gesagt",
+    "bib" : "1902",
+    "club" : "Warum Hab Ich nicht NEIN gesagt",
+    "swim" : "00:19:25",
+    "bike" : "00:51:33",
+    "run" : "00:38:51",
+    "finish" : "01:53:23"
+  }, {
+    "agePlace" : 54,
+    "name" : "SC Tri-Try #1",
+    "bib" : "1905",
+    "club" : "SC Tri-Try #1",
+    "swim" : "00:22:12",
+    "bike" : "00:48:36",
+    "run" : "00:39:02",
+    "finish" : "01:53:35"
+  }, {
+    "agePlace" : 55,
+    "name" : "Die Turboschnecken",
+    "bib" : "1946",
+    "club" : "Die Turboschnecken",
+    "swim" : "00:21:00",
+    "bike" : "00:56:12",
+    "run" : "00:36:07",
+    "finish" : "01:57:27"
+  }, {
+    "agePlace" : 56,
+    "name" : "Team Schwimm Boje",
+    "bib" : "1913",
+    "club" : "Team Schwimm Boje",
+    "swim" : "00:19:33",
+    "bike" : "00:50:09",
+    "run" : "00:53:40",
+    "finish" : "02:13:07"
+  } ]
+}

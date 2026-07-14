@@ -1,0 +1,715 @@
+{
+  "year" : 2017,
+  "eventCode" : "OM_0000171D8AEA9C000000003D",
+  "eventName" : "Oberliga Männer",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2017/",
+  "resultCount" : 71,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Schmidt, Morten",
+    "nation" : "GER",
+    "bib" : "401",
+    "club" : "Triathlon Team Ratingen 08",
+    "swim" : "00:19:06",
+    "bike" : "00:59:56",
+    "run" : "00:38:18",
+    "finish" : "02:00:20"
+  }, {
+    "place" : 2,
+    "name" : "Schaefer, Till",
+    "nation" : "GER",
+    "bib" : "446",
+    "club" : "PV Triathlon Witten II",
+    "swim" : "00:21:25",
+    "bike" : "00:59:31",
+    "run" : "00:37:20",
+    "finish" : "02:01:29"
+  }, {
+    "place" : 3,
+    "name" : "Schuhmachers, Jörg",
+    "nation" : "GER",
+    "bib" : "471",
+    "club" : "Dülkener SV 06",
+    "swim" : "00:22:02",
+    "bike" : "00:58:17",
+    "run" : "00:37:57",
+    "finish" : "02:01:45"
+  }, {
+    "place" : 4,
+    "name" : "Hammerl, Mirco",
+    "nation" : "GER",
+    "bib" : "426",
+    "club" : "Tri AS Hamm",
+    "swim" : "00:21:59",
+    "bike" : "00:59:12",
+    "run" : "00:38:59",
+    "finish" : "02:03:00"
+  }, {
+    "place" : 5,
+    "name" : "Heinzemann, Tim",
+    "nation" : "GER",
+    "bib" : "410",
+    "club" : "Tri Club Wuppertal",
+    "swim" : "00:23:23",
+    "bike" : "00:58:07",
+    "run" : "00:39:00",
+    "finish" : "02:03:46"
+  }, {
+    "place" : 6,
+    "name" : "Flader, Moritz",
+    "nation" : "GER",
+    "bib" : "463",
+    "club" : "TV Hülsenbusch",
+    "swim" : "00:22:41",
+    "bike" : "00:59:18",
+    "run" : "00:38:55",
+    "finish" : "02:04:08"
+  }, {
+    "place" : 7,
+    "name" : "Rundio, Michael",
+    "nation" : "GER",
+    "bib" : "457",
+    "club" : "Mach3 Köln",
+    "swim" : "00:20:55",
+    "bike" : "00:58:49",
+    "run" : "00:43:01",
+    "finish" : "02:06:22"
+  }, {
+    "place" : 8,
+    "name" : "Appelhans, Daniel",
+    "nation" : "GER",
+    "bib" : "435",
+    "club" : "RC Sorpesee",
+    "swim" : "00:25:14",
+    "bike" : "00:58:17",
+    "run" : "00:40:34",
+    "finish" : "02:07:46"
+  }, {
+    "place" : 9,
+    "name" : "Cohrs, Philipp",
+    "nation" : "GER",
+    "bib" : "458",
+    "club" : "Mach3 Köln",
+    "swim" : "00:23:56",
+    "bike" : "00:59:50",
+    "run" : "00:40:13",
+    "finish" : "02:07:59"
+  }, {
+    "place" : 10,
+    "name" : "Gerhards, Sven",
+    "nation" : "GER",
+    "bib" : "470",
+    "club" : "Dülkener SV 06",
+    "swim" : "00:22:45",
+    "bike" : "01:00:32",
+    "run" : "00:40:40",
+    "finish" : "02:08:03"
+  }, {
+    "place" : 11,
+    "name" : "Wunn, Henrik",
+    "nation" : "GER",
+    "bib" : "403",
+    "club" : "Triathlon Team Ratingen 08",
+    "swim" : "00:21:56",
+    "bike" : "01:01:27",
+    "run" : "00:41:33",
+    "finish" : "02:08:29"
+  }, {
+    "place" : 12,
+    "name" : "Berger, Christoph",
+    "nation" : "GER",
+    "bib" : "425",
+    "club" : "Tri AS Hamm",
+    "swim" : "00:20:04",
+    "bike" : "01:03:50",
+    "run" : "00:42:02",
+    "finish" : "02:09:28"
+  }, {
+    "place" : 13,
+    "name" : "Steffen, Rick",
+    "nation" : "GER",
+    "bib" : "404",
+    "club" : "Triathlon Team Ratingen 08",
+    "swim" : "00:25:28",
+    "bike" : "00:59:19",
+    "run" : "00:40:50",
+    "finish" : "02:09:35"
+  }, {
+    "place" : 14,
+    "name" : "Raulf, Stefan",
+    "nation" : "GER",
+    "bib" : "424",
+    "club" : "LV Tristar Oelde",
+    "swim" : "00:24:59",
+    "bike" : "01:00:06",
+    "run" : "00:40:49",
+    "finish" : "02:09:42"
+  }, {
+    "place" : 15,
+    "name" : "Ifang, Malte",
+    "nation" : "GER",
+    "bib" : "437",
+    "club" : "TuS Breitscheid",
+    "swim" : "00:24:01",
+    "bike" : "01:01:05",
+    "run" : "00:41:35",
+    "finish" : "02:09:52"
+  }, {
+    "place" : 16,
+    "name" : "Hänel, Jan Moritz",
+    "nation" : "GER",
+    "bib" : "448",
+    "club" : "PV Triathlon Witten II",
+    "swim" : "00:22:00",
+    "bike" : "01:03:19",
+    "run" : "00:41:23",
+    "finish" : "02:10:07"
+  }, {
+    "place" : 17,
+    "name" : "Gärtner, Markus",
+    "nation" : "GER",
+    "bib" : "449",
+    "club" : "Tri-Team Selimed Herscheid",
+    "swim" : "00:25:02",
+    "bike" : "00:59:30",
+    "run" : "00:41:58",
+    "finish" : "02:10:12"
+  }, {
+    "place" : 18,
+    "name" : "Welsch, Rüdiger",
+    "nation" : "GER",
+    "bib" : "440",
+    "club" : "TuS Breitscheid",
+    "swim" : "00:21:44",
+    "bike" : "01:01:42",
+    "run" : "00:43:16",
+    "finish" : "02:10:14"
+  }, {
+    "place" : 19,
+    "name" : "Wegener, Olaf",
+    "nation" : "GER",
+    "bib" : "442",
+    "club" : "SC Aquarius Löhne I",
+    "swim" : "00:23:59",
+    "bike" : "01:03:48",
+    "run" : "00:39:52",
+    "finish" : "02:11:02"
+  }, {
+    "place" : 20,
+    "name" : "Schürmann, Ingo",
+    "nation" : "GER",
+    "bib" : "473",
+    "club" : "TuS Xanten",
+    "swim" : "00:24:17",
+    "bike" : "00:59:50",
+    "run" : "00:43:19",
+    "finish" : "02:11:08"
+  }, {
+    "place" : 21,
+    "name" : "Scheibchen, Jonas",
+    "nation" : "GER",
+    "bib" : "459",
+    "club" : "Mach3 Köln",
+    "swim" : "00:21:36",
+    "bike" : "01:05:21",
+    "run" : "00:40:08",
+    "finish" : "02:11:11"
+  }, {
+    "place" : 22,
+    "name" : "Bröhenhorst, Malte",
+    "nation" : "GER",
+    "bib" : "443",
+    "club" : "SC Aquarius Löhne I",
+    "swim" : "00:23:39",
+    "bike" : "01:04:49",
+    "run" : "00:39:53",
+    "finish" : "02:11:44"
+  }, {
+    "place" : 23,
+    "name" : "Ellermann, Jens",
+    "nation" : "GER",
+    "bib" : "451",
+    "club" : "Tri-Team Selimed Herscheid",
+    "swim" : "00:23:37",
+    "bike" : "01:00:44",
+    "run" : "00:44:08",
+    "finish" : "02:11:53"
+  }, {
+    "place" : 24,
+    "name" : "Meyer, Chris",
+    "nation" : "GER",
+    "bib" : "452",
+    "club" : "Tri-Team Selimed Herscheid",
+    "swim" : "00:21:53",
+    "bike" : "01:01:47",
+    "run" : "00:44:57",
+    "finish" : "02:12:15"
+  }, {
+    "place" : 25,
+    "name" : "Kirschbaum, Arne",
+    "nation" : "GER",
+    "bib" : "430",
+    "club" : "Moerser TV Triathlon",
+    "swim" : "00:27:38",
+    "bike" : "01:00:57",
+    "run" : "00:39:56",
+    "finish" : "02:12:41"
+  }, {
+    "place" : 26,
+    "name" : "Verheyen, Florian",
+    "nation" : "GER",
+    "bib" : "429",
+    "club" : "Moerser TV Triathlon",
+    "swim" : "00:24:48",
+    "bike" : "01:02:50",
+    "run" : "00:41:54",
+    "finish" : "02:12:46"
+  }, {
+    "place" : 27,
+    "name" : "Hoffmann, Tobias",
+    "nation" : "GER",
+    "bib" : "413",
+    "club" : "TRC Essen 84 II",
+    "swim" : "00:21:55",
+    "bike" : "01:05:23",
+    "run" : "00:42:05",
+    "finish" : "02:12:51"
+  }, {
+    "place" : 28,
+    "name" : "Mendorf, Matthias",
+    "nation" : "GER",
+    "bib" : "405",
+    "club" : "Rückenwind Geckos Dortmu...",
+    "swim" : "00:24:46",
+    "bike" : "01:03:31",
+    "run" : "00:41:16",
+    "finish" : "02:13:13"
+  }, {
+    "place" : 29,
+    "name" : "Müller, Thomas",
+    "nation" : "GER",
+    "bib" : "474",
+    "club" : "TuS Xanten",
+    "swim" : "00:24:40",
+    "bike" : "01:03:02",
+    "run" : "00:41:19",
+    "finish" : "02:13:24"
+  }, {
+    "place" : 30,
+    "name" : "Löber, Thomas",
+    "nation" : "GER",
+    "bib" : "477",
+    "club" : "Schwelmer SC",
+    "swim" : "00:20:36",
+    "bike" : "01:07:26",
+    "run" : "00:42:24",
+    "finish" : "02:13:30"
+  }, {
+    "place" : 31,
+    "name" : "Köhne, Lars",
+    "nation" : "GER",
+    "bib" : "428",
+    "club" : "Tri AS Hamm",
+    "swim" : "00:24:14",
+    "bike" : "01:02:30",
+    "run" : "00:43:24",
+    "finish" : "02:13:32"
+  }, {
+    "place" : 32,
+    "name" : "Kootstra, Niclas",
+    "nation" : "GER",
+    "bib" : "475",
+    "club" : "TuS Xanten",
+    "swim" : "00:26:32",
+    "bike" : "01:03:25",
+    "run" : "00:40:23",
+    "finish" : "02:13:52"
+  }, {
+    "place" : 33,
+    "name" : "Zoll, Frieder",
+    "nation" : "GER",
+    "bib" : "461",
+    "club" : "TV Hülsenbusch",
+    "swim" : "00:24:11",
+    "bike" : "01:03:14",
+    "run" : "00:43:22",
+    "finish" : "02:14:30"
+  }, {
+    "place" : 34,
+    "name" : "Rühlemann, Lukas",
+    "nation" : "GER",
+    "bib" : "402",
+    "club" : "Triathlon Team Ratingen 08",
+    "swim" : "00:22:03",
+    "bike" : "01:06:00",
+    "run" : "00:43:45",
+    "finish" : "02:14:47"
+  }, {
+    "place" : 35,
+    "name" : "Jobb, Benedikt",
+    "nation" : "GER",
+    "bib" : "476",
+    "club" : "TuS Xanten",
+    "swim" : "00:25:05",
+    "bike" : "01:02:58",
+    "run" : "00:43:25",
+    "finish" : "02:15:00"
+  }, {
+    "place" : 36,
+    "name" : "Kunz, Guido",
+    "nation" : "GER",
+    "bib" : "479",
+    "club" : "Schwelmer SC",
+    "swim" : "00:24:08",
+    "bike" : "01:03:52",
+    "run" : "00:43:02",
+    "finish" : "02:15:00"
+  }, {
+    "place" : 37,
+    "name" : "Tewes, Heiko",
+    "nation" : "GER",
+    "bib" : "453",
+    "club" : "Tri Duck Dorsten I",
+    "swim" : "00:22:45",
+    "bike" : "00:57:36",
+    "run" : "00:51:06",
+    "finish" : "02:15:03"
+  }, {
+    "place" : 38,
+    "name" : "Petri, Stavro",
+    "nation" : "GER",
+    "bib" : "409",
+    "club" : "Tri-Club-Wuppertal",
+    "swim" : "00:23:25",
+    "bike" : "01:04:23",
+    "run" : "00:43:28",
+    "finish" : "02:15:18"
+  }, {
+    "place" : 39,
+    "name" : "Karwinkel, Helmut",
+    "nation" : "GER",
+    "bib" : "422",
+    "club" : "LV Tristar Oelde",
+    "swim" : "00:26:51",
+    "bike" : "01:03:08",
+    "run" : "00:42:09",
+    "finish" : "02:15:32"
+  }, {
+    "place" : 40,
+    "name" : "Simm, Hendrik",
+    "nation" : "GER",
+    "bib" : "423",
+    "club" : "LV Tristar Oelde",
+    "swim" : "00:20:52",
+    "bike" : "01:02:12",
+    "run" : "00:48:30",
+    "finish" : "02:15:37"
+  }, {
+    "place" : 41,
+    "name" : "Rocheteau, Maxime",
+    "nation" : "GER",
+    "bib" : "462",
+    "club" : "TV Hülsenbusch",
+    "swim" : "00:23:57",
+    "bike" : "01:08:31",
+    "run" : "00:40:03",
+    "finish" : "02:15:46"
+  }, {
+    "place" : 42,
+    "name" : "Hoffmann, Fabian",
+    "nation" : "GER",
+    "bib" : "450",
+    "club" : "Tri-Team Selimed Herscheid",
+    "swim" : "00:24:54",
+    "bike" : "01:05:15",
+    "run" : "00:42:21",
+    "finish" : "02:16:08"
+  }, {
+    "place" : 43,
+    "name" : "Hampel, Jochen",
+    "nation" : "GER",
+    "bib" : "465",
+    "club" : "Krefelder Kanu Klub",
+    "swim" : "00:23:19",
+    "bike" : "01:05:24",
+    "run" : "00:44:35",
+    "finish" : "02:16:23"
+  }, {
+    "place" : 44,
+    "name" : "Thiel, Andreas",
+    "nation" : "GER",
+    "bib" : "480",
+    "club" : "Schwelmer SC",
+    "swim" : "01:32:58",
+    "bike" : "01:02:56",
+    "finish" : "02:16:40"
+  }, {
+    "place" : 45,
+    "name" : "Ratajczak, Rainer",
+    "nation" : "GER",
+    "bib" : "454",
+    "club" : "Tri Duck Dorsten I",
+    "swim" : "00:25:20",
+    "bike" : "01:02:49",
+    "run" : "00:45:04",
+    "finish" : "02:16:59"
+  }, {
+    "place" : 46,
+    "name" : "Parche, Ingo",
+    "nation" : "GER",
+    "bib" : "407",
+    "club" : "Rückenwind Geckos Dortmu...",
+    "swim" : "00:25:04",
+    "bike" : "01:03:40",
+    "run" : "00:43:40",
+    "finish" : "02:17:00"
+  }, {
+    "place" : 47,
+    "name" : "Bullermann, Tim",
+    "nation" : "GER",
+    "bib" : "431",
+    "club" : "Moerser TV Triathlon",
+    "swim" : "00:26:09",
+    "bike" : "01:03:41",
+    "run" : "00:44:46",
+    "finish" : "02:17:49"
+  }, {
+    "place" : 48,
+    "name" : "Stolecki, Stephan",
+    "nation" : "GER",
+    "bib" : "408",
+    "club" : "Rückenwind Geckos Dortmu...",
+    "swim" : "00:28:01",
+    "bike" : "01:04:01",
+    "run" : "00:42:40",
+    "finish" : "02:18:50"
+  }, {
+    "place" : 49,
+    "name" : "Pastor, Till",
+    "nation" : "GER",
+    "bib" : "445",
+    "club" : "PV Triathlon Witten II",
+    "swim" : "00:24:02",
+    "bike" : "01:05:43",
+    "run" : "00:45:50",
+    "finish" : "02:19:16"
+  }, {
+    "place" : 50,
+    "name" : "König, Dirk",
+    "nation" : "GER",
+    "bib" : "444",
+    "club" : "SC Aquarius Löhne I",
+    "swim" : "00:23:44",
+    "bike" : "01:03:03",
+    "run" : "00:48:30",
+    "finish" : "02:19:31"
+  }, {
+    "place" : 51,
+    "name" : "Kempe, Michael",
+    "nation" : "GER",
+    "bib" : "441",
+    "club" : "SC Aquarius Löhne I",
+    "swim" : "00:21:57",
+    "bike" : "01:05:14",
+    "run" : "00:49:19",
+    "finish" : "02:20:23"
+  }, {
+    "place" : 52,
+    "name" : "Hölscher, Matthias",
+    "nation" : "GER",
+    "bib" : "447",
+    "club" : "PV Triathlon Witten II",
+    "swim" : "00:27:59",
+    "bike" : "01:02:39",
+    "run" : "00:46:15",
+    "finish" : "02:20:41"
+  }, {
+    "place" : 53,
+    "name" : "Walzer, André",
+    "nation" : "GER",
+    "bib" : "411",
+    "club" : "Tri Club Wuppertal",
+    "swim" : "00:22:26",
+    "bike" : "01:10:00",
+    "run" : "00:44:39",
+    "finish" : "02:20:46"
+  }, {
+    "place" : 54,
+    "name" : "Beltermann, Hubertus",
+    "nation" : "GER",
+    "bib" : "433",
+    "club" : "RC Sorpesee",
+    "swim" : "00:25:05",
+    "bike" : "01:04:29",
+    "run" : "00:46:31",
+    "finish" : "02:20:50"
+  }, {
+    "place" : 55,
+    "name" : "Reinecke, Dominik",
+    "nation" : "GER",
+    "bib" : "432",
+    "club" : "Moerser TV Triathlon",
+    "swim" : "00:26:53",
+    "finish" : "02:21:10"
+  }, {
+    "place" : 56,
+    "name" : "Neumann, Dennis",
+    "nation" : "GER",
+    "bib" : "427",
+    "club" : "Tri AS Hamm",
+    "swim" : "00:23:54",
+    "bike" : "01:09:53",
+    "run" : "00:45:01",
+    "finish" : "02:23:05"
+  }, {
+    "place" : 57,
+    "name" : "Laqua, Michael",
+    "nation" : "GER",
+    "bib" : "434",
+    "club" : "RC Sorpesee",
+    "swim" : "00:30:41",
+    "bike" : "01:07:32",
+    "run" : "00:40:30",
+    "finish" : "02:24:44"
+  }, {
+    "place" : 58,
+    "name" : "Hoffmann, Ansgar",
+    "nation" : "GER",
+    "bib" : "469",
+    "club" : "Dülkener SV 06",
+    "swim" : "00:25:09",
+    "bike" : "01:07:08",
+    "run" : "00:47:06",
+    "finish" : "02:24:47"
+  }, {
+    "place" : 59,
+    "name" : "Tenten, Arnold",
+    "nation" : "GER",
+    "bib" : "468",
+    "club" : "Krefelder Kanu Klub",
+    "swim" : "00:24:19",
+    "bike" : "01:07:24",
+    "run" : "00:48:36",
+    "finish" : "02:25:34"
+  }, {
+    "place" : 60,
+    "name" : "Damnitz, Marvin",
+    "nation" : "GER",
+    "bib" : "455",
+    "club" : "Tri Duck Dorsten I",
+    "swim" : "00:24:04",
+    "bike" : "01:08:04",
+    "run" : "00:49:08",
+    "finish" : "02:25:57"
+  }, {
+    "place" : 61,
+    "name" : "Schuster, Maik",
+    "nation" : "GER",
+    "bib" : "466",
+    "club" : "Krefelder Kanu Klub",
+    "swim" : "00:27:06",
+    "bike" : "01:06:17",
+    "run" : "00:47:54",
+    "finish" : "02:26:02"
+  }, {
+    "place" : 62,
+    "name" : "Cardenas-Gonzales, C Heernesto",
+    "nation" : "GER",
+    "bib" : "467",
+    "club" : "Krefelder Kanu Klub",
+    "swim" : "00:22:25",
+    "bike" : "01:10:19",
+    "run" : "00:47:51",
+    "finish" : "02:26:05"
+  }, {
+    "place" : 63,
+    "name" : "Kunde, Karsten",
+    "nation" : "GER",
+    "bib" : "464",
+    "club" : "TV Hülsenbusch",
+    "swim" : "00:32:43",
+    "bike" : "01:03:12",
+    "run" : "00:47:26",
+    "finish" : "02:27:00"
+  }, {
+    "place" : 64,
+    "name" : "Felgenträger, Jörg",
+    "nation" : "GER",
+    "bib" : "439",
+    "club" : "TuS Breitscheid",
+    "swim" : "00:24:07",
+    "bike" : "01:09:14",
+    "run" : "00:54:21",
+    "finish" : "02:32:38"
+  }, {
+    "place" : 65,
+    "name" : "Lettmayer, Lars",
+    "nation" : "GER",
+    "bib" : "478",
+    "club" : "Schwelmer SC",
+    "swim" : "00:29:44",
+    "bike" : "01:06:21",
+    "run" : "00:51:53",
+    "finish" : "02:32:53"
+  }, {
+    "place" : 66,
+    "name" : "Itter, Martin",
+    "nation" : "GER",
+    "bib" : "406",
+    "club" : "Rückenwind Geckos Dortmu...",
+    "swim" : "00:26:44",
+    "bike" : "01:02:47",
+    "run" : "00:57:23",
+    "finish" : "02:33:19"
+  }, {
+    "place" : 67,
+    "name" : "Weiner, Thomas",
+    "nation" : "GER",
+    "bib" : "438",
+    "club" : "TuS Breitscheid",
+    "swim" : "00:31:51",
+    "bike" : "01:08:56",
+    "run" : "00:51:30",
+    "finish" : "02:37:52"
+  }, {
+    "place" : 68,
+    "name" : "Behr, Carsten",
+    "nation" : "GER",
+    "bib" : "414",
+    "club" : "TRC Essen 84 II",
+    "swim" : "00:27:50",
+    "bike" : "01:14:14",
+    "run" : "00:51:28",
+    "finish" : "02:39:34"
+  }, {
+    "place" : 69,
+    "name" : "Freund, Daniel",
+    "nation" : "GER",
+    "bib" : "416",
+    "club" : "TRC Essen 84 II",
+    "swim" : "00:32:06",
+    "bike" : "01:09:30",
+    "run" : "00:54:41",
+    "finish" : "02:41:04"
+  }, {
+    "place" : 70,
+    "name" : "Mertens, Burkhard",
+    "nation" : "GER",
+    "bib" : "436",
+    "club" : "RC Sorpesee",
+    "swim" : "00:29:25",
+    "bike" : "01:12:13",
+    "run" : "00:52:18",
+    "finish" : "02:41:31"
+  }, {
+    "place" : 71,
+    "name" : "Rasmußen, Jörn",
+    "nation" : "GER",
+    "bib" : "456",
+    "club" : "Tri Duck Dorsten I",
+    "swim" : "00:32:47",
+    "bike" : "01:17:04",
+    "run" : "00:49:02",
+    "finish" : "02:44:52"
+  } ]
+}

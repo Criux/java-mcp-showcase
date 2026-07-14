@@ -1,0 +1,470 @@
+{
+  "year" : 2018,
+  "eventCode" : "SM",
+  "eventName" : "Senioren Liga",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2018/",
+  "resultCount" : 66,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Bergmann, Christoph",
+    "nation" : "GER",
+    "bib" : "701",
+    "club" : "Team TVE Netphen I",
+    "finish" : "02:10:41"
+  }, {
+    "place" : 2,
+    "name" : "Kreisel, Götz",
+    "nation" : "GER",
+    "bib" : "717",
+    "club" : "Krefelder Kanu Klub",
+    "finish" : "02:11:34"
+  }, {
+    "place" : 3,
+    "name" : "Esser, Olivier",
+    "nation" : "BEL",
+    "bib" : "761",
+    "club" : "Brander SV Tri Team",
+    "finish" : "02:11:52"
+  }, {
+    "place" : 4,
+    "name" : "Fricke, Lars-Erik",
+    "nation" : "GER",
+    "bib" : "765",
+    "club" : "EJOT Team TV Buschhütten",
+    "finish" : "02:12:50"
+  }, {
+    "place" : 5,
+    "name" : "Hoppe, Sebastian",
+    "nation" : "GER",
+    "bib" : "708",
+    "club" : "SSF Bonn I",
+    "finish" : "02:13:03"
+  }, {
+    "place" : 6,
+    "name" : "Kramp, Uwe",
+    "nation" : "GER",
+    "bib" : "739",
+    "club" : "Tri Team MAXMO Mönchengladbach",
+    "finish" : "02:16:09"
+  }, {
+    "place" : 7,
+    "name" : "Höhne, Alexander",
+    "nation" : "GER",
+    "bib" : "702",
+    "club" : "Team TVE Netphen I",
+    "finish" : "02:18:08"
+  }, {
+    "place" : 8,
+    "name" : "Metzger, Christian",
+    "nation" : "GER",
+    "bib" : "720",
+    "club" : "Krefelder Kanu Klub",
+    "finish" : "02:18:45"
+  }, {
+    "place" : 9,
+    "name" : "Radevic, Mario",
+    "nation" : "GER",
+    "bib" : "737",
+    "club" : "Tri Team MAXMO Mönchengladbach",
+    "finish" : "02:20:51"
+  }, {
+    "place" : 10,
+    "name" : "Manunzio, Christian",
+    "nation" : "GER",
+    "bib" : "710",
+    "club" : "PSV Bonn Triathlon I",
+    "finish" : "02:21:04"
+  }, {
+    "place" : 11,
+    "name" : "Latsch, Mike",
+    "nation" : "GER",
+    "bib" : "704",
+    "club" : "Team TVE Netphen I",
+    "finish" : "02:25:44"
+  }, {
+    "place" : 12,
+    "name" : "Buchwald, Daniel",
+    "nation" : "GER",
+    "bib" : "738",
+    "club" : "Tri Team MAXMO Mönchengladbach",
+    "finish" : "02:25:47"
+  }, {
+    "place" : 13,
+    "name" : "Jochum, Rüdiger",
+    "nation" : "GER",
+    "bib" : "741",
+    "club" : "Tri-Team Hagen",
+    "finish" : "02:26:14"
+  }, {
+    "place" : 14,
+    "name" : "Scheib, Florian",
+    "nation" : "GER",
+    "bib" : "703",
+    "club" : "Team TVE Netphen I",
+    "finish" : "02:26:35"
+  }, {
+    "place" : 15,
+    "name" : "Stolecki, Stephan",
+    "nation" : "GER",
+    "bib" : "721",
+    "club" : "Tri Geckos Dortmund I",
+    "finish" : "02:27:07"
+  }, {
+    "place" : 16,
+    "name" : "Köhns, Thomas",
+    "nation" : "GER",
+    "bib" : "726",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "finish" : "02:27:08"
+  }, {
+    "place" : 17,
+    "name" : "Schierbaum, Matthias",
+    "nation" : "GER",
+    "bib" : "731",
+    "club" : "SG Triathlon Witten",
+    "finish" : "02:27:59"
+  }, {
+    "place" : 18,
+    "name" : "van de Weyer, Stephan",
+    "nation" : "GER",
+    "bib" : "705",
+    "club" : "SSF Bonn I",
+    "finish" : "02:28:07"
+  }, {
+    "place" : 19,
+    "name" : "Minke, Sebastian",
+    "nation" : "GER",
+    "bib" : "719",
+    "club" : "Krefelder Kanu Klub",
+    "finish" : "02:28:42"
+  }, {
+    "place" : 20,
+    "name" : "Kaiser, Marcus",
+    "nation" : "GER",
+    "bib" : "727",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "finish" : "02:29:49"
+  }, {
+    "place" : 21,
+    "name" : "Wassmann, Alexander",
+    "nation" : "GER",
+    "bib" : "745",
+    "club" : "Team RSV Osthelden",
+    "finish" : "02:30:11"
+  }, {
+    "place" : 22,
+    "name" : "Bucher, André",
+    "nation" : "GER",
+    "bib" : "718",
+    "club" : "Krefelder Kanu Klub",
+    "finish" : "02:30:12"
+  }, {
+    "place" : 23,
+    "name" : "Thomas, Martin",
+    "nation" : "GER",
+    "bib" : "728",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "finish" : "02:30:42"
+  }, {
+    "place" : 24,
+    "name" : "Haag, Stephan",
+    "nation" : "GER",
+    "bib" : "730",
+    "club" : "SG Triathlon Witten",
+    "finish" : "02:31:18"
+  }, {
+    "place" : 25,
+    "name" : "Szczepanek, Torge",
+    "nation" : "GER",
+    "bib" : "706",
+    "club" : "SSF Bonn I",
+    "finish" : "02:32:16"
+  }, {
+    "place" : 26,
+    "name" : "Kuschina, Thorsten",
+    "nation" : "GER",
+    "bib" : "713",
+    "club" : "Team TVE Netphen II",
+    "finish" : "02:32:24"
+  }, {
+    "place" : 27,
+    "name" : "Nadrowski, Bernfried",
+    "nation" : "GER",
+    "bib" : "734",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:32:47"
+  }, {
+    "place" : 28,
+    "name" : "Koch, André",
+    "nation" : "GER",
+    "bib" : "711",
+    "club" : "PSV Bonn Triathlon I",
+    "finish" : "02:33:34"
+  }, {
+    "place" : 29,
+    "name" : "Große Gehling, Jürgen",
+    "nation" : "GER",
+    "bib" : "746",
+    "club" : "Team RSV Osthelden",
+    "finish" : "02:33:46"
+  }, {
+    "place" : 30,
+    "name" : "Riep, Arnim",
+    "nation" : "GER",
+    "bib" : "742",
+    "club" : "Tri-Team Hagen",
+    "finish" : "02:33:56"
+  }, {
+    "place" : 31,
+    "name" : "Hölscher, Matthias",
+    "nation" : "GER",
+    "bib" : "732",
+    "club" : "SG Triathlon Witten",
+    "finish" : "02:35:59"
+  }, {
+    "place" : 32,
+    "name" : "Schmitz, Karsten",
+    "nation" : "GER",
+    "bib" : "735",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:36:05"
+  }, {
+    "place" : 33,
+    "name" : "Knoepke, Ellen",
+    "nation" : "GER",
+    "bib" : "767",
+    "club" : "EJOT Team TV Buschhütten",
+    "finish" : "02:36:12"
+  }, {
+    "place" : 34,
+    "name" : "Koers, Jürgen",
+    "nation" : "GER",
+    "bib" : "722",
+    "club" : "Tri Geckos Dortmund I",
+    "finish" : "02:38:28"
+  }, {
+    "place" : 35,
+    "name" : "Urlaß, Matti",
+    "nation" : "GER",
+    "bib" : "749",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "02:38:33"
+  }, {
+    "place" : 36,
+    "name" : "Wenzel, Arne",
+    "nation" : "GER",
+    "bib" : "712",
+    "club" : "PSV Bonn Triathlon I",
+    "finish" : "02:38:35"
+  }, {
+    "place" : 37,
+    "name" : "Klappert, Andreas",
+    "nation" : "GER",
+    "bib" : "747",
+    "club" : "Team RSV Osthelden",
+    "finish" : "02:38:48"
+  }, {
+    "place" : 38,
+    "name" : "Brenneke, Rene",
+    "nation" : "GER",
+    "bib" : "723",
+    "club" : "Tri Geckos Dortmund I",
+    "finish" : "02:39:54"
+  }, {
+    "place" : 39,
+    "name" : "Schlechtingen, Christoph",
+    "nation" : "GER",
+    "bib" : "714",
+    "club" : "Team TVE Netphen II",
+    "finish" : "02:41:38"
+  }, {
+    "place" : 40,
+    "name" : "Lischka, Jan Timo",
+    "nation" : "GER",
+    "bib" : "729",
+    "club" : "SG Triathlon Witten",
+    "finish" : "02:43:05"
+  }, {
+    "place" : 41,
+    "name" : "Hansel, Martin",
+    "nation" : "GER",
+    "bib" : "748",
+    "club" : "Team RSV Osthelden",
+    "finish" : "02:43:29"
+  }, {
+    "place" : 42,
+    "name" : "Lohmann, Christoph",
+    "nation" : "GER",
+    "bib" : "733",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:44:03"
+  }, {
+    "place" : 43,
+    "name" : "Kath, Thorsten",
+    "nation" : "GER",
+    "bib" : "709",
+    "club" : "PSV Bonn Triathlon I",
+    "finish" : "02:44:23"
+  }, {
+    "place" : 44,
+    "name" : "Kampfer, Kristian",
+    "nation" : "GER",
+    "bib" : "750",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "02:47:22"
+  }, {
+    "place" : 45,
+    "name" : "Sandau, Andreas",
+    "nation" : "GER",
+    "bib" : "725",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "finish" : "02:48:56"
+  }, {
+    "place" : 46,
+    "name" : "Meurer, Marcus",
+    "nation" : "GER",
+    "bib" : "753",
+    "club" : "TRIandertaler Mettmann-Sport",
+    "finish" : "02:49:09"
+  }, {
+    "place" : 47,
+    "name" : "Ergül, Enes",
+    "nation" : "GER",
+    "bib" : "707",
+    "club" : "SSF Bonn I",
+    "finish" : "02:50:53"
+  }, {
+    "place" : 48,
+    "name" : "Schmitz, Jörg",
+    "nation" : "GER",
+    "bib" : "736",
+    "club" : "SC Bayer 05 Uerdingen",
+    "finish" : "02:51:02"
+  }, {
+    "place" : 49,
+    "name" : "Jung, Martin",
+    "nation" : "GER",
+    "bib" : "766",
+    "club" : "EJOT Team TV Buschhütten",
+    "finish" : "02:51:02"
+  }, {
+    "place" : 50,
+    "name" : "Möller, Sepp",
+    "nation" : "AUT",
+    "bib" : "743",
+    "club" : "Tri-Team Hagen",
+    "finish" : "02:52:43"
+  }, {
+    "place" : 51,
+    "name" : "Trautmann, Andreas",
+    "nation" : "GER",
+    "bib" : "762",
+    "club" : "Brander SV Tri Team",
+    "finish" : "02:52:50"
+  }, {
+    "place" : 52,
+    "name" : "Biermann, Bernadette",
+    "nation" : "GER",
+    "bib" : "751",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "02:53:04"
+  }, {
+    "place" : 53,
+    "name" : "Laudenberg, Udo",
+    "nation" : "GER",
+    "bib" : "769",
+    "club" : "VfL Engelskirchen Triathlon",
+    "finish" : "02:53:22"
+  }, {
+    "place" : 54,
+    "name" : "Wiek, Sabine",
+    "nation" : "GER",
+    "bib" : "756",
+    "club" : "TRIandertaler Mettmann-Sport",
+    "finish" : "02:54:16"
+  }, {
+    "place" : 55,
+    "name" : "Villalobos, Adryan",
+    "nation" : "GER",
+    "bib" : "755",
+    "club" : "TRIandertaler Mettmann-Sport",
+    "finish" : "02:54:31"
+  }, {
+    "place" : 56,
+    "name" : "Heymann, Jan",
+    "nation" : "GER",
+    "bib" : "724",
+    "club" : "Tri Geckos Dortmund I",
+    "finish" : "02:59:28"
+  }, {
+    "place" : 57,
+    "name" : "Gerber, Frauke",
+    "nation" : "GER",
+    "bib" : "763",
+    "club" : "Brander SV Tri Team",
+    "finish" : "02:59:33"
+  }, {
+    "place" : 58,
+    "name" : "Steffe, Roland",
+    "nation" : "GER",
+    "bib" : "768",
+    "club" : "EJOT Team TV Buschhütten",
+    "finish" : "03:03:08"
+  }, {
+    "place" : 59,
+    "name" : "Junggeburth, Karl Josef",
+    "nation" : "GER",
+    "bib" : "770",
+    "club" : "VfL Engelskirchen Triathlon",
+    "finish" : "03:04:33"
+  }, {
+    "place" : 60,
+    "name" : "Benz, Christian",
+    "nation" : "GER",
+    "bib" : "744",
+    "club" : "Tri-Team Hagen",
+    "finish" : "03:07:21"
+  }, {
+    "place" : 61,
+    "name" : "Newrzella, Nina",
+    "nation" : "GER",
+    "bib" : "754",
+    "club" : "TRIandertaler Mettmann-Sport",
+    "finish" : "03:07:48"
+  }, {
+    "place" : 62,
+    "name" : "Sterzenbach, Birgit",
+    "nation" : "GER",
+    "bib" : "752",
+    "club" : "PSV Bonn Triathlon II",
+    "finish" : "03:12:12"
+  }, {
+    "place" : 63,
+    "name" : "Müller, Wolfgang",
+    "nation" : "GER",
+    "bib" : "715",
+    "club" : "Team TVE Netphen II",
+    "finish" : "03:14:36"
+  }, {
+    "place" : 64,
+    "name" : "Scherberich, Uschi",
+    "nation" : "GER",
+    "bib" : "764",
+    "club" : "Brander SV Tri Team",
+    "finish" : "03:17:57"
+  }, {
+    "place" : 65,
+    "name" : "Köhne, Heinz-Werner",
+    "nation" : "GER",
+    "bib" : "771",
+    "club" : "VfL Engelskirchen Triathlon",
+    "finish" : "03:22:00"
+  }, {
+    "place" : 66,
+    "name" : "Golestan, Jasmin",
+    "nation" : "GER",
+    "bib" : "772",
+    "club" : "VfL Engelskirchen Triathlon",
+    "finish" : "03:41:03"
+  } ]
+}

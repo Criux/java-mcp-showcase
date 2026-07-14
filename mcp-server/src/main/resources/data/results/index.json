@@ -1,0 +1,344 @@
+{
+  "note" : "Results of the Sassenberger Triathlon crawled from mika:timing. 2020 and 2021 are missing because those editions were cancelled (Corona pandemic). Places are per gender (mika:timing convention).",
+  "years" : [ {
+    "year" : 2016,
+    "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2016/",
+    "events" : [ {
+      "code" : "CISM",
+      "name" : "EURO-CISM-CUP",
+      "resultCount" : 46
+    }, {
+      "code" : "KD",
+      "name" : "Kurz-Distanz",
+      "resultCount" : 137
+    }, {
+      "code" : "MGP",
+      "name" : "Münsterland GrandPrix",
+      "resultCount" : 203
+    }, {
+      "code" : "MTC",
+      "name" : "18. Internationaler Militär-Triathlon-Cup",
+      "resultCount" : 61
+    }, {
+      "code" : "NRWK",
+      "name" : "NRW Meisterschaft Kurz-Distanz",
+      "resultCount" : 173
+    }, {
+      "code" : "VD",
+      "name" : "Volks-Distanz",
+      "resultCount" : 425
+    } ]
+  }, {
+    "year" : 2017,
+    "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2017/",
+    "events" : [ {
+      "code" : "KD_0000171D8AEA9C000000003D",
+      "name" : "Kurz-Distanz",
+      "resultCount" : 135
+    }, {
+      "code" : "NL_0000171D8AEA9C000000003D",
+      "name" : "NRW Liga",
+      "resultCount" : 49
+    }, {
+      "code" : "NRWM_0000171D8AEA9C000000003D",
+      "name" : "NRW-Meisterschaft Kurzdistanz",
+      "resultCount" : 234
+    }, {
+      "code" : "OM_0000171D8AEA9C000000003D",
+      "name" : "Oberliga Männer",
+      "resultCount" : 71
+    }, {
+      "code" : "RM_0000171D8AEA9C000000003D",
+      "name" : "Regionalliga Männer",
+      "resultCount" : 71
+    }, {
+      "code" : "SM_0000171D8AEA9C000000003D",
+      "name" : "Seniorenliga Männer",
+      "resultCount" : 87
+    }, {
+      "code" : "SW_0000171D8AEA9C000000003D",
+      "name" : "Seniorenliga Frauen",
+      "resultCount" : 13
+    }, {
+      "code" : "MD_9999991D8AEA9C0000000015",
+      "name" : "Mitteldistanz - Jubiläumsspecial",
+      "resultCount" : 26
+    }, {
+      "code" : "MGP_9999991D8AEA9C0000000015",
+      "name" : "Münsterland GrandPrix",
+      "resultCount" : 175
+    }, {
+      "code" : "MTC_9999991D8AEA9C0000000015",
+      "name" : "19. Internationaler Militär-Triathlon-Cup",
+      "resultCount" : 33
+    }, {
+      "code" : "VD",
+      "name" : "Volks-Distanz",
+      "resultCount" : 467
+    } ]
+  }, {
+    "year" : 2018,
+    "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2018/",
+    "events" : [ {
+      "code" : "MD",
+      "name" : "innogy-Mitteldistanz",
+      "resultCount" : 56
+    }, {
+      "code" : "OL",
+      "name" : "Olympisch (Jedermann)",
+      "resultCount" : 171
+    }, {
+      "code" : "MGP",
+      "name" : "Münsterland GrandPrix",
+      "resultCount" : 144
+    }, {
+      "code" : "NRWK",
+      "name" : "NRW Meisterschaft Kurz",
+      "resultCount" : 248
+    }, {
+      "code" : "MTC",
+      "name" : "20. Internationaler Militär Triathlon Cup",
+      "resultCount" : 40
+    }, {
+      "code" : "VD",
+      "name" : "VolksBank-Distanz",
+      "resultCount" : 442
+    }, {
+      "code" : "VL",
+      "name" : "Verbandsliga Nord",
+      "resultCount" : 60
+    }, {
+      "code" : "ML",
+      "name" : "Masters Liga",
+      "resultCount" : 81
+    }, {
+      "code" : "SM",
+      "name" : "Senioren Liga",
+      "resultCount" : 66
+    }, {
+      "code" : "SW",
+      "name" : "Seniorinnen Liga",
+      "resultCount" : 14
+    }, {
+      "code" : "CISM",
+      "name" : "CISM Euro Cup",
+      "resultCount" : 12
+    }, {
+      "code" : "F3R",
+      "name" : "Staffel Cup",
+      "resultCount" : 30
+    } ]
+  }, {
+    "year" : 2019,
+    "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2019/",
+    "events" : [ {
+      "code" : "MD",
+      "name" : "innogy-Mitteldistanz",
+      "resultCount" : 81
+    }, {
+      "code" : "OL",
+      "name" : "Olympisch (Jedermann)",
+      "resultCount" : 178
+    }, {
+      "code" : "MGP",
+      "name" : "Münsterland GrandPrix",
+      "resultCount" : 177
+    }, {
+      "code" : "NRWK",
+      "name" : "NRW Meisterschaft Kurz",
+      "resultCount" : 224
+    }, {
+      "code" : "MTC",
+      "name" : "21. Internationaler Militär Triathlon Cup",
+      "resultCount" : 28
+    }, {
+      "code" : "VD",
+      "name" : "VolksBank-Distanz",
+      "resultCount" : 420
+    }, {
+      "code" : "ML",
+      "name" : "Masters Liga",
+      "resultCount" : 86
+    }, {
+      "code" : "RM",
+      "name" : "Regionalliga Männer",
+      "resultCount" : 66
+    }, {
+      "code" : "RW",
+      "name" : "Regionalliga Frauen",
+      "resultCount" : 54
+    }, {
+      "code" : "CISM",
+      "name" : "CISM Euro Cup",
+      "resultCount" : 14
+    }, {
+      "code" : "F3R",
+      "name" : "Barmer StaffelCup",
+      "resultCount" : 35
+    } ]
+  }, {
+    "year" : 2022,
+    "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2022/",
+    "events" : [ {
+      "code" : "MD",
+      "name" : "westenergie - Mitteldistanz",
+      "resultCount" : 91
+    }, {
+      "code" : "OL",
+      "name" : "Olympisch (Jedermann)",
+      "resultCount" : 170
+    }, {
+      "code" : "MGP",
+      "name" : "Münsterland GrandPrix",
+      "resultCount" : 107
+    }, {
+      "code" : "MTC",
+      "name" : "23. Internationaler Militär-Triathlon-Cup",
+      "resultCount" : 12
+    }, {
+      "code" : "VD",
+      "name" : "VolksBank-Distanz",
+      "resultCount" : 358
+    }, {
+      "code" : "ML",
+      "name" : "Masters Liga",
+      "resultCount" : 80
+    }, {
+      "code" : "LM",
+      "name" : "Landesliga Mitte",
+      "resultCount" : 75
+    }, {
+      "code" : "RF",
+      "name" : "Regionalliga Frauen",
+      "resultCount" : 50
+    }, {
+      "code" : "F3R",
+      "name" : "StaffelCup",
+      "resultCount" : 30
+    } ]
+  }, {
+    "year" : 2023,
+    "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2023/",
+    "events" : [ {
+      "code" : "MD",
+      "name" : "westenergie - Mitteldistanz",
+      "resultCount" : 94
+    }, {
+      "code" : "OL",
+      "name" : "Olympisch (Jedermann)",
+      "resultCount" : 188
+    }, {
+      "code" : "MGP",
+      "name" : "Münsterland GrandPrix",
+      "resultCount" : 122
+    }, {
+      "code" : "MTC",
+      "name" : "24. Internationaler Militär-Triathlon-Cup",
+      "resultCount" : 16
+    }, {
+      "code" : "CISM",
+      "name" : "CISM Euro Cup",
+      "resultCount" : 16
+    }, {
+      "code" : "VD",
+      "name" : "VolksBank-Distanz",
+      "resultCount" : 384
+    }, {
+      "code" : "SL",
+      "name" : "Senioren Liga",
+      "resultCount" : 62
+    }, {
+      "code" : "VLM",
+      "name" : "Verbandsliga Mitte",
+      "resultCount" : 53
+    }, {
+      "code" : "VLN",
+      "name" : "Verbandsliga Nord",
+      "resultCount" : 60
+    }, {
+      "code" : "F3R",
+      "name" : "Strohbücker StaffelCup",
+      "resultCount" : 38
+    } ]
+  }, {
+    "year" : 2024,
+    "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2024/",
+    "events" : [ {
+      "code" : "MD",
+      "name" : "westenergie - Mitteldistanz",
+      "resultCount" : 131
+    }, {
+      "code" : "OL",
+      "name" : "Olympisch (Jedermann)",
+      "resultCount" : 243
+    }, {
+      "code" : "MGP",
+      "name" : "Münsterland GrandPrix",
+      "resultCount" : 152
+    }, {
+      "code" : "MTC",
+      "name" : "25. Internationaler Militär-Triathlon-Cup",
+      "resultCount" : 22
+    }, {
+      "code" : "CISM",
+      "name" : "CISM Euro Cup",
+      "resultCount" : 50
+    }, {
+      "code" : "VD",
+      "name" : "VolksBank-Distanz",
+      "resultCount" : 407
+    }, {
+      "code" : "VLM",
+      "name" : "Verbandsliga Mitte",
+      "resultCount" : 58
+    }, {
+      "code" : "VLN",
+      "name" : "Verbandsliga Nord",
+      "resultCount" : 55
+    }, {
+      "code" : "F3R",
+      "name" : "Strohbücker StaffelCup",
+      "resultCount" : 53
+    } ]
+  }, {
+    "year" : 2025,
+    "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2025/",
+    "events" : [ {
+      "code" : "MD",
+      "name" : "westenergie - Mitteldistanz",
+      "resultCount" : 142
+    }, {
+      "code" : "OL",
+      "name" : "Olympisch (Jedermann)",
+      "resultCount" : 248
+    }, {
+      "code" : "MGP",
+      "name" : "Münsterland GrandPrix",
+      "resultCount" : 186
+    }, {
+      "code" : "MTC",
+      "name" : "26. Internationaler Militär-Triathlon-Cup",
+      "resultCount" : 19
+    }, {
+      "code" : "CISM",
+      "name" : "CISM Euro Cup",
+      "resultCount" : 27
+    }, {
+      "code" : "VD",
+      "name" : "VolksBank-Distanz",
+      "resultCount" : 483
+    }, {
+      "code" : "SL",
+      "name" : "Senioren Liga",
+      "resultCount" : 64
+    }, {
+      "code" : "LL",
+      "name" : "Landeslige Nord",
+      "resultCount" : 82
+    }, {
+      "code" : "F3R",
+      "name" : "Strohbücker StaffelCup",
+      "resultCount" : 56
+    } ]
+  } ]
+}

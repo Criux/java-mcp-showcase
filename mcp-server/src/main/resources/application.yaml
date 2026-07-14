@@ -1,0 +1,23 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: mcp-server
+  freemarker:
+    suffix: .ftlh
+  ai:
+    mcp:
+      server:
+        name: sassenberger-triathlon-mcp
+        version: 1.0.0
+        type: SYNC
+        protocol: STREAMABLE
+        instructions: >-
+          Tools for questions about the Sassenberger Triathlon in Sassenberg, Germany:
+          event information, registration, race distances, schedule, courses and
+          past results (2016-2025). Facts are in German; race day is 2026-08-02.
+
+logging:
+  level:
+    io.modelcontextprotocol: INFO

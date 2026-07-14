@@ -1,0 +1,128 @@
+{
+  "year" : 2022,
+  "eventCode" : "F3R",
+  "eventName" : "StaffelCup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2022/",
+  "resultCount" : 30,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Dopazi Racingteam",
+    "finish" : "01:02:00"
+  }, {
+    "place" : 2,
+    "name" : "Triathlon Tag Team GT",
+    "finish" : "01:11:31"
+  }, {
+    "place" : 3,
+    "name" : "Tri Tornados M-P-J",
+    "finish" : "01:15:23"
+  }, {
+    "place" : 4,
+    "name" : "Teamname",
+    "finish" : "01:17:31"
+  }, {
+    "place" : 5,
+    "name" : "Volksbank-Triple",
+    "finish" : "01:20:41"
+  }, {
+    "place" : 6,
+    "name" : "Die sündigen Söhne",
+    "finish" : "01:21:02"
+  }, {
+    "place" : 7,
+    "name" : "Gegen Uns Hätten wir auch gewonnen",
+    "finish" : "01:21:41"
+  }, {
+    "place" : 8,
+    "name" : "Armanis Lieblinge 2",
+    "finish" : "01:24:39"
+  }, {
+    "place" : 9,
+    "name" : "Einfach So",
+    "finish" : "01:26:05"
+  }, {
+    "place" : 10,
+    "name" : "Team Scheller",
+    "finish" : "01:26:25"
+  }, {
+    "place" : 11,
+    "name" : "Tofu Transformers",
+    "finish" : "01:26:52"
+  }, {
+    "place" : 12,
+    "name" : "Das A-Team",
+    "finish" : "01:27:06"
+  }, {
+    "place" : 13,
+    "name" : "Biene Maja Für Angelika",
+    "finish" : "01:27:31"
+  }, {
+    "place" : 14,
+    "name" : "Berief Power Team",
+    "finish" : "01:28:15"
+  }, {
+    "place" : 15,
+    "name" : "Rookies",
+    "finish" : "01:29:24"
+  }, {
+    "place" : 16,
+    "name" : "Mannis Fans",
+    "finish" : "01:29:34"
+  }, {
+    "place" : 17,
+    "name" : "Das GPA-Team",
+    "finish" : "01:30:29"
+  }, {
+    "place" : 18,
+    "name" : "der Jo-Jo-Effekt",
+    "finish" : "01:32:09"
+  }, {
+    "place" : 19,
+    "name" : "Tick, Trick und Track",
+    "finish" : "01:33:17"
+  }, {
+    "place" : 20,
+    "name" : "Lg Burg Wiedenbrück",
+    "finish" : "01:33:47"
+  }, {
+    "place" : 21,
+    "name" : "Der Schöne und die Biester",
+    "finish" : "01:35:59"
+  }, {
+    "place" : 22,
+    "name" : "Veggy Connection",
+    "finish" : "01:36:27"
+  }, {
+    "place" : 23,
+    "name" : "Die Letzten Drei Gehirnzellen",
+    "finish" : "01:36:41"
+  }, {
+    "place" : 24,
+    "name" : "Franken-Express",
+    "finish" : "01:36:46"
+  }, {
+    "place" : 25,
+    "name" : "Sv Blau-Weiß Bochum",
+    "finish" : "01:39:36"
+  }, {
+    "place" : 26,
+    "name" : "Reanma",
+    "finish" : "01:42:03"
+  }, {
+    "place" : 27,
+    "name" : "Las Tres Hermanas",
+    "finish" : "01:42:13"
+  }, {
+    "place" : 28,
+    "name" : "Team Ünsi",
+    "finish" : "01:43:05"
+  }, {
+    "place" : 29,
+    "name" : "Tofu Tri Team",
+    "finish" : "01:47:15"
+  }, {
+    "place" : 30,
+    "name" : "Armanis Lieblinge 1",
+    "finish" : "01:47:19"
+  } ]
+}

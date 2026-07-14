@@ -1,0 +1,358 @@
+{
+  "year" : 2024,
+  "eventCode" : "CISM",
+  "eventName" : "CISM Euro Cup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2024/",
+  "resultCount" : 50,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Moine, Casimir",
+    "nation" : "FRA",
+    "bib" : "2915",
+    "club" : "France",
+    "finish" : "01:59:42"
+  }, {
+    "place" : 1,
+    "name" : "Merle, Celia",
+    "nation" : "FRA",
+    "bib" : "2914",
+    "club" : "France",
+    "finish" : "02:18:20"
+  }, {
+    "place" : 2,
+    "name" : "Berland, Arthur",
+    "nation" : "FRA",
+    "bib" : "2908",
+    "club" : "France",
+    "finish" : "02:00:17"
+  }, {
+    "place" : 2,
+    "name" : "Foltz, Appoline",
+    "nation" : "FRA",
+    "bib" : "2912",
+    "club" : "France",
+    "finish" : "02:21:57"
+  }, {
+    "place" : 3,
+    "name" : "Pierre, Boris",
+    "nation" : "FRA",
+    "bib" : "2916",
+    "club" : "France",
+    "finish" : "02:00:36"
+  }, {
+    "place" : 3,
+    "name" : "Medne, Baiba",
+    "nation" : "LAT",
+    "bib" : "2950",
+    "club" : "Latvia",
+    "finish" : "02:25:52"
+  }, {
+    "place" : 4,
+    "name" : "Dammekens, Mandy",
+    "nation" : "BEL",
+    "bib" : "2901",
+    "club" : "Belgium",
+    "finish" : "02:27:46"
+  }, {
+    "place" : 4,
+    "name" : "Klinder, Markus",
+    "nation" : "GER",
+    "bib" : "2920",
+    "club" : "Germany",
+    "finish" : "02:06:23"
+  }, {
+    "place" : 5,
+    "name" : "Riou, Morgane",
+    "nation" : "FRA",
+    "bib" : "2917",
+    "club" : "France",
+    "finish" : "02:28:42"
+  }, {
+    "place" : 5,
+    "name" : "Boulch, Bertrand",
+    "nation" : "FRA",
+    "bib" : "2909",
+    "club" : "France",
+    "finish" : "02:08:11"
+  }, {
+    "place" : 6,
+    "name" : "Alonso Sanchez, Isidro",
+    "nation" : "ESP",
+    "bib" : "2940",
+    "club" : "Spain",
+    "finish" : "02:08:18"
+  }, {
+    "place" : 6,
+    "name" : "Quintana Roman, Alma",
+    "nation" : "ESP",
+    "bib" : "2943",
+    "club" : "Spain",
+    "finish" : "02:29:44"
+  }, {
+    "place" : 7,
+    "name" : "Pastor Sopelana, Loreto",
+    "nation" : "ESP",
+    "bib" : "2942",
+    "club" : "Spain",
+    "finish" : "02:30:33"
+  }, {
+    "place" : 7,
+    "name" : "De Hertog, Kjel",
+    "nation" : "BEL",
+    "bib" : "2902",
+    "club" : "Belgium",
+    "finish" : "02:08:21"
+  }, {
+    "place" : 8,
+    "name" : "Sanchez-Sanchez, Patricia",
+    "nation" : "GER",
+    "bib" : "2923",
+    "club" : "Germany",
+    "finish" : "02:31:06"
+  }, {
+    "place" : 8,
+    "name" : "Kovacic, Jaroslav",
+    "nation" : "SLO",
+    "bib" : "2935",
+    "club" : "Slovenia",
+    "finish" : "02:08:33"
+  }, {
+    "place" : 9,
+    "name" : "Vieitez Porto, Ismael",
+    "nation" : "ESP",
+    "bib" : "2947",
+    "club" : "Spain",
+    "finish" : "02:09:21"
+  }, {
+    "place" : 9,
+    "name" : "Stösser, Kerstin",
+    "nation" : "GER",
+    "bib" : "2925",
+    "club" : "Germany",
+    "finish" : "02:31:55"
+  }, {
+    "place" : 10,
+    "name" : "Petelinšek, Amadej",
+    "nation" : "SLO",
+    "bib" : "2936",
+    "club" : "Slovenia",
+    "finish" : "02:09:30"
+  }, {
+    "place" : 10,
+    "name" : "Bourgeoisat, Alice",
+    "nation" : "FRA",
+    "bib" : "2910",
+    "club" : "France",
+    "finish" : "02:35:50"
+  }, {
+    "place" : 11,
+    "name" : "Denolf, Ward",
+    "nation" : "BEL",
+    "bib" : "2903",
+    "club" : "Belgium",
+    "finish" : "02:09:46"
+  }, {
+    "place" : 11,
+    "name" : "Sancho Jimenez, Elena",
+    "nation" : "ESP",
+    "bib" : "2945",
+    "club" : "Spain",
+    "finish" : "02:35:51"
+  }, {
+    "place" : 12,
+    "name" : "Sacas Sanchez, Agueda",
+    "nation" : "ESP",
+    "bib" : "2944",
+    "club" : "Spain",
+    "finish" : "02:36:37"
+  }, {
+    "place" : 12,
+    "name" : "van der Zee, Thijs",
+    "nation" : "NED",
+    "bib" : "2934",
+    "club" : "Netherlands",
+    "finish" : "02:10:33"
+  }, {
+    "place" : 13,
+    "name" : "Pulido Garcia, Jesus",
+    "nation" : "ESP",
+    "bib" : "2911",
+    "club" : "Spain",
+    "finish" : "02:10:47"
+  }, {
+    "place" : 13,
+    "name" : "Voorhout, Marloes",
+    "nation" : "NED",
+    "bib" : "2933",
+    "club" : "Netherlands",
+    "finish" : "02:36:57"
+  }, {
+    "place" : 14,
+    "name" : "Ozola, Lasma",
+    "nation" : "LAT",
+    "bib" : "2951",
+    "club" : "Latvia",
+    "finish" : "02:40:05"
+  }, {
+    "place" : 14,
+    "name" : "Gonnet, Julien",
+    "nation" : "FRA",
+    "bib" : "2913",
+    "club" : "France",
+    "finish" : "02:11:03"
+  }, {
+    "place" : 15,
+    "name" : "Domínguez Garcia, Nicolas",
+    "nation" : "ESP",
+    "bib" : "2941",
+    "club" : "Spain",
+    "finish" : "02:11:19"
+  }, {
+    "place" : 15,
+    "name" : "Agustin Artigas, Patricia",
+    "nation" : "ESP",
+    "bib" : "2939",
+    "club" : "Spain",
+    "finish" : "02:40:29"
+  }, {
+    "place" : 16,
+    "name" : "Timmermans, Pascal",
+    "nation" : "NED",
+    "bib" : "2932",
+    "club" : "Netherlands",
+    "finish" : "02:11:57"
+  }, {
+    "place" : 16,
+    "name" : "Timmermans, Emese",
+    "nation" : "NED",
+    "bib" : "2931",
+    "club" : "Netherlands",
+    "finish" : "02:41:38"
+  }, {
+    "place" : 17,
+    "name" : "Sobrino Sierra, Sergio",
+    "nation" : "ESP",
+    "bib" : "2946",
+    "club" : "Spain",
+    "finish" : "02:12:20"
+  }, {
+    "place" : 17,
+    "name" : "Wens, Greet",
+    "nation" : "BEL",
+    "bib" : "2907",
+    "club" : "Belgium",
+    "finish" : "02:45:57"
+  }, {
+    "place" : 18,
+    "name" : "Schöps, Franz",
+    "nation" : "GER",
+    "bib" : "2924",
+    "club" : "Germany",
+    "finish" : "02:12:21"
+  }, {
+    "place" : 18,
+    "name" : "Treinzen, Melanie",
+    "nation" : "GER",
+    "bib" : "2926",
+    "club" : "Germany",
+    "finish" : "02:55:15"
+  }, {
+    "place" : 19,
+    "name" : "Bernar, Gunther",
+    "nation" : "BEL",
+    "bib" : "2900",
+    "club" : "Belgium",
+    "finish" : "02:15:09"
+  }, {
+    "place" : 19,
+    "name" : "Jacobs, Marieke",
+    "nation" : "NED",
+    "bib" : "2929",
+    "club" : "Netherlands",
+    "finish" : "02:56:15"
+  }, {
+    "place" : 20,
+    "name" : "Penne, Pieterjan",
+    "nation" : "BEL",
+    "bib" : "2905",
+    "club" : "Belgium",
+    "finish" : "02:15:40"
+  }, {
+    "place" : 21,
+    "name" : "Remmele, Friedrich",
+    "nation" : "GER",
+    "bib" : "2921",
+    "club" : "Germany",
+    "finish" : "02:16:21"
+  }, {
+    "place" : 22,
+    "name" : "Vandebrouk, Geoffrey",
+    "nation" : "BEL",
+    "bib" : "2906",
+    "club" : "Belgium",
+    "finish" : "02:18:16"
+  }, {
+    "place" : 23,
+    "name" : "Boelen, Marcel",
+    "nation" : "NED",
+    "bib" : "2927",
+    "club" : "Netherlands",
+    "finish" : "02:18:20"
+  }, {
+    "place" : 24,
+    "name" : "Vidovskis, Oskars",
+    "nation" : "LAT",
+    "bib" : "2952",
+    "club" : "Latvia",
+    "finish" : "02:19:18"
+  }, {
+    "place" : 25,
+    "name" : "Šika, Sandris",
+    "nation" : "LAT",
+    "bib" : "2949",
+    "club" : "Latvia",
+    "finish" : "02:19:40"
+  }, {
+    "place" : 26,
+    "name" : "Krügener, Frank",
+    "nation" : "GER",
+    "bib" : "2919",
+    "club" : "Germany",
+    "finish" : "02:19:47"
+  }, {
+    "place" : 27,
+    "name" : "Hartmann, Steve",
+    "nation" : "GER",
+    "bib" : "2918",
+    "club" : "Germany",
+    "finish" : "02:20:39"
+  }, {
+    "place" : 28,
+    "name" : "Impens, Nicolas",
+    "nation" : "BEL",
+    "bib" : "2904",
+    "club" : "Belgium",
+    "finish" : "02:21:30"
+  }, {
+    "place" : 29,
+    "name" : "Žigarkovs, Viktors",
+    "nation" : "LAT",
+    "bib" : "2948",
+    "club" : "Latvia",
+    "finish" : "02:22:01"
+  }, {
+    "place" : 30,
+    "name" : "Cornelisz, Michael",
+    "nation" : "NED",
+    "bib" : "2928",
+    "club" : "Netherlands",
+    "finish" : "02:23:19"
+  }, {
+    "place" : 31,
+    "name" : "Sajevec, Peter",
+    "nation" : "SLO",
+    "bib" : "2937",
+    "club" : "Slovenia",
+    "finish" : "02:25:37"
+  } ]
+}

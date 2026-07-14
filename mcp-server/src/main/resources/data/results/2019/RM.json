@@ -1,0 +1,470 @@
+{
+  "year" : 2019,
+  "eventCode" : "RM",
+  "eventName" : "Regionalliga Männer",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2019/",
+  "resultCount" : 66,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Schmidtbauer, Florian",
+    "nation" : "GER",
+    "bib" : "224",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "finish" : "02:11:17"
+  }, {
+    "place" : 2,
+    "name" : "Reeschke, Roman",
+    "nation" : "GER",
+    "bib" : "201",
+    "club" : "1.Tri-Club Paderborn",
+    "finish" : "02:12:00"
+  }, {
+    "place" : 3,
+    "name" : "Jablonski, Kamil",
+    "nation" : "GER",
+    "bib" : "259",
+    "club" : "TV Werne 03 Wasserfreunde e.V.",
+    "finish" : "02:12:15"
+  }, {
+    "place" : 4,
+    "name" : "Bitschinski, Kai",
+    "nation" : "GER",
+    "bib" : "252",
+    "club" : "Triathlon Team Rheinberg I",
+    "finish" : "02:12:27"
+  }, {
+    "place" : 5,
+    "name" : "Esser, Olivier",
+    "nation" : "BEL",
+    "bib" : "214",
+    "club" : "Brander SV Tri Team I",
+    "finish" : "02:12:57"
+  }, {
+    "place" : 6,
+    "name" : "Hallebach, Tobias",
+    "nation" : "GER",
+    "bib" : "256",
+    "club" : "Starlight Team Essen",
+    "finish" : "02:13:05"
+  }, {
+    "place" : 7,
+    "name" : "Cramer, Michael",
+    "nation" : "GER",
+    "bib" : "217",
+    "club" : "DLC Aachen III",
+    "finish" : "02:13:18"
+  }, {
+    "place" : 8,
+    "name" : "Raulf, Stefan",
+    "nation" : "GER",
+    "bib" : "271",
+    "club" : "LV Tristar Oelde",
+    "finish" : "02:14:07"
+  }, {
+    "place" : 9,
+    "name" : "Hackenbruch, Yves",
+    "nation" : "GER",
+    "bib" : "218",
+    "club" : "DLC Aachen III",
+    "finish" : "02:14:23"
+  }, {
+    "place" : 10,
+    "name" : "van Gulik, Tom",
+    "nation" : "GER",
+    "bib" : "236",
+    "club" : "TV Hülsenbusch I",
+    "finish" : "02:16:00"
+  }, {
+    "place" : 11,
+    "name" : "Elskamp, Gregor",
+    "nation" : "GER",
+    "bib" : "205",
+    "club" : "ASV Köln I",
+    "finish" : "02:16:06"
+  }, {
+    "place" : 12,
+    "name" : "Elshorst, Simon",
+    "nation" : "GER",
+    "bib" : "221",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "finish" : "02:16:18"
+  }, {
+    "place" : 13,
+    "name" : "Schulte, Thomas",
+    "nation" : "GER",
+    "bib" : "219",
+    "club" : "DLC Aachen III",
+    "finish" : "02:16:18"
+  }, {
+    "place" : 14,
+    "name" : "Wienken, Maximilian",
+    "nation" : "GER",
+    "bib" : "263",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:16:56"
+  }, {
+    "place" : 15,
+    "name" : "Jobb, Benedikt",
+    "nation" : "GER",
+    "bib" : "227",
+    "club" : "TuS Xanten",
+    "finish" : "02:17:07"
+  }, {
+    "place" : 16,
+    "name" : "Smyrek, David",
+    "nation" : "GER",
+    "bib" : "239",
+    "club" : "Tri Sport Team Verl",
+    "finish" : "02:17:19"
+  }, {
+    "place" : 17,
+    "name" : "Concha, Fernando",
+    "nation" : "ESP",
+    "bib" : "250",
+    "club" : "Triathlon Team Rheinberg I",
+    "finish" : "02:17:43"
+  }, {
+    "place" : 18,
+    "name" : "Welsch, Rüdiger",
+    "nation" : "GER",
+    "bib" : "261",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:17:49"
+  }, {
+    "place" : 19,
+    "name" : "Bartkowiak, Jens",
+    "nation" : "GER",
+    "bib" : "253",
+    "club" : "Starlight Team Essen",
+    "finish" : "02:17:50"
+  }, {
+    "place" : 20,
+    "name" : "Lohmann, Peter",
+    "nation" : "GER",
+    "bib" : "246",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "finish" : "02:18:30"
+  }, {
+    "place" : 21,
+    "name" : "Nieberg, Sebastian",
+    "nation" : "GER",
+    "bib" : "260",
+    "club" : "TV Werne 03 Wasserfreunde e.V.",
+    "finish" : "02:18:33"
+  }, {
+    "place" : 22,
+    "name" : "Zoll, Frieder",
+    "nation" : "GER",
+    "bib" : "233",
+    "club" : "TV Hülsenbusch I",
+    "finish" : "02:19:08"
+  }, {
+    "place" : 23,
+    "name" : "Nöthling, Thorsten",
+    "nation" : "GER",
+    "bib" : "237",
+    "club" : "Tri Sport Team Verl",
+    "finish" : "02:19:13"
+  }, {
+    "place" : 24,
+    "name" : "Selker, Torsten",
+    "nation" : "GER",
+    "bib" : "240",
+    "club" : "Tri Sport Team Verl",
+    "finish" : "02:19:36"
+  }, {
+    "place" : 25,
+    "name" : "Günnigmann, Stefan",
+    "nation" : "GER",
+    "bib" : "209",
+    "club" : "WEICON Tri Finish Münster III",
+    "finish" : "02:19:47"
+  }, {
+    "place" : 26,
+    "name" : "Gajewski, Merlin",
+    "nation" : "GER",
+    "bib" : "245",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "finish" : "02:20:13"
+  }, {
+    "place" : 27,
+    "name" : "Bruns, Malte",
+    "nation" : "GER",
+    "bib" : "202",
+    "club" : "1.Tri-Club Paderborn",
+    "finish" : "02:20:16"
+  }, {
+    "place" : 28,
+    "name" : "Klute, Marcel",
+    "nation" : "GER",
+    "bib" : "210",
+    "club" : "WEICON Tri Finish Münster III",
+    "finish" : "02:20:17"
+  }, {
+    "place" : 29,
+    "name" : "Geimer, Christian",
+    "nation" : "GER",
+    "bib" : "222",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "finish" : "02:20:42"
+  }, {
+    "place" : 30,
+    "name" : "Elskamp, Matthias",
+    "nation" : "GER",
+    "bib" : "206",
+    "club" : "ASV Köln I",
+    "finish" : "02:20:47"
+  }, {
+    "place" : 31,
+    "name" : "Gobrecht, Friedemann",
+    "nation" : "GER",
+    "bib" : "262",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:20:50"
+  }, {
+    "place" : 32,
+    "name" : "Borgmann, Achim",
+    "nation" : "GER",
+    "bib" : "216",
+    "club" : "Brander SV Tri Team I",
+    "finish" : "02:21:14"
+  }, {
+    "place" : 33,
+    "name" : "Rengelink, Stephan",
+    "nation" : "GER",
+    "bib" : "258",
+    "club" : "TV Werne 03 Wasserfreunde e.V.",
+    "finish" : "02:21:48"
+  }, {
+    "place" : 34,
+    "name" : "Kiene, Nils",
+    "nation" : "GER",
+    "bib" : "204",
+    "club" : "1.Tri-Club Paderborn",
+    "finish" : "02:22:01"
+  }, {
+    "place" : 35,
+    "name" : "Kootstra, Niclas",
+    "nation" : "NED",
+    "bib" : "228",
+    "club" : "TuS Xanten",
+    "finish" : "02:22:09"
+  }, {
+    "place" : 36,
+    "name" : "Schürmann, Ingo",
+    "nation" : "GER",
+    "bib" : "225",
+    "club" : "TuS Xanten",
+    "finish" : "02:22:12"
+  }, {
+    "place" : 37,
+    "name" : "Vogel, Detlef",
+    "nation" : "GER",
+    "bib" : "241",
+    "club" : "Pulheimer SC",
+    "finish" : "02:22:59"
+  }, {
+    "place" : 38,
+    "name" : "Knauff, Marcel",
+    "nation" : "GER",
+    "bib" : "249",
+    "club" : "Triathlon Team Rheinberg I",
+    "finish" : "02:23:14"
+  }, {
+    "place" : 39,
+    "name" : "Bröhenhorst, Malte",
+    "nation" : "GER",
+    "bib" : "266",
+    "club" : "SC Aquarius Löhne I",
+    "finish" : "02:23:18"
+  }, {
+    "place" : 40,
+    "name" : "Hochheim, Matthias",
+    "nation" : "GER",
+    "bib" : "207",
+    "club" : "ASV Köln I",
+    "finish" : "02:23:25"
+  }, {
+    "place" : 41,
+    "name" : "Ifang, Malte",
+    "nation" : "GER",
+    "bib" : "264",
+    "club" : "TuS Breitscheid",
+    "finish" : "02:23:41"
+  }, {
+    "place" : 42,
+    "name" : "Wolf, Alexander",
+    "nation" : "NED",
+    "bib" : "213",
+    "club" : "Brander SV Tri Team I",
+    "finish" : "02:23:56"
+  }, {
+    "place" : 43,
+    "name" : "Simm, Hendrik",
+    "nation" : "GER",
+    "bib" : "272",
+    "club" : "LV Tristar Oelde",
+    "finish" : "02:24:17"
+  }, {
+    "place" : 44,
+    "name" : "Schnell, Uwe",
+    "nation" : "GER",
+    "bib" : "238",
+    "club" : "Tri Sport Team Verl",
+    "finish" : "02:24:48"
+  }, {
+    "place" : 45,
+    "name" : "Donnermeyer, Julian",
+    "nation" : "GER",
+    "bib" : "211",
+    "club" : "WEICON Tri Finish Münster III",
+    "finish" : "02:25:34"
+  }, {
+    "place" : 46,
+    "name" : "Mohrmann, Niko",
+    "nation" : "GER",
+    "bib" : "265",
+    "club" : "SC Aquarius Löhne I",
+    "finish" : "02:25:40"
+  }, {
+    "place" : 47,
+    "name" : "Müller, Thomas",
+    "nation" : "GER",
+    "bib" : "226",
+    "club" : "TuS Xanten",
+    "finish" : "02:26:12"
+  }, {
+    "place" : 48,
+    "name" : "Rudolph, David",
+    "nation" : "GER",
+    "bib" : "234",
+    "club" : "TV Hülsenbusch I",
+    "finish" : "02:26:15"
+  }, {
+    "place" : 49,
+    "name" : "Karwinkel, Helmut",
+    "nation" : "GER",
+    "bib" : "269",
+    "club" : "LV Tristar Oelde",
+    "finish" : "02:26:19"
+  }, {
+    "place" : 50,
+    "name" : "Meene, Florian",
+    "nation" : "GER",
+    "bib" : "203",
+    "club" : "1.Tri-Club Paderborn",
+    "finish" : "02:26:25"
+  }, {
+    "place" : 51,
+    "name" : "Raatz, Marcus",
+    "nation" : "GER",
+    "bib" : "235",
+    "club" : "TV Hülsenbusch I",
+    "finish" : "02:26:44"
+  }, {
+    "place" : 52,
+    "name" : "Heuwerth, Matthias",
+    "nation" : "GER",
+    "bib" : "208",
+    "club" : "ASV Köln I",
+    "finish" : "02:27:14"
+  }, {
+    "place" : 53,
+    "name" : "Neuhörl, Udo",
+    "nation" : "GER",
+    "bib" : "255",
+    "club" : "Starlight Team Essen",
+    "finish" : "02:27:14"
+  }, {
+    "place" : 54,
+    "name" : "Panknin, Alexander",
+    "nation" : "GER",
+    "bib" : "251",
+    "club" : "Triathlon Team Rheinberg I",
+    "finish" : "02:27:24"
+  }, {
+    "place" : 55,
+    "name" : "Dickerboom, Yannik",
+    "nation" : "GER",
+    "bib" : "254",
+    "club" : "Starlight Team Essen",
+    "finish" : "02:28:28"
+  }, {
+    "place" : 56,
+    "name" : "Kreitner, Jan",
+    "nation" : "GER",
+    "bib" : "223",
+    "club" : "Kölner Triathlon Team 01 IV",
+    "finish" : "02:28:50"
+  }, {
+    "place" : 57,
+    "name" : "König, Dirk",
+    "nation" : "GER",
+    "bib" : "268",
+    "club" : "SC Aquarius Löhne I",
+    "finish" : "02:29:05"
+  }, {
+    "place" : 58,
+    "name" : "Koch, Christian",
+    "nation" : "GER",
+    "bib" : "270",
+    "club" : "LV Tristar Oelde",
+    "finish" : "02:30:43"
+  }, {
+    "place" : 59,
+    "name" : "Assmann, Manfred",
+    "nation" : "GER",
+    "bib" : "248",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "finish" : "02:33:10"
+  }, {
+    "place" : 60,
+    "name" : "Nadrowski, Bernfried",
+    "nation" : "GER",
+    "bib" : "247",
+    "club" : "SC Bayer 05 Uerdingen III",
+    "finish" : "02:33:51"
+  }, {
+    "place" : 61,
+    "name" : "Radstaak, Frank",
+    "nation" : "GER",
+    "bib" : "212",
+    "club" : "WEICON Tri Finish Münster III",
+    "finish" : "02:34:35"
+  }, {
+    "place" : 62,
+    "name" : "Trenn, Matthias",
+    "nation" : "GER",
+    "bib" : "220",
+    "club" : "DLC Aachen III",
+    "finish" : "02:37:06"
+  }, {
+    "place" : 63,
+    "name" : "Kloss, Mehmet",
+    "nation" : "GER",
+    "bib" : "243",
+    "club" : "Pulheimer SC",
+    "finish" : "02:39:27"
+  }, {
+    "place" : 64,
+    "name" : "Kaiser, Jörn",
+    "nation" : "GER",
+    "bib" : "244",
+    "club" : "Pulheimer SC",
+    "finish" : "02:40:33"
+  }, {
+    "place" : 65,
+    "name" : "Schmalhorst, Hendrik Marcell",
+    "nation" : "GER",
+    "bib" : "267",
+    "club" : "SC Aquarius Löhne I",
+    "finish" : "02:42:22"
+  }, {
+    "place" : 66,
+    "name" : "Trautmann, Andreas",
+    "nation" : "GER",
+    "bib" : "215",
+    "club" : "Brander SV Tri Team I",
+    "finish" : "02:58:14"
+  } ]
+}

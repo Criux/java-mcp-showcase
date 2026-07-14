@@ -1,0 +1,190 @@
+{
+  "year" : 2024,
+  "eventCode" : "MTC",
+  "eventName" : "25. Internationaler Militär-Triathlon-Cup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2024/",
+  "resultCount" : 22,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Klinder, Markus",
+    "nation" : "GER",
+    "bib" : "2920",
+    "club" : "Germany",
+    "finish" : "02:06:23"
+  }, {
+    "place" : 1,
+    "name" : "Sanchez-Sanchez, Patricia",
+    "nation" : "GER",
+    "bib" : "2923",
+    "club" : "Germany",
+    "finish" : "02:31:06"
+  }, {
+    "place" : 2,
+    "name" : "Schöps, Franz",
+    "nation" : "GER",
+    "bib" : "2924",
+    "club" : "Germany",
+    "finish" : "02:12:21"
+  }, {
+    "place" : 2,
+    "name" : "Stösser, Kerstin",
+    "nation" : "GER",
+    "bib" : "2925",
+    "club" : "Germany",
+    "finish" : "02:31:55"
+  }, {
+    "place" : 3,
+    "agePlace" : 1,
+    "name" : "Last, Maurice",
+    "nation" : "GER",
+    "bib" : "2810",
+    "ageGroup" : "20",
+    "club" : "Hsu-Triathlon Ag",
+    "finish" : "02:16:18"
+  }, {
+    "place" : 3,
+    "name" : "Treinzen, Melanie",
+    "nation" : "GER",
+    "bib" : "2926",
+    "club" : "Germany",
+    "finish" : "02:55:15"
+  }, {
+    "place" : 4,
+    "name" : "Remmele, Friedrich",
+    "nation" : "GER",
+    "bib" : "2921",
+    "club" : "Germany",
+    "finish" : "02:16:21"
+  }, {
+    "place" : 5,
+    "agePlace" : 1,
+    "name" : "Zogmann, Florian",
+    "nation" : "GER",
+    "bib" : "2811",
+    "ageGroup" : "30",
+    "club" : "Hsu-Triathlon Ag",
+    "finish" : "02:16:47"
+  }, {
+    "place" : 6,
+    "name" : "Krügener, Frank",
+    "nation" : "GER",
+    "bib" : "2919",
+    "club" : "Germany",
+    "finish" : "02:19:47"
+  }, {
+    "place" : 7,
+    "name" : "Hartmann, Steve",
+    "nation" : "GER",
+    "bib" : "2918",
+    "club" : "Germany",
+    "finish" : "02:20:39"
+  }, {
+    "place" : 8,
+    "agePlace" : 1,
+    "name" : "Bogott, Lars",
+    "nation" : "GER",
+    "bib" : "2806",
+    "ageGroup" : "50",
+    "club" : "Kdo RegSanUstg",
+    "finish" : "02:24:21"
+  }, {
+    "place" : 9,
+    "agePlace" : 1,
+    "name" : "Hansmann, Filipp",
+    "nation" : "GER",
+    "bib" : "2812",
+    "ageGroup" : "25",
+    "club" : "Hsu-Triathlon Ag",
+    "finish" : "02:28:19"
+  }, {
+    "place" : 10,
+    "agePlace" : 1,
+    "name" : "Diebold, Dennis",
+    "nation" : "GER",
+    "bib" : "2801",
+    "ageGroup" : "35",
+    "club" : "Baainbw",
+    "finish" : "02:34:37"
+  }, {
+    "place" : 11,
+    "agePlace" : 1,
+    "name" : "Franke, Hans Ulrich",
+    "nation" : "GER",
+    "bib" : "2800",
+    "ageGroup" : "55",
+    "club" : "1 PzDiv",
+    "finish" : "02:36:09"
+  }, {
+    "place" : 12,
+    "agePlace" : 2,
+    "name" : "Mann, Jan Erik",
+    "nation" : "GER",
+    "bib" : "2813",
+    "ageGroup" : "25",
+    "club" : "Hsu-Triathlon Ag",
+    "finish" : "02:36:17"
+  }, {
+    "place" : 13,
+    "agePlace" : 2,
+    "name" : "Busse, Sebastian",
+    "nation" : "GER",
+    "bib" : "2809",
+    "ageGroup" : "35",
+    "club" : "Heeresmusikkorps Neubrandenburg",
+    "finish" : "02:39:31"
+  }, {
+    "place" : 14,
+    "agePlace" : 1,
+    "name" : "Reidl, Stefan",
+    "nation" : "GER",
+    "bib" : "2802",
+    "ageGroup" : "45",
+    "club" : "Kdo Sandstbw",
+    "finish" : "02:46:03"
+  }, {
+    "place" : 15,
+    "agePlace" : 3,
+    "name" : "Schneemann, Fabian",
+    "nation" : "GER",
+    "bib" : "2814",
+    "ageGroup" : "35",
+    "club" : "Bapersbw V Sz Süd",
+    "finish" : "02:48:48"
+  }, {
+    "place" : 16,
+    "agePlace" : 2,
+    "name" : "Wolf, Sebastian",
+    "nation" : "GER",
+    "bib" : "2807",
+    "ageGroup" : "30",
+    "club" : "Baainbw",
+    "finish" : "02:49:57"
+  }, {
+    "place" : 17,
+    "agePlace" : 3,
+    "name" : "Lustig, Andreas",
+    "nation" : "GER",
+    "bib" : "2804",
+    "ageGroup" : "30",
+    "club" : "Mfg 3 Gz",
+    "finish" : "02:50:12"
+  }, {
+    "place" : 18,
+    "agePlace" : 1,
+    "name" : "Thurn, David",
+    "nation" : "GER",
+    "bib" : "2808",
+    "ageGroup" : "40",
+    "club" : "Baainbw",
+    "finish" : "02:50:37"
+  }, {
+    "place" : 19,
+    "agePlace" : 2,
+    "name" : "Mcgregor, Melvyn",
+    "nation" : "GBR",
+    "bib" : "2805",
+    "ageGroup" : "20",
+    "club" : "Royal Marines-Charity",
+    "finish" : "03:03:15"
+  } ]
+}

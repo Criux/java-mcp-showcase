@@ -1,0 +1,127 @@
+{
+  "year" : 2018,
+  "eventCode" : "F3R",
+  "eventName" : "Staffel Cup",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.net/2018/",
+  "resultCount" : 30,
+  "results" : [ {
+    "place" : 1,
+    "name" : "Speed Fun",
+    "finish" : "00:12:57"
+  }, {
+    "place" : 2,
+    "finish" : "00:09:21"
+  }, {
+    "place" : 3,
+    "name" : "Derselbe Onkel-Neues Paar",
+    "finish" : "00:11:09"
+  }, {
+    "place" : 4,
+    "name" : "No Pain No gain",
+    "finish" : "00:11:42"
+  }, {
+    "place" : 5,
+    "name" : "Spiel Spaß Und Spannung",
+    "finish" : "00:11:05"
+  }, {
+    "place" : 6,
+    "name" : "Dortmunder Gang",
+    "finish" : "00:17:30"
+  }, {
+    "place" : 7,
+    "name" : "Um Gottes Willen",
+    "finish" : "00:10:57"
+  }, {
+    "place" : 8,
+    "name" : "SunMatzo",
+    "finish" : "00:14:47"
+  }, {
+    "place" : 9,
+    "name" : "H2plusz",
+    "finish" : "00:14:09"
+  }, {
+    "place" : 10,
+    "name" : "Torpedo Dreigang",
+    "finish" : "00:12:45"
+  }, {
+    "place" : 11,
+    "name" : "Team Buxel 1",
+    "finish" : "00:15:37"
+  }, {
+    "place" : 12,
+    "name" : "Die Kugelblitze",
+    "finish" : "00:14:58"
+  }, {
+    "place" : 13,
+    "name" : "ASC Ahlen Express",
+    "finish" : "00:17:09"
+  }, {
+    "place" : 14,
+    "name" : "Honda Dieckmann",
+    "finish" : "00:14:20"
+  }, {
+    "place" : 15,
+    "name" : "Pinhunter Team 2",
+    "finish" : "00:15:02"
+  }, {
+    "place" : 16,
+    "name" : "Family Desaster",
+    "finish" : "00:15:23"
+  }, {
+    "place" : 17,
+    "name" : "Günni Ladies",
+    "finish" : "00:13:09"
+  }, {
+    "place" : 18,
+    "name" : "PinHunter Team 1",
+    "finish" : "00:16:57"
+  }, {
+    "place" : 19,
+    "name" : "Komapi",
+    "finish" : "00:18:22"
+  }, {
+    "place" : 20,
+    "name" : "Girlz United",
+    "finish" : "00:14:05"
+  }, {
+    "place" : 21,
+    "name" : "Die schwimmenden Rennradläufer",
+    "finish" : "00:14:48"
+  }, {
+    "place" : 22,
+    "name" : "Trichaosteam Tct",
+    "finish" : "00:17:12"
+  }, {
+    "place" : 23,
+    "name" : "Die Apo-Staffel",
+    "finish" : "00:22:44"
+  }, {
+    "place" : 24,
+    "name" : "Die Zeitlupen 2018",
+    "finish" : "00:12:58"
+  }, {
+    "place" : 25,
+    "name" : "Team Buxel 3",
+    "finish" : "00:17:11"
+  }, {
+    "place" : 26,
+    "name" : "Aus Dem Weg SUH",
+    "finish" : "00:15:13"
+  }, {
+    "place" : 27,
+    "name" : "Speedturtles",
+    "finish" : "00:20:51"
+  }, {
+    "place" : 28,
+    "name" : "Family Affair",
+    "finish" : "00:12:55"
+  }, {
+    "place" : 29,
+    "name" : "Gegen Uns Hätten wir auch gewonnen",
+    "finish" : "00:25:22"
+  }, {
+    "place" : 30,
+    "name" : "Turboschnecken",
+    "finish" : "00:13:36"
+  } ]
+}

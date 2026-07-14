@@ -1,0 +1,648 @@
+{
+  "year" : 2025,
+  "eventCode" : "SL",
+  "eventName" : "Senioren Liga",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2025/",
+  "resultCount" : 64,
+  "results" : [ {
+    "agePlace" : 1,
+    "name" : "Knoepke, Daniel",
+    "nation" : "GER",
+    "bib" : "918",
+    "club" : "EJOT Team TV Buschhütten",
+    "swim" : "00:20:04",
+    "bike" : "01:10:50",
+    "run" : "00:39:59",
+    "finish" : "02:13:55"
+  }, {
+    "agePlace" : 2,
+    "name" : "Elskamp, Gregor",
+    "nation" : "GER",
+    "bib" : "925",
+    "club" : "ASV Köln",
+    "swim" : "00:22:34",
+    "bike" : "01:09:11",
+    "run" : "00:44:13",
+    "finish" : "02:20:06"
+  }, {
+    "agePlace" : 3,
+    "name" : "Göckus, Marco",
+    "nation" : "GER",
+    "bib" : "917",
+    "club" : "EJOT Team TV Buschhütten",
+    "swim" : "00:24:07",
+    "bike" : "01:10:58",
+    "run" : "00:41:46",
+    "finish" : "02:20:09"
+  }, {
+    "agePlace" : 4,
+    "name" : "Emde, Frank",
+    "nation" : "GER",
+    "bib" : "902",
+    "club" : "PSV Bonn Triathlon I",
+    "swim" : "00:25:06",
+    "bike" : "01:06:42",
+    "run" : "00:45:15",
+    "finish" : "02:20:23"
+  }, {
+    "agePlace" : 5,
+    "name" : "Nagel, Rainer",
+    "nation" : "GER",
+    "bib" : "919",
+    "club" : "EJOT Team TV Buschhütten",
+    "swim" : "00:25:59",
+    "bike" : "01:09:42",
+    "run" : "00:42:34",
+    "finish" : "02:21:32"
+  }, {
+    "agePlace" : 6,
+    "name" : "Hedwig, Andreas",
+    "nation" : "GER",
+    "bib" : "936",
+    "club" : "Marathon und Triathlon Mülheim",
+    "swim" : "00:23:53",
+    "bike" : "01:11:03",
+    "run" : "00:44:50",
+    "finish" : "02:23:55"
+  }, {
+    "agePlace" : 7,
+    "name" : "Kirschner, Daniel",
+    "nation" : "GER",
+    "bib" : "935",
+    "club" : "Marathon und Triathlon Mülheim",
+    "swim" : "00:27:19",
+    "bike" : "01:10:18",
+    "run" : "00:44:01",
+    "finish" : "02:26:15"
+  }, {
+    "agePlace" : 8,
+    "name" : "Eickmann, Thomas",
+    "nation" : "GER",
+    "bib" : "920",
+    "club" : "EJOT Team TV Buschhütten",
+    "swim" : "00:22:42",
+    "bike" : "01:15:06",
+    "run" : "00:45:14",
+    "finish" : "02:26:52"
+  }, {
+    "agePlace" : 9,
+    "name" : "Kugler, Sebastian",
+    "nation" : "GER",
+    "bib" : "901",
+    "club" : "PSV Bonn Triathlon I",
+    "swim" : "00:23:28",
+    "bike" : "01:17:06",
+    "run" : "00:43:48",
+    "finish" : "02:27:49"
+  }, {
+    "agePlace" : 10,
+    "name" : "Latsch, Mike",
+    "nation" : "GER",
+    "bib" : "905",
+    "club" : "Team TVE Netphen",
+    "swim" : "00:25:12",
+    "bike" : "01:13:31",
+    "run" : "00:43:29",
+    "finish" : "02:27:57"
+  }, {
+    "agePlace" : 11,
+    "name" : "Goltsch, Tillmann",
+    "nation" : "GER",
+    "bib" : "915",
+    "club" : "PV Triathlon TG Witten",
+    "swim" : "00:26:16",
+    "bike" : "01:19:47",
+    "run" : "00:37:41",
+    "finish" : "02:28:24"
+  }, {
+    "agePlace" : 12,
+    "name" : "Manno, Roland",
+    "nation" : "GER",
+    "bib" : "910",
+    "club" : "Triathlon Team Düsseldorf",
+    "swim" : "00:22:51",
+    "bike" : "01:12:00",
+    "run" : "00:50:14",
+    "finish" : "02:29:22"
+  }, {
+    "agePlace" : 13,
+    "name" : "Pioch, Sascha",
+    "nation" : "GER",
+    "bib" : "967",
+    "club" : "TG Neuss",
+    "swim" : "00:29:01",
+    "bike" : "01:13:13",
+    "run" : "00:45:16",
+    "finish" : "02:31:23"
+  }, {
+    "agePlace" : 14,
+    "name" : "Ruckes, Sascha",
+    "nation" : "GER",
+    "bib" : "926",
+    "club" : "ASV Köln",
+    "swim" : "00:28:43",
+    "bike" : "01:15:33",
+    "run" : "00:45:15",
+    "finish" : "02:34:00"
+  }, {
+    "agePlace" : 15,
+    "name" : "Wucherpfennig, Sven",
+    "nation" : "GER",
+    "bib" : "968",
+    "club" : "TG Neuss",
+    "swim" : "00:24:01",
+    "bike" : "01:15:39",
+    "run" : "00:50:43",
+    "finish" : "02:34:02"
+  }, {
+    "agePlace" : 16,
+    "name" : "Aepfelbach, Tim",
+    "nation" : "GER",
+    "bib" : "913",
+    "club" : "PV Triathlon TG Witten",
+    "swim" : "00:29:16",
+    "bike" : "01:15:11",
+    "run" : "00:45:20",
+    "finish" : "02:34:02"
+  }, {
+    "agePlace" : 17,
+    "name" : "Rumbler, Carsten",
+    "nation" : "GER",
+    "bib" : "909",
+    "club" : "Triathlon Team Düsseldorf",
+    "swim" : "00:26:37",
+    "bike" : "01:14:34",
+    "run" : "00:48:09",
+    "finish" : "02:34:25"
+  }, {
+    "agePlace" : 18,
+    "name" : "Palecki, Daniel",
+    "nation" : "GER",
+    "bib" : "908",
+    "club" : "Team TVE Netphen",
+    "swim" : "00:27:52",
+    "bike" : "01:14:08",
+    "run" : "00:47:48",
+    "finish" : "02:34:29"
+  }, {
+    "agePlace" : 19,
+    "name" : "Tieves, Sebastian",
+    "nation" : "GER",
+    "bib" : "903",
+    "club" : "PSV Bonn Triathlon I",
+    "swim" : "00:27:54",
+    "bike" : "01:18:39",
+    "run" : "00:45:11",
+    "finish" : "02:36:18"
+  }, {
+    "agePlace" : 20,
+    "name" : "Wassmann, Alexander",
+    "nation" : "GER",
+    "bib" : "942",
+    "club" : "RSV Osthelden",
+    "swim" : "00:28:42",
+    "bike" : "01:18:30",
+    "run" : "00:46:22",
+    "finish" : "02:38:32"
+  }, {
+    "agePlace" : 21,
+    "name" : "Huschauer, Horst",
+    "nation" : "AUT",
+    "bib" : "966",
+    "club" : "TG Neuss",
+    "swim" : "00:27:58",
+    "bike" : "01:17:03",
+    "run" : "00:49:16",
+    "finish" : "02:39:03"
+  }, {
+    "agePlace" : 22,
+    "name" : "Bily, Alexander",
+    "nation" : "GER",
+    "bib" : "937",
+    "club" : "Tri-Geckos Dortmund",
+    "swim" : "00:26:31",
+    "bike" : "01:16:55",
+    "run" : "00:51:37",
+    "finish" : "02:39:58"
+  }, {
+    "agePlace" : 23,
+    "name" : "Kuhl, Alexander",
+    "nation" : "GER",
+    "bib" : "904",
+    "club" : "PSV Bonn Triathlon I",
+    "swim" : "00:29:14",
+    "bike" : "01:19:52",
+    "run" : "00:47:10",
+    "finish" : "02:40:21"
+  }, {
+    "agePlace" : 24,
+    "name" : "Otto, André",
+    "nation" : "GER",
+    "bib" : "959",
+    "club" : "Sportclub Krefeld 1905 e. V.",
+    "swim" : "00:30:46",
+    "bike" : "01:16:43",
+    "run" : "00:49:26",
+    "finish" : "02:41:54"
+  }, {
+    "agePlace" : 25,
+    "name" : "Niemeier, Markus",
+    "nation" : "GER",
+    "bib" : "940",
+    "club" : "Tri-Geckos Dortmund",
+    "swim" : "00:29:59",
+    "bike" : "01:21:52",
+    "run" : "00:45:02",
+    "finish" : "02:42:29"
+  }, {
+    "agePlace" : 26,
+    "name" : "Vollandt, Jörg",
+    "nation" : "GER",
+    "bib" : "931",
+    "club" : "SV Blau-Weiß Bochum",
+    "swim" : "00:27:33",
+    "bike" : "01:20:45",
+    "run" : "00:51:16",
+    "finish" : "02:43:36"
+  }, {
+    "agePlace" : 27,
+    "name" : "Zander, Christoph",
+    "nation" : "GER",
+    "bib" : "948",
+    "club" : "PSV Bonn Triathlon II",
+    "swim" : "00:26:17",
+    "bike" : "01:18:32",
+    "run" : "00:52:49",
+    "finish" : "02:43:44"
+  }, {
+    "agePlace" : 28,
+    "name" : "Radtke, Inga",
+    "nation" : "GER",
+    "bib" : "947",
+    "club" : "PSV Bonn Triathlon II",
+    "swim" : "00:31:49",
+    "bike" : "01:20:58",
+    "run" : "00:48:28",
+    "finish" : "02:45:04"
+  }, {
+    "agePlace" : 29,
+    "name" : "Brennecke, Rene",
+    "nation" : "GER",
+    "bib" : "938",
+    "club" : "Tri-Geckos Dortmund",
+    "swim" : "00:22:25",
+    "bike" : "01:20:36",
+    "run" : "00:58:06",
+    "finish" : "02:45:18"
+  }, {
+    "agePlace" : 30,
+    "name" : "Bardach, Rachid",
+    "nation" : "GER",
+    "bib" : "965",
+    "club" : "TG Neuss",
+    "swim" : "00:31:45",
+    "bike" : "01:19:01",
+    "run" : "00:50:29",
+    "finish" : "02:46:13"
+  }, {
+    "agePlace" : 31,
+    "name" : "Janzen, Richard",
+    "nation" : "GER",
+    "bib" : "951",
+    "club" : "Uerdinger Schwimmverein 08 e.V.",
+    "swim" : "00:33:45",
+    "bike" : "01:18:13",
+    "run" : "00:47:39",
+    "finish" : "02:46:14"
+  }, {
+    "agePlace" : 32,
+    "name" : "Block, Oliver",
+    "nation" : "GER",
+    "bib" : "957",
+    "club" : "Sportclub Krefeld 1905 e. V.",
+    "swim" : "00:30:50",
+    "bike" : "01:18:42",
+    "run" : "00:52:44",
+    "finish" : "02:47:22"
+  }, {
+    "agePlace" : 33,
+    "name" : "Wankum, Marco",
+    "nation" : "GER",
+    "bib" : "911",
+    "club" : "Triathlon Team Düsseldorf",
+    "swim" : "00:31:30",
+    "bike" : "01:21:43",
+    "run" : "00:49:56",
+    "finish" : "02:48:50"
+  }, {
+    "agePlace" : 34,
+    "name" : "Goris, Rhoda",
+    "nation" : "GER",
+    "bib" : "958",
+    "club" : "Sportclub Krefeld 1905 e. V.",
+    "swim" : "00:26:38",
+    "bike" : "01:25:20",
+    "run" : "00:51:58",
+    "finish" : "02:49:03"
+  }, {
+    "agePlace" : 35,
+    "name" : "Rödder, Philipp",
+    "nation" : "GER",
+    "bib" : "962",
+    "club" : "tri.SI (Triathlon Siegen)",
+    "swim" : "00:33:28",
+    "bike" : "01:22:21",
+    "run" : "00:48:21",
+    "finish" : "02:49:07"
+  }, {
+    "agePlace" : 36,
+    "name" : "Wacker, Frank",
+    "nation" : "GER",
+    "bib" : "932",
+    "club" : "SV Blau-Weiß Bochum",
+    "swim" : "00:26:15",
+    "bike" : "01:20:21",
+    "run" : "00:57:19",
+    "finish" : "02:49:31"
+  }, {
+    "agePlace" : 37,
+    "name" : "Belting-Clar, Christian",
+    "nation" : "GER",
+    "bib" : "933",
+    "club" : "Marathon und Triathlon Mülheim",
+    "swim" : "00:32:55",
+    "bike" : "01:22:18",
+    "run" : "00:50:25",
+    "finish" : "02:50:29"
+  }, {
+    "agePlace" : 38,
+    "name" : "Meller, Torsten",
+    "nation" : "GER",
+    "bib" : "969",
+    "club" : "MACH3 Köln e.V.",
+    "swim" : "00:31:16",
+    "bike" : "01:21:56",
+    "run" : "00:51:34",
+    "finish" : "02:51:37"
+  }, {
+    "agePlace" : 39,
+    "name" : "Bauer, Marc",
+    "nation" : "GER",
+    "bib" : "939",
+    "club" : "Tri-Geckos Dortmund",
+    "swim" : "00:29:08",
+    "bike" : "01:25:46",
+    "run" : "00:52:31",
+    "finish" : "02:53:02"
+  }, {
+    "agePlace" : 40,
+    "name" : "Brüning, Robert",
+    "nation" : "GER",
+    "bib" : "954",
+    "club" : "ATV Hückeswagen",
+    "swim" : "00:32:06",
+    "bike" : "01:19:39",
+    "run" : "00:57:47",
+    "finish" : "02:53:20"
+  }, {
+    "agePlace" : 41,
+    "name" : "Krupp, Markus",
+    "nation" : "GER",
+    "bib" : "923",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "swim" : "00:33:14",
+    "bike" : "01:20:01",
+    "run" : "00:52:33",
+    "finish" : "02:54:42"
+  }, {
+    "agePlace" : 42,
+    "name" : "Bott, Thorsten",
+    "nation" : "GER",
+    "bib" : "929",
+    "club" : "SV Blau-Weiß Bochum",
+    "swim" : "00:30:49",
+    "bike" : "01:25:20",
+    "run" : "00:51:50",
+    "finish" : "02:55:07"
+  }, {
+    "agePlace" : 43,
+    "name" : "Junker, Andreas",
+    "nation" : "GER",
+    "bib" : "963",
+    "club" : "tri.SI (Triathlon Siegen)",
+    "swim" : "00:27:44",
+    "bike" : "01:26:20",
+    "run" : "00:58:57",
+    "finish" : "02:58:04"
+  }, {
+    "agePlace" : 44,
+    "name" : "Cohaupt, Stefan",
+    "nation" : "GER",
+    "bib" : "914",
+    "club" : "PV Triathlon TG Witten",
+    "swim" : "00:32:39",
+    "bike" : "01:27:50",
+    "run" : "00:52:07",
+    "finish" : "02:58:16"
+  }, {
+    "agePlace" : 45,
+    "name" : "Gellert, Linda",
+    "nation" : "GER",
+    "bib" : "930",
+    "club" : "SV Blau-Weiß Bochum",
+    "swim" : "00:32:26",
+    "bike" : "01:27:25",
+    "run" : "00:52:45",
+    "finish" : "02:58:18"
+  }, {
+    "agePlace" : 46,
+    "name" : "Kretzer, Benjamin",
+    "nation" : "GER",
+    "bib" : "941",
+    "club" : "RSV Osthelden",
+    "swim" : "00:26:25",
+    "bike" : "01:15:19",
+    "run" : "01:11:52",
+    "finish" : "02:58:35"
+  }, {
+    "agePlace" : 47,
+    "name" : "Schumacher, Michael",
+    "nation" : "GER",
+    "bib" : "952",
+    "club" : "Uerdinger Schwimmverein 08 e.V.",
+    "swim" : "00:33:18",
+    "bike" : "01:18:58",
+    "run" : "01:02:55",
+    "finish" : "03:00:14"
+  }, {
+    "agePlace" : 48,
+    "name" : "Schäfer, Sven",
+    "nation" : "GER",
+    "bib" : "955",
+    "club" : "ATV Hückeswagen",
+    "swim" : "00:30:57",
+    "bike" : "01:26:52",
+    "run" : "00:59:37",
+    "finish" : "03:02:26"
+  }, {
+    "agePlace" : 49,
+    "name" : "Gabel, Hans-Jürgen",
+    "nation" : "GER",
+    "bib" : "921",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "swim" : "00:30:47",
+    "bike" : "01:21:22",
+    "run" : "01:04:50",
+    "finish" : "03:02:30"
+  }, {
+    "agePlace" : 50,
+    "name" : "Dauber, Kirstin",
+    "nation" : "GER",
+    "bib" : "945",
+    "club" : "PSV Bonn Triathlon II",
+    "swim" : "00:33:20",
+    "bike" : "01:25:16",
+    "run" : "00:59:23",
+    "finish" : "03:02:53"
+  }, {
+    "agePlace" : 51,
+    "name" : "Imhoff, Ralf",
+    "nation" : "GER",
+    "bib" : "912",
+    "club" : "Triathlon Team Düsseldorf",
+    "swim" : "00:32:57",
+    "bike" : "01:24:20",
+    "run" : "01:01:28",
+    "finish" : "03:03:05"
+  }, {
+    "agePlace" : 52,
+    "name" : "Prünte, Kai",
+    "nation" : "GER",
+    "bib" : "916",
+    "club" : "PV Triathlon TG Witten",
+    "swim" : "00:30:31",
+    "bike" : "01:34:14",
+    "run" : "00:55:11",
+    "finish" : "03:04:45"
+  }, {
+    "agePlace" : 53,
+    "name" : "Krupp, Irina",
+    "nation" : "RUS",
+    "bib" : "924",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "swim" : "00:36:56",
+    "bike" : "01:26:46",
+    "run" : "00:51:29",
+    "finish" : "03:04:53"
+  }, {
+    "agePlace" : 54,
+    "name" : "Kasten, Tina",
+    "nation" : "GER",
+    "bib" : "970",
+    "club" : "MACH3 Köln e.V.",
+    "swim" : "00:33:49",
+    "bike" : "01:28:00",
+    "run" : "00:57:12",
+    "finish" : "03:05:20"
+  }, {
+    "agePlace" : 55,
+    "name" : "Wetter, Alexander",
+    "nation" : "GER",
+    "bib" : "906",
+    "club" : "Team TVE Netphen",
+    "swim" : "00:38:35",
+    "bike" : "01:27:14",
+    "run" : "00:55:17",
+    "finish" : "03:05:46"
+  }, {
+    "agePlace" : 56,
+    "name" : "Sandau, Andreas",
+    "nation" : "GER",
+    "bib" : "922",
+    "club" : "TSV Bayer 04 Leverkusen",
+    "swim" : "00:33:46",
+    "bike" : "01:21:51",
+    "run" : "01:02:21",
+    "finish" : "03:06:02"
+  }, {
+    "agePlace" : 57,
+    "name" : "Loll, Isabelle",
+    "nation" : "GER",
+    "bib" : "946",
+    "club" : "PSV Bonn Triathlon II",
+    "swim" : "00:31:44",
+    "bike" : "01:30:29",
+    "run" : "01:01:09",
+    "finish" : "03:08:06"
+  }, {
+    "agePlace" : 58,
+    "name" : "Grümmer, Simon",
+    "nation" : "GER",
+    "bib" : "972",
+    "club" : "MACH3 Köln e.V.",
+    "swim" : "00:31:13",
+    "bike" : "01:28:46",
+    "run" : "00:54:39",
+    "finish" : "03:08:30"
+  }, {
+    "agePlace" : 59,
+    "name" : "Junker, Rosmarie Christine",
+    "nation" : "GER",
+    "bib" : "964",
+    "club" : "tri.SI (Triathlon Siegen)",
+    "swim" : "00:26:24",
+    "bike" : "01:32:42",
+    "run" : "01:05:59",
+    "finish" : "03:09:44"
+  }, {
+    "agePlace" : 60,
+    "name" : "Kölsch, Petra",
+    "nation" : "GER",
+    "bib" : "944",
+    "club" : "RSV Osthelden",
+    "swim" : "00:33:30",
+    "bike" : "01:35:07",
+    "run" : "00:56:35",
+    "finish" : "03:10:20"
+  }, {
+    "agePlace" : 61,
+    "name" : "Winterott, Oliver",
+    "nation" : "GER",
+    "bib" : "949",
+    "club" : "Uerdinger Schwimmverein 08 e.V.",
+    "swim" : "00:31:52",
+    "bike" : "01:23:52",
+    "run" : "01:09:43",
+    "finish" : "03:11:11"
+  }, {
+    "agePlace" : 62,
+    "name" : "Rohmann, Daniela",
+    "nation" : "GER",
+    "bib" : "960",
+    "club" : "Sportclub Krefeld 1905 e. V.",
+    "swim" : "00:33:03",
+    "bike" : "01:31:51",
+    "run" : "01:05:27",
+    "finish" : "03:15:37"
+  }, {
+    "agePlace" : 63,
+    "name" : "Bürger, Peter",
+    "nation" : "GER",
+    "bib" : "971",
+    "club" : "MACH3 Köln e.V.",
+    "swim" : "00:37:20",
+    "bike" : "01:33:34",
+    "run" : "01:03:26",
+    "finish" : "03:22:46"
+  }, {
+    "agePlace" : 64,
+    "name" : "Müller, Wolfgang",
+    "nation" : "GER",
+    "bib" : "907",
+    "club" : "Team TVE Netphen",
+    "swim" : "00:40:06",
+    "bike" : "01:35:32",
+    "run" : "01:10:29",
+    "finish" : "03:33:01"
+  } ]
+}

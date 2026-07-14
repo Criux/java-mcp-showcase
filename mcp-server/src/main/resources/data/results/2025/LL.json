@@ -1,0 +1,828 @@
+{
+  "year" : 2025,
+  "eventCode" : "LL",
+  "eventName" : "Landeslige Nord",
+  "sourceUrl" : "https://sassenbergertriathlon.r.mikatiming.com/2025/",
+  "resultCount" : 82,
+  "results" : [ {
+    "agePlace" : 1,
+    "name" : "Deiß, Bernhard",
+    "nation" : "GER",
+    "bib" : "1171",
+    "club" : "SV Gladbeck 13",
+    "swim" : "00:25:56",
+    "bike" : "01:10:03",
+    "run" : "00:38:11",
+    "finish" : "02:17:37"
+  }, {
+    "agePlace" : 2,
+    "name" : "Böger, Thore",
+    "nation" : "GER",
+    "bib" : "1105",
+    "club" : "Tri-4-Fun SVKT07 Minden",
+    "swim" : "00:21:03",
+    "bike" : "01:11:17",
+    "run" : "00:42:25",
+    "finish" : "02:18:19"
+  }, {
+    "agePlace" : 3,
+    "name" : "Kuhl, Thomas",
+    "nation" : "GER",
+    "bib" : "1165",
+    "club" : "SUS Darme",
+    "swim" : "00:26:58",
+    "bike" : "01:06:19",
+    "run" : "00:41:23",
+    "finish" : "02:18:21"
+  }, {
+    "agePlace" : 4,
+    "name" : "Heitkötter, Marcel",
+    "nation" : "GER",
+    "bib" : "1172",
+    "club" : "SV Gladbeck 13",
+    "swim" : "00:25:08",
+    "bike" : "01:09:46",
+    "run" : "00:40:19",
+    "finish" : "02:18:32"
+  }, {
+    "agePlace" : 5,
+    "name" : "Sanders, Christoph",
+    "nation" : "GER",
+    "bib" : "1167",
+    "club" : "SUS Darme",
+    "swim" : "00:25:28",
+    "bike" : "01:08:02",
+    "run" : "00:43:03",
+    "finish" : "02:19:47"
+  }, {
+    "agePlace" : 6,
+    "name" : "Templin, Kilian",
+    "nation" : "GER",
+    "bib" : "1158",
+    "club" : "Tri Team Ruhrpott Herne",
+    "swim" : "00:29:02",
+    "bike" : "01:09:16",
+    "run" : "00:38:32",
+    "finish" : "02:20:13"
+  }, {
+    "agePlace" : 7,
+    "name" : "Buddemeyer, Melvin",
+    "nation" : "GER",
+    "bib" : "1164",
+    "club" : "Tri Team Steinfurt e.V. II",
+    "swim" : "00:25:17",
+    "bike" : "01:08:40",
+    "run" : "00:44:40",
+    "finish" : "02:21:43"
+  }, {
+    "agePlace" : 8,
+    "name" : "Kade, Martin",
+    "nation" : "GER",
+    "bib" : "1103",
+    "club" : "SuS Stadtlohn 19/20",
+    "swim" : "00:21:59",
+    "bike" : "01:08:15",
+    "run" : "00:48:56",
+    "finish" : "02:23:24"
+  }, {
+    "agePlace" : 9,
+    "name" : "Matthes, Jan",
+    "nation" : "GER",
+    "bib" : "1166",
+    "club" : "SUS Darme",
+    "swim" : "00:26:12",
+    "bike" : "01:06:20",
+    "run" : "00:47:35",
+    "finish" : "02:23:46"
+  }, {
+    "agePlace" : 10,
+    "name" : "Wojtek, Niklas",
+    "nation" : "GER",
+    "bib" : "1170",
+    "club" : "SV Gladbeck 13",
+    "swim" : "00:24:36",
+    "bike" : "01:09:57",
+    "run" : "00:45:50",
+    "finish" : "02:24:35"
+  }, {
+    "agePlace" : 11,
+    "name" : "Manske, Leon",
+    "nation" : "GER",
+    "bib" : "1168",
+    "club" : "SUS Darme",
+    "swim" : "00:23:53",
+    "bike" : "01:10:30",
+    "run" : "00:47:13",
+    "finish" : "02:24:51"
+  }, {
+    "agePlace" : 12,
+    "name" : "Niedrig, Lorenz",
+    "nation" : "GER",
+    "bib" : "1179",
+    "club" : "Tri-Geckos Dortmund IV",
+    "swim" : "00:29:13",
+    "bike" : "01:11:29",
+    "run" : "00:41:17",
+    "finish" : "02:25:53"
+  }, {
+    "agePlace" : 13,
+    "name" : "Demes, Lasse",
+    "nation" : "GER",
+    "bib" : "1121",
+    "club" : "SV Hullern 68",
+    "swim" : "00:26:43",
+    "bike" : "01:06:49",
+    "run" : "00:49:48",
+    "finish" : "02:26:16"
+  }, {
+    "agePlace" : 14,
+    "name" : "Hoffmann, Jan-Niclas",
+    "nation" : "GER",
+    "bib" : "1153",
+    "club" : "Soester Tri Team",
+    "swim" : "00:26:06",
+    "bike" : "01:10:52",
+    "run" : "00:45:55",
+    "finish" : "02:27:12"
+  }, {
+    "agePlace" : 15,
+    "name" : "Alferink, Michelle",
+    "nation" : "GER",
+    "bib" : "1101",
+    "club" : "SuS Stadtlohn 19/20",
+    "swim" : "00:24:21",
+    "bike" : "01:14:31",
+    "run" : "00:45:06",
+    "finish" : "02:27:25"
+  }, {
+    "agePlace" : 16,
+    "name" : "Nolte, Nils",
+    "nation" : "GER",
+    "bib" : "1106",
+    "club" : "Tri-4-Fun SVKT07 Minden",
+    "swim" : "00:27:11",
+    "bike" : "01:13:45",
+    "run" : "00:46:08",
+    "finish" : "02:30:25"
+  }, {
+    "agePlace" : 17,
+    "name" : "Nowoczin, Carlo",
+    "nation" : "GER",
+    "bib" : "1169",
+    "club" : "SV Gladbeck 13",
+    "swim" : "00:29:03",
+    "bike" : "01:14:36",
+    "run" : "00:43:36",
+    "finish" : "02:30:53"
+  }, {
+    "agePlace" : 18,
+    "name" : "Jaeger, Frederik",
+    "nation" : "GER",
+    "bib" : "1173",
+    "club" : "1. Tri-Club Paderborn",
+    "swim" : "00:24:36",
+    "bike" : "01:17:18",
+    "run" : "00:45:39",
+    "finish" : "02:31:02"
+  }, {
+    "agePlace" : 19,
+    "name" : "Hoffbauer, Torben",
+    "nation" : "GER",
+    "bib" : "1182",
+    "club" : "WEICON Tri Finish Münster VI",
+    "swim" : "00:25:18",
+    "bike" : "01:15:38",
+    "run" : "00:46:04",
+    "finish" : "02:31:05"
+  }, {
+    "agePlace" : 20,
+    "name" : "Elfering, Jonas",
+    "nation" : "GER",
+    "bib" : "1163",
+    "club" : "Tri Team Steinfurt e.V. II",
+    "swim" : "00:30:33",
+    "bike" : "01:14:41",
+    "run" : "00:42:22",
+    "finish" : "02:31:24"
+  }, {
+    "agePlace" : 21,
+    "name" : "Kallweit, Mika",
+    "nation" : "GER",
+    "bib" : "1177",
+    "club" : "Tri-Geckos Dortmund IV",
+    "swim" : "00:28:44",
+    "bike" : "01:10:54",
+    "run" : "00:48:02",
+    "finish" : "02:31:25"
+  }, {
+    "agePlace" : 22,
+    "name" : "Schleuß, Laura",
+    "nation" : "GER",
+    "bib" : "1162",
+    "club" : "Tri Team Steinfurt e.V. II",
+    "swim" : "00:27:57",
+    "bike" : "01:16:14",
+    "run" : "00:43:30",
+    "finish" : "02:31:30"
+  }, {
+    "agePlace" : 23,
+    "name" : "Robin, Marcel",
+    "nation" : "GER",
+    "bib" : "1107",
+    "club" : "Tri-4-Fun SVKT07 Minden",
+    "swim" : "00:26:26",
+    "bike" : "01:13:40",
+    "run" : "00:46:31",
+    "finish" : "02:31:36"
+  }, {
+    "agePlace" : 24,
+    "name" : "Wille, Markus",
+    "nation" : "GER",
+    "bib" : "1176",
+    "club" : "1. Tri-Club Paderborn",
+    "swim" : "00:24:32",
+    "bike" : "01:14:03",
+    "run" : "00:48:43",
+    "finish" : "02:31:46"
+  }, {
+    "agePlace" : 25,
+    "name" : "Große, Dirk",
+    "nation" : "GER",
+    "bib" : "1131",
+    "club" : "Marathon-Club Menden II",
+    "swim" : "00:29:24",
+    "bike" : "01:18:10",
+    "run" : "00:40:51",
+    "finish" : "02:32:35"
+  }, {
+    "agePlace" : 26,
+    "name" : "Duret, Didier",
+    "nation" : "FRA",
+    "bib" : "1102",
+    "club" : "SuS Stadtlohn 19/20",
+    "swim" : "00:25:37",
+    "bike" : "01:14:08",
+    "run" : "00:49:03",
+    "finish" : "02:32:46"
+  }, {
+    "agePlace" : 27,
+    "name" : "Jelonek, Damian",
+    "nation" : "GER",
+    "bib" : "1130",
+    "club" : "Marathon-Club Menden II",
+    "swim" : "00:29:33",
+    "bike" : "01:15:19",
+    "run" : "00:44:22",
+    "finish" : "02:32:49"
+  }, {
+    "agePlace" : 28,
+    "name" : "Block, Dennis",
+    "nation" : "GER",
+    "bib" : "1174",
+    "club" : "1. Tri-Club Paderborn",
+    "swim" : "00:27:24",
+    "bike" : "01:14:28",
+    "run" : "00:48:32",
+    "finish" : "02:34:17"
+  }, {
+    "agePlace" : 29,
+    "name" : "Radstaak, Frank",
+    "nation" : "GER",
+    "bib" : "1188",
+    "club" : "Sportverein Greven II",
+    "swim" : "00:27:36",
+    "bike" : "01:13:54",
+    "run" : "00:49:49",
+    "finish" : "02:34:49"
+  }, {
+    "agePlace" : 30,
+    "name" : "Nottebohm, Michael",
+    "nation" : "GER",
+    "bib" : "1129",
+    "club" : "Marathon-Club Menden II",
+    "swim" : "00:28:56",
+    "bike" : "01:15:51",
+    "run" : "00:46:19",
+    "finish" : "02:35:24"
+  }, {
+    "agePlace" : 31,
+    "name" : "Prohaska, Jörg",
+    "nation" : "GER",
+    "bib" : "1152",
+    "club" : "TSVE 1890 Bielefeld III",
+    "swim" : "00:26:58",
+    "bike" : "01:13:23",
+    "run" : "00:51:11",
+    "finish" : "02:35:25"
+  }, {
+    "agePlace" : 32,
+    "name" : "Kästner, Stephan",
+    "nation" : "GER",
+    "bib" : "1137",
+    "club" : "mw1 Tri Team TG Lage",
+    "swim" : "00:26:53",
+    "bike" : "01:14:25",
+    "run" : "00:53:32",
+    "finish" : "02:38:49"
+  }, {
+    "agePlace" : 33,
+    "name" : "Kolkmann, Sarah",
+    "nation" : "GER",
+    "bib" : "1185",
+    "club" : "Sportverein Greven II",
+    "swim" : "00:26:08",
+    "bike" : "01:15:27",
+    "run" : "00:53:30",
+    "finish" : "02:39:24"
+  }, {
+    "agePlace" : 34,
+    "name" : "Schlosser, André",
+    "nation" : "GER",
+    "bib" : "1157",
+    "club" : "Tri Team Ruhrpott Herne",
+    "swim" : "00:29:05",
+    "bike" : "01:14:46",
+    "run" : "00:50:20",
+    "finish" : "02:39:25"
+  }, {
+    "agePlace" : 35,
+    "name" : "Schmelzer, Kai",
+    "nation" : "GER",
+    "bib" : "1146",
+    "club" : "Lauf Team Unna",
+    "swim" : "00:31:44",
+    "bike" : "01:16:24",
+    "run" : "00:46:47",
+    "finish" : "02:39:28"
+  }, {
+    "agePlace" : 36,
+    "name" : "Strohmeier, Hendrik",
+    "nation" : "GER",
+    "bib" : "1108",
+    "club" : "Tri-4-Fun SVKT07 Minden",
+    "swim" : "00:27:12",
+    "bike" : "01:13:30",
+    "run" : "00:54:49",
+    "finish" : "02:40:21"
+  }, {
+    "agePlace" : 37,
+    "name" : "Hertle, Daniel",
+    "nation" : "GER",
+    "bib" : "1155",
+    "club" : "Soester Tri Team",
+    "swim" : "00:23:56",
+    "bike" : "01:20:28",
+    "run" : "00:52:11",
+    "finish" : "02:40:33"
+  }, {
+    "agePlace" : 38,
+    "name" : "Haverkamp, Kai",
+    "nation" : "GER",
+    "bib" : "1148",
+    "club" : "Lauf Team Unna",
+    "swim" : "00:32:37",
+    "bike" : "01:15:35",
+    "run" : "00:48:12",
+    "finish" : "02:41:04"
+  }, {
+    "agePlace" : 39,
+    "name" : "Dungs, Sascha",
+    "nation" : "GER",
+    "bib" : "1180",
+    "club" : "Tri-Geckos Dortmund IV",
+    "swim" : "00:34:15",
+    "bike" : "01:15:51",
+    "run" : "00:47:33",
+    "finish" : "02:42:42"
+  }, {
+    "agePlace" : 40,
+    "name" : "Boehm, Alexander",
+    "nation" : "GER",
+    "bib" : "1136",
+    "club" : "TriStar Oelde IV",
+    "swim" : "00:29:33",
+    "bike" : "01:17:01",
+    "run" : "00:52:55",
+    "finish" : "02:42:57"
+  }, {
+    "agePlace" : 41,
+    "name" : "Ziemann, Marcus",
+    "nation" : "GER",
+    "bib" : "1160",
+    "club" : "Tri Team Ruhrpott Herne",
+    "swim" : "00:30:39",
+    "bike" : "01:17:37",
+    "run" : "00:49:58",
+    "finish" : "02:43:05"
+  }, {
+    "agePlace" : 42,
+    "name" : "Simon, Frank",
+    "nation" : "GER",
+    "bib" : "1187",
+    "club" : "Sportverein Greven II",
+    "swim" : "00:28:39",
+    "bike" : "01:19:23",
+    "run" : "00:50:52",
+    "finish" : "02:44:25"
+  }, {
+    "agePlace" : 43,
+    "name" : "Klocke, Mike",
+    "nation" : "GER",
+    "bib" : "1186",
+    "club" : "Sportverein Greven II",
+    "swim" : "00:31:18",
+    "bike" : "01:15:59",
+    "run" : "00:53:25",
+    "finish" : "02:44:25"
+  }, {
+    "agePlace" : 44,
+    "name" : "Nagel, Robert",
+    "nation" : "GER",
+    "bib" : "1127",
+    "club" : "1.Tri Team Gütersloh III",
+    "swim" : "00:28:53",
+    "bike" : "01:22:08",
+    "run" : "00:47:28",
+    "finish" : "02:44:41"
+  }, {
+    "agePlace" : 45,
+    "name" : "Arnsberg, Ulrich",
+    "nation" : "GER",
+    "bib" : "1115",
+    "club" : "W+F Münster II",
+    "swim" : "00:30:52",
+    "bike" : "01:22:37",
+    "run" : "00:46:53",
+    "finish" : "02:45:14"
+  }, {
+    "agePlace" : 46,
+    "name" : "Weissner, Martin",
+    "nation" : "GER",
+    "bib" : "1181",
+    "club" : "WEICON Tri Finish Münster VI",
+    "swim" : "00:29:05",
+    "bike" : "01:20:42",
+    "run" : "00:50:50",
+    "finish" : "02:46:05"
+  }, {
+    "agePlace" : 47,
+    "name" : "Michels, Dörte",
+    "nation" : "GER",
+    "bib" : "1161",
+    "club" : "Tri Team Steinfurt e.V. II",
+    "swim" : "00:25:57",
+    "bike" : "01:20:29",
+    "run" : "00:55:10",
+    "finish" : "02:46:14"
+  }, {
+    "agePlace" : 48,
+    "name" : "Krüger, Oliver",
+    "nation" : "GER",
+    "bib" : "1178",
+    "club" : "Tri-Geckos Dortmund IV",
+    "swim" : "00:31:28",
+    "bike" : "01:18:04",
+    "run" : "00:52:43",
+    "finish" : "02:46:52"
+  }, {
+    "agePlace" : 49,
+    "name" : "Kingma, Jana",
+    "nation" : "GER",
+    "bib" : "1133",
+    "club" : "TriStar Oelde IV",
+    "swim" : "00:28:31",
+    "bike" : "01:22:31",
+    "run" : "00:54:42",
+    "finish" : "02:49:12"
+  }, {
+    "agePlace" : 50,
+    "name" : "Wiedemann, Thomas",
+    "nation" : "GER",
+    "bib" : "1116",
+    "club" : "W+F Münster II",
+    "swim" : "00:29:24",
+    "bike" : "01:24:07",
+    "run" : "00:50:54",
+    "finish" : "02:49:12"
+  }, {
+    "agePlace" : 51,
+    "name" : "Gehle, Tobias",
+    "nation" : "GER",
+    "bib" : "1126",
+    "club" : "1.Tri Team Gütersloh III",
+    "swim" : "00:33:10",
+    "bike" : "01:16:40",
+    "run" : "00:54:38",
+    "finish" : "02:49:51"
+  }, {
+    "agePlace" : 52,
+    "name" : "Strathaus, Wolfgang",
+    "nation" : "GER",
+    "bib" : "1113",
+    "club" : "W+F Münster II",
+    "swim" : "00:29:46",
+    "bike" : "01:17:38",
+    "run" : "00:57:36",
+    "finish" : "02:51:18"
+  }, {
+    "agePlace" : 53,
+    "name" : "Koch, Ralf",
+    "nation" : "GER",
+    "bib" : "1109",
+    "club" : "TV Werne 03 Wasserfreunde e.V. II",
+    "swim" : "00:28:37",
+    "bike" : "01:21:31",
+    "run" : "00:57:12",
+    "finish" : "02:51:46"
+  }, {
+    "agePlace" : 54,
+    "name" : "Ullenbrock, Manfred",
+    "nation" : "GER",
+    "bib" : "1128",
+    "club" : "1.Tri Team Gütersloh III",
+    "swim" : "00:28:43",
+    "bike" : "01:24:45",
+    "run" : "00:52:38",
+    "finish" : "02:51:52"
+  }, {
+    "agePlace" : 55,
+    "name" : "Renners, Georg",
+    "nation" : "GER",
+    "bib" : "1125",
+    "club" : "1.Tri Team Gütersloh III",
+    "swim" : "00:33:06",
+    "bike" : "01:25:37",
+    "run" : "00:48:55",
+    "finish" : "02:54:22"
+  }, {
+    "agePlace" : 56,
+    "name" : "Jepkens, Lars",
+    "nation" : "GER",
+    "bib" : "1120",
+    "club" : "Triathlon Team Düsseldorf e.V. III",
+    "swim" : "00:26:35",
+    "bike" : "01:27:30",
+    "run" : "00:56:38",
+    "finish" : "02:54:30"
+  }, {
+    "agePlace" : 57,
+    "name" : "Kullik, Oliver",
+    "nation" : "GER",
+    "bib" : "1142",
+    "club" : "TuS 09 Erkenschwick II",
+    "swim" : "00:34:53",
+    "bike" : "01:20:16",
+    "run" : "00:56:16",
+    "finish" : "02:56:12"
+  }, {
+    "agePlace" : 58,
+    "name" : "Brormann, Ayleen",
+    "nation" : "GER",
+    "bib" : "1135",
+    "club" : "TriStar Oelde IV",
+    "swim" : "00:29:27",
+    "bike" : "01:26:04",
+    "run" : "00:56:42",
+    "finish" : "02:56:19"
+  }, {
+    "agePlace" : 59,
+    "name" : "Althüser-Eppink, Swen",
+    "nation" : "GER",
+    "bib" : "1154",
+    "club" : "Soester Tri Team",
+    "swim" : "00:30:10",
+    "bike" : "01:27:03",
+    "run" : "00:54:15",
+    "finish" : "02:56:33"
+  }, {
+    "agePlace" : 60,
+    "name" : "Musilak, Marco",
+    "nation" : "GER",
+    "bib" : "1175",
+    "club" : "1. Tri-Club Paderborn",
+    "swim" : "00:30:40",
+    "bike" : "01:21:00",
+    "run" : "01:00:30",
+    "finish" : "02:57:03"
+  }, {
+    "agePlace" : 61,
+    "name" : "Eder, Thomas",
+    "nation" : "GER",
+    "bib" : "1111",
+    "club" : "TV Werne 03 Wasserfreunde e.V. II",
+    "swim" : "00:35:20",
+    "bike" : "01:25:35",
+    "run" : "00:51:43",
+    "finish" : "02:58:39"
+  }, {
+    "agePlace" : 62,
+    "name" : "Rulf, Ellen",
+    "nation" : "GER",
+    "bib" : "1114",
+    "club" : "W+F Münster II",
+    "swim" : "00:30:44",
+    "bike" : "01:27:35",
+    "run" : "00:54:56",
+    "finish" : "02:58:53"
+  }, {
+    "agePlace" : 63,
+    "name" : "Bojarra, Meike",
+    "nation" : "GER",
+    "bib" : "1141",
+    "club" : "TuS 09 Erkenschwick II",
+    "swim" : "00:32:14",
+    "bike" : "01:24:05",
+    "run" : "00:56:48",
+    "finish" : "02:59:27"
+  }, {
+    "agePlace" : 64,
+    "name" : "Prenneis, Christian",
+    "nation" : "GER",
+    "bib" : "1151",
+    "club" : "TSVE 1890 Bielefeld III",
+    "swim" : "00:29:41",
+    "bike" : "01:28:58",
+    "run" : "00:54:26",
+    "finish" : "02:59:30"
+  }, {
+    "agePlace" : 65,
+    "name" : "Holterhof, Renate Miriam",
+    "nation" : "GER",
+    "bib" : "1118",
+    "club" : "Triathlon Team Düsseldorf e.V. III",
+    "swim" : "00:36:31",
+    "bike" : "01:25:25",
+    "run" : "00:54:55",
+    "finish" : "03:01:19"
+  }, {
+    "agePlace" : 66,
+    "name" : "Hentschel, Sonja",
+    "nation" : "GER",
+    "bib" : "1147",
+    "club" : "Lauf Team Unna",
+    "swim" : "00:26:47",
+    "bike" : "01:30:11",
+    "run" : "01:01:51",
+    "finish" : "03:03:46"
+  }, {
+    "agePlace" : 67,
+    "name" : "Kremser, Sebastian",
+    "nation" : "GER",
+    "bib" : "1119",
+    "club" : "Triathlon Team Düsseldorf e.V. III",
+    "swim" : "00:35:48",
+    "bike" : "01:25:04",
+    "run" : "00:59:01",
+    "finish" : "03:03:46"
+  }, {
+    "agePlace" : 68,
+    "name" : "Gährken, Michael",
+    "nation" : "GER",
+    "bib" : "1110",
+    "club" : "TV Werne 03 Wasserfreunde e.V. II",
+    "swim" : "00:33:34",
+    "bike" : "01:25:49",
+    "run" : "00:59:02",
+    "finish" : "03:04:05"
+  }, {
+    "agePlace" : 69,
+    "name" : "Abendroth-Pott, Volker",
+    "nation" : "GER",
+    "bib" : "1149",
+    "club" : "TSVE 1890 Bielefeld III",
+    "swim" : "00:28:48",
+    "bike" : "01:30:22",
+    "run" : "00:59:45",
+    "finish" : "03:05:09"
+  }, {
+    "agePlace" : 70,
+    "name" : "Biernacki, Cindy",
+    "nation" : "GER",
+    "bib" : "1143",
+    "club" : "TuS 09 Erkenschwick II",
+    "swim" : "00:33:45",
+    "bike" : "01:23:04",
+    "run" : "01:02:12",
+    "finish" : "03:05:48"
+  }, {
+    "agePlace" : 71,
+    "name" : "Schröder, Kimberly",
+    "nation" : "GER",
+    "bib" : "1123",
+    "club" : "SV Hullern 68",
+    "swim" : "00:29:31",
+    "bike" : "01:35:48",
+    "run" : "00:57:29",
+    "finish" : "03:06:25"
+  }, {
+    "agePlace" : 72,
+    "name" : "Vortmeier, Martin",
+    "nation" : "GER",
+    "bib" : "1144",
+    "club" : "TuS 09 Erkenschwick II",
+    "swim" : "00:29:25",
+    "bike" : "01:30:52",
+    "run" : "01:00:15",
+    "finish" : "03:06:59"
+  }, {
+    "agePlace" : 73,
+    "name" : "Lange, Thorben",
+    "nation" : "GER",
+    "bib" : "1124",
+    "club" : "SV Hullern 68",
+    "swim" : "00:32:37",
+    "bike" : "01:22:44",
+    "run" : "01:08:12",
+    "finish" : "03:07:09"
+  }, {
+    "agePlace" : 74,
+    "name" : "Willfroth, Carsten",
+    "nation" : "GER",
+    "bib" : "1112",
+    "club" : "TV Werne 03 Wasserfreunde e.V. II",
+    "swim" : "00:32:12",
+    "bike" : "01:24:49",
+    "run" : "01:04:35",
+    "finish" : "03:07:55"
+  }, {
+    "agePlace" : 75,
+    "name" : "Krill, Cornelia",
+    "nation" : "GER",
+    "bib" : "1117",
+    "club" : "Triathlon Team Düsseldorf e.V. III",
+    "swim" : "00:29:18",
+    "bike" : "01:27:39",
+    "run" : "01:06:11",
+    "finish" : "03:08:15"
+  }, {
+    "agePlace" : 76,
+    "name" : "Krause, Ulrich",
+    "nation" : "GER",
+    "bib" : "1132",
+    "club" : "Marathon-Club Menden II",
+    "swim" : "00:31:31",
+    "bike" : "01:25:03",
+    "run" : "01:05:51",
+    "finish" : "03:10:30"
+  }, {
+    "agePlace" : 77,
+    "name" : "Schmelzer, Stephanie",
+    "nation" : "GER",
+    "bib" : "1145",
+    "club" : "Lauf Team Unna",
+    "swim" : "00:35:35",
+    "bike" : "01:26:54",
+    "run" : "01:04:49",
+    "finish" : "03:12:25"
+  }, {
+    "agePlace" : 78,
+    "name" : "Kästner, David",
+    "nation" : "GER",
+    "bib" : "1138",
+    "club" : "mw1 Tri Team TG Lage",
+    "swim" : "00:34:58",
+    "bike" : "01:33:51",
+    "run" : "01:00:13",
+    "finish" : "03:13:13"
+  }, {
+    "agePlace" : 79,
+    "name" : "Wansing, Klaus",
+    "nation" : "GER",
+    "bib" : "1104",
+    "club" : "SuS Stadtlohn 19/20",
+    "swim" : "00:39:55",
+    "bike" : "01:28:44",
+    "run" : "00:57:58",
+    "finish" : "03:14:06"
+  }, {
+    "agePlace" : 80,
+    "name" : "Trompeter, Katharina",
+    "nation" : "GER",
+    "bib" : "1156",
+    "club" : "Soester Tri Team",
+    "swim" : "00:30:14",
+    "bike" : "01:34:03",
+    "run" : "01:10:52",
+    "finish" : "03:21:30"
+  }, {
+    "agePlace" : 81,
+    "name" : "Gerke, Pia-Marie",
+    "nation" : "GER",
+    "bib" : "1134",
+    "club" : "TriStar Oelde IV",
+    "swim" : "00:32:09",
+    "bike" : "01:43:52",
+    "run" : "01:02:09",
+    "finish" : "03:24:19"
+  }, {
+    "agePlace" : 82,
+    "name" : "Jürgensmeier, Christoph",
+    "nation" : "GER",
+    "bib" : "1150",
+    "club" : "TSVE 1890 Bielefeld III",
+    "swim" : "00:41:27",
+    "bike" : "01:38:28",
+    "run" : "01:12:05",
+    "finish" : "03:39:14"
+  } ]
+}
