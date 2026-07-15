@@ -91,6 +91,42 @@ Example questions:
 - *Who won the Mitteldistanz in 2025?*
 - *Were there results in 2020?* (→ Corona cancellation)
 
+## Running with Docker
+
+No local JDK/Maven needed — each app has a multi-stage Dockerfile (Maven build
+stage → slim JRE runtime) and `compose.yaml` wires them together:
+
+```bash
+cp .env.example .env         # then put your real OPENAI_API_KEY into .env
+docker compose up --build
+```
+
+- Management UI: <http://localhost:8080/> · Chat UI: <http://localhost:8081/>
+- Inside the compose network the client reaches the server at
+  `http://mcp-server:8080` (`MCP_SERVER_URL` is set in `compose.yaml`); the MCP
+  endpoint is `http://mcp-server:8080/mcp`.
+- The client starts only after the server passes its healthcheck, because it
+  discovers the MCP tools (and fetches the support contact) at startup.
+- Host ports can be overridden via `SERVER_PORT` / `CLIENT_PORT` in `.env` —
+  handy when 8080/8081 are taken by local `spring-boot:run` instances.
+
+### Distributing
+
+Recipients only need Docker and this repository — `docker compose up --build`
+builds and runs everything from source. To hand out prebuilt images instead:
+
+```bash
+docker compose build
+# push to a registry ...
+docker tag java-mcp-mcp-server <registry>/<namespace>/mcp-server:1.0.0
+docker tag java-mcp-mcp-client <registry>/<namespace>/mcp-client:1.0.0
+docker push <registry>/<namespace>/mcp-server:1.0.0
+docker push <registry>/<namespace>/mcp-client:1.0.0
+# ... or ship offline tarballs
+docker save -o mcp-showcase.tar java-mcp-mcp-server java-mcp-mcp-client
+docker load -i mcp-showcase.tar   # on the target machine
+```
+
 ## MCP traffic history
 
 The **History** tab of the management UI (<http://localhost:8080/history>)

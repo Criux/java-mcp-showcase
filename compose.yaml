@@ -1,0 +1,25 @@
+services:
+  mcp-server:
+    build: ./mcp-server
+    ports:
+      - "${SERVER_PORT:-8080}:8080"
+    healthcheck:
+      # temurin JRE image is Ubuntu-based: bash TCP probe, no curl needed
+      test: ["CMD", "bash", "-c", "exec 3<>/dev/tcp/localhost/8080"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+      start_period: 15s
+    restart: unless-stopped
+
+  mcp-client:
+    build: ./mcp-client
+    ports:
+      - "${CLIENT_PORT:-8081}:8081"
+    environment:
+      MCP_SERVER_URL: http://mcp-server:8080
+      OPENAI_API_KEY: ${OPENAI_API_KEY:?Set OPENAI_API_KEY in .env or the environment}
+    depends_on:
+      mcp-server:
+        condition: service_healthy
+    restart: unless-stopped

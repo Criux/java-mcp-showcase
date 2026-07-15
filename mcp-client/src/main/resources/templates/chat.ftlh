@@ -15,9 +15,23 @@
   header button { background: rgba(255,255,255,0.18); color: #fff; border: none; border-radius: 6px; padding: 0.35rem 0.8rem; cursor: pointer; font-size: 0.85rem; }
   main { flex: 1; max-width: 820px; width: 100%; margin: 0 auto; padding: 1.5rem; }
   .msg { margin-bottom: 1rem; display: flex; }
-  .msg .bubble { max-width: 85%; padding: 0.7rem 1rem; border-radius: 12px; white-space: pre-wrap; line-height: 1.45; font-size: 0.95rem; }
+  .msg .bubble { max-width: 85%; padding: 0.7rem 1rem; border-radius: 12px; line-height: 1.45; font-size: 0.95rem; overflow-wrap: anywhere; }
   .msg.user { justify-content: flex-end; }
-  .msg.user .bubble { background: var(--accent); color: #fff; border-bottom-right-radius: 4px; }
+  .msg.user .bubble { background: var(--accent); color: #fff; border-bottom-right-radius: 4px; white-space: pre-wrap; }
+  /* markdown content inside assistant bubbles */
+  .bubble > *:first-child { margin-top: 0; }
+  .bubble > *:last-child { margin-bottom: 0; }
+  .bubble p, .bubble ul, .bubble ol, .bubble pre, .bubble table, .bubble blockquote { margin: 0.5rem 0; }
+  .bubble ul, .bubble ol { padding-left: 1.3rem; }
+  .bubble li { margin: 0.15rem 0; }
+  .bubble h1, .bubble h2, .bubble h3, .bubble h4 { margin: 0.7rem 0 0.35rem; font-size: 1.02em; }
+  .bubble code { background: var(--accent-light); padding: 0.1rem 0.35rem; border-radius: 4px; font-size: 0.85em; }
+  .bubble pre { background: #f4f7f6; border: 1px solid var(--border); border-radius: 6px; padding: 0.6rem 0.8rem; overflow-x: auto; }
+  .bubble pre code { background: none; padding: 0; }
+  .bubble a { color: var(--accent); }
+  .bubble table { border-collapse: collapse; }
+  .bubble th, .bubble td { border: 1px solid var(--border); padding: 0.25rem 0.55rem; font-size: 0.88em; }
+  .bubble blockquote { border-left: 3px solid var(--border); padding-left: 0.7rem; color: var(--muted); }
   .msg.assistant .bubble { background: #fff; border: 1px solid var(--border); border-bottom-left-radius: 4px; }
   .msg.error .bubble { background: #fdeaea; border: 1px solid #e8b4b4; color: #8a2f2f; }
   .tools { margin-top: 0.5rem; display: flex; gap: 0.35rem; flex-wrap: wrap; }
@@ -75,6 +89,7 @@
     <button id="chat-send" type="submit">Send</button>
   </form>
 </div>
+<script src="/js/marked.min.js"></script>
 <script>
 <#noparse>
 (function () {
@@ -86,6 +101,13 @@
 
   function scrollDown() {
     window.scrollTo(0, document.body.scrollHeight);
+  }
+
+  // Renders assistant markdown to HTML. Raw HTML in the source is escaped
+  // first, so only markdown syntax can produce elements.
+  function renderMarkdown(text) {
+    const escaped = text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    return marked.parse(escaped, { gfm: true, breaks: true });
   }
 
   function addMessage(role) {
@@ -119,20 +141,24 @@
     return m;
   }
 
-  // Types the text into the bubble word by word.
+  // Types the text into the bubble word by word, re-rendering the
+  // accumulated markdown on every tick so formatting appears live.
   function typeText(m, role, text, tools) {
     m.msg.className = 'msg ' + role;
     m.bubble.textContent = '';
     const words = text.match(/\S+\s*/g) || [text];
+    let accumulated = '';
     let i = 0;
     const timer = setInterval(() => {
       if (i >= words.length) {
         clearInterval(timer);
+        m.bubble.innerHTML = renderMarkdown(text);
         addTools(m.inner, tools);
         scrollDown();
         return;
       }
-      m.bubble.textContent += words[i++];
+      accumulated += words[i++];
+      m.bubble.innerHTML = renderMarkdown(accumulated);
       scrollDown();
     }, TYPE_INTERVAL_MS);
   }
@@ -165,6 +191,12 @@
       send.disabled = false;
       input.focus();
     }
+  });
+
+  // Server-rendered history arrives as escaped plain text — convert the
+  // assistant/error bubbles to rendered markdown on load.
+  document.querySelectorAll('.msg.assistant .bubble, .msg.error .bubble').forEach((bubble) => {
+    bubble.innerHTML = renderMarkdown(bubble.textContent);
   });
 
   scrollDown();
